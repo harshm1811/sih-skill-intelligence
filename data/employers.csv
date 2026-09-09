@@ -1,0 +1,101 @@
+company_id,company_name,industry_sector,district,scale
+EMP001,Company_1,Information Technology,Nashik,Mid-Market
+EMP002,Company_2,Industrial Automation,Nashik,SME / Emerging
+EMP003,Company_3,Renewable Energy,Chhatrapati Sambhajinagar,Enterprise
+EMP004,Company_4,Logistics & Warehousing,Pune,Mid-Market
+EMP005,Company_5,Electronics & Hardware,Pune,SME / Emerging
+EMP006,Company_6,Digital Marketing & Media,Nagpur,Enterprise
+EMP007,Company_7,Automotive & EV,Mumbai,Mid-Market
+EMP008,Company_8,Information Technology,Mumbai,SME / Emerging
+EMP009,Company_9,Industrial Automation,Chhatrapati Sambhajinagar,Enterprise
+EMP010,Company_10,Renewable Energy,Nagpur,Mid-Market
+EMP011,Company_11,Logistics & Warehousing,Mumbai,SME / Emerging
+EMP012,Company_12,Electronics & Hardware,Mumbai,Enterprise
+EMP013,Company_13,Digital Marketing & Media,Chhatrapati Sambhajinagar,Mid-Market
+EMP014,Company_14,Automotive & EV,Nagpur,SME / Emerging
+EMP015,Company_15,Information Technology,Mumbai,Enterprise
+EMP016,Company_16,Industrial Automation,Nashik,Mid-Market
+EMP017,Company_17,Renewable Energy,Pune,SME / Emerging
+EMP018,Company_18,Logistics & Warehousing,Mumbai,Enterprise
+EMP019,Company_19,Electronics & Hardware,Mumbai,Mid-Market
+EMP020,Company_20,Digital Marketing & Media,Nashik,SME / Emerging
+EMP021,Company_21,Automotive & EV,Chhatrapati Sambhajinagar,Enterprise
+EMP022,Company_22,Information Technology,Mumbai,Mid-Market
+EMP023,Company_23,Industrial Automation,Mumbai,SME / Emerging
+EMP024,Company_24,Renewable Energy,Chhatrapati Sambhajinagar,Enterprise
+EMP025,Company_25,Logistics & Warehousing,Chhatrapati Sambhajinagar,Mid-Market
+EMP026,Company_26,Electronics & Hardware,Nagpur,SME / Emerging
+EMP027,Company_27,Digital Marketing & Media,Mumbai,Enterprise
+EMP028,Company_28,Automotive & EV,Chhatrapati Sambhajinagar,Mid-Market
+EMP029,Company_29,Information Technology,Nashik,SME / Emerging
+EMP030,Company_30,Industrial Automation,Mumbai,Enterprise
+EMP031,Company_31,Renewable Energy,Chhatrapati Sambhajinagar,Mid-Market
+EMP032,Company_32,Logistics & Warehousing,Chhatrapati Sambhajinagar,SME / Emerging
+EMP033,Company_33,Electronics & Hardware,Nashik,Enterprise
+EMP034,Company_34,Digital Marketing & Media,Chhatrapati Sambhajinagar,Mid-Market
+EMP035,Company_35,Automotive & EV,Nashik,SME / Emerging
+EMP036,Company_36,Information Technology,Nashik,Enterprise
+EMP037,Company_37,Industrial Automation,Nagpur,Mid-Market
+EMP038,Company_38,Renewable Energy,Nashik,SME / Emerging
+EMP039,Company_39,Logistics & Warehousing,Pune,Enterprise
+EMP040,Company_40,Electronics & Hardware,Nagpur,Mid-Market
+EMP041,Company_41,Digital Marketing & Media,Chhatrapati Sambhajinagar,SME / Emerging
+EMP042,Company_42,Automotive & EV,Mumbai,Enterprise
+EMP043,Company_43,Information Technology,Pune,Mid-Market
+EMP044,Company_44,Industrial Automation,Mumbai,SME / Emerging
+EMP045,Company_45,Renewable Energy,Chhatrapati Sambhajinagar,Enterprise
+EMP046,Company_46,Logistics & Warehousing,Nashik,Mid-Market
+EMP047,Company_47,Electronics & Hardware,Mumbai,SME / Emerging
+EMP048,Company_48,Digital Marketing & Media,Nashik,Enterprise
+EMP049,Company_49,Automotive & EV,Mumbai,Mid-Market
+EMP050,Company_50,Information Technology,Mumbai,SME / Emerging
+EMP051,Company_51,Industrial Automation,Nashik,Enterprise
+EMP052,Company_52,Renewable Energy,Nagpur,Mid-Market
+EMP053,Company_53,Logistics & Warehousing,Nashik,SME / Emerging
+EMP054,Company_54,Electronics & Hardware,Mumbai,Enterprise
+EMP055,Company_55,Digital Marketing & Media,Nagpur,Mid-Market
+EMP056,Company_56,Automotive & EV,Chhatrapati Sambhajinagar,SME / Emerging
+EMP057,Company_57,Information Technology,Pune,Enterprise
+EMP058,Company_58,Industrial Automation,Nashik,Mid-Market
+EMP059,Company_59,Renewable Energy,Nashik,SME / Emerging
+EMP060,Company_60,Logistics & Warehousing,Nashik,Enterprise
+EMP061,Company_61,Electronics & Hardware,Mumbai,Mid-Market
+EMP062,Company_62,Digital Marketing & Media,Nashik,SME / Emerging
+EMP063,Company_63,Automotive & EV,Pune,Enterprise
+EMP064,Company_64,Information Technology,Chhatrapati Sambhajinagar,Mid-Market
+EMP065,Company_65,Industrial Automation,Nagpur,SME / Emerging
+EMP066,Company_66,Renewable Energy,Chhatrapati Sambhajinagar,Enterprise
+EMP067,Company_67,Logistics & Warehousing,Pune,Mid-Market
+EMP068,Company_68,Electronics & Hardware,Pune,SME / Emerging
+EMP069,Company_69,Digital Marketing & Media,Mumbai,Enterprise
+EMP070,Company_70,Automotive & EV,Mumbai,Mid-Market
+EMP071,Company_71,Information Technology,Nashik,SME / Emerging
+EMP072,Company_72,Industrial Automation,Nagpur,Enterprise
+EMP073,Company_73,Renewable Energy,Chhatrapati Sambhajinagar,Mid-Market
+EMP074,Company_74,Logistics & Warehousing,Nashik,SME / Emerging
+EMP075,Company_75,Electronics & Hardware,Pune,Enterprise
+EMP076,Company_76,Digital Marketing & Media,Chhatrapati Sambhajinagar,Mid-Market
+EMP077,Company_77,Automotive & EV,Nagpur,SME / Emerging
+EMP078,Company_78,Information Technology,Chhatrapati Sambhajinagar,Enterprise
+EMP079,Company_79,Industrial Automation,Chhatrapati Sambhajinagar,Mid-Market
+EMP080,Company_80,Renewable Energy,Nagpur,SME / Emerging
+EMP081,Company_81,Logistics & Warehousing,Nagpur,Enterprise
+EMP082,Company_82,Electronics & Hardware,Chhatrapati Sambhajinagar,Mid-Market
+EMP083,Company_83,Digital Marketing & Media,Nashik,SME / Emerging
+EMP084,Company_84,Automotive & EV,Chhatrapati Sambhajinagar,Enterprise
+EMP085,Company_85,Information Technology,Mumbai,Mid-Market
+EMP086,Company_86,Industrial Automation,Chhatrapati Sambhajinagar,SME / Emerging
+EMP087,Company_87,Renewable Energy,Pune,Enterprise
+EMP088,Company_88,Logistics & Warehousing,Pune,Mid-Market
+EMP089,Company_89,Electronics & Hardware,Nagpur,SME / Emerging
+EMP090,Company_90,Digital Marketing & Media,Nagpur,Enterprise
+EMP091,Company_91,Automotive & EV,Nagpur,Mid-Market
+EMP092,Company_92,Information Technology,Mumbai,SME / Emerging
+EMP093,Company_93,Industrial Automation,Nashik,Enterprise
+EMP094,Company_94,Renewable Energy,Mumbai,Mid-Market
+EMP095,Company_95,Logistics & Warehousing,Nagpur,SME / Emerging
+EMP096,Company_96,Electronics & Hardware,Chhatrapati Sambhajinagar,Enterprise
+EMP097,Company_97,Digital Marketing & Media,Chhatrapati Sambhajinagar,Mid-Market
+EMP098,Company_98,Automotive & EV,Chhatrapati Sambhajinagar,SME / Emerging
+EMP099,Company_99,Information Technology,Chhatrapati Sambhajinagar,Enterprise
+EMP100,Company_100,Industrial Automation,Nagpur,Mid-Market

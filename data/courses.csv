@@ -1,0 +1,16 @@
+course_id,course_name,district,capacity,completion_rate,placement_rate
+C001,MERN Stack Bootcamp,Chhatrapati Sambhajinagar,142,0.73,0.58
+C002,Data Science & Analytics,Chhatrapati Sambhajinagar,48,0.78,0.7
+C003,EV Servicing Certification,Mumbai,72,0.77,0.62
+C004,Renewable Energy Systems,Mumbai,60,0.95,0.85
+C005,Modern Logistics & SAP,Nagpur,103,0.89,0.85
+C006,Industrial Automation & PLC,Nashik,111,0.65,0.87
+C007,Cloud Computing Mastery,Nashik,114,0.61,0.53
+C008,Digital Marketing Pro,Mumbai,60,0.66,0.52
+C009,Warehouse Operations,Pune,122,0.79,0.54
+C010,Advanced Robotics tech,Nashik,132,0.75,0.6
+C011,C++ & Algorithms,Nashik,89,0.9,0.79
+C012,Backend with FastAPI,Nagpur,78,0.79,0.78
+C013,Frontend with React,Chhatrapati Sambhajinagar,39,0.65,0.86
+C014,Electronics & Microprocessors,Nagpur,48,0.62,0.66
+C015,IoT & Sensor Networks,Mumbai,66,0.71,0.82

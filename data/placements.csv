@@ -1,0 +1,671 @@
+placement_id,course_id,student_id,company_name,role,salary_offered,district,placement_year
+P0001,C001,STU_C001_001,Company_13,Full Stack Developer,517253,Chhatrapati Sambhajinagar,2026
+P0002,C001,STU_C001_002,Company_21,Full Stack Developer,469630,Chhatrapati Sambhajinagar,2026
+P0003,C001,STU_C001_003,Company_24,Full Stack Developer,528576,Chhatrapati Sambhajinagar,2026
+P0004,C001,STU_C001_004,Company_25,Full Stack Developer,594227,Chhatrapati Sambhajinagar,2026
+P0005,C001,STU_C001_005,Company_28,Full Stack Developer,462438,Chhatrapati Sambhajinagar,2026
+P0006,C001,STU_C001_006,Company_31,Full Stack Developer,462439,Chhatrapati Sambhajinagar,2026
+P0007,C001,STU_C001_007,Company_32,Full Stack Developer,598440,Chhatrapati Sambhajinagar,2026
+P0008,C001,STU_C001_008,Company_34,Full Stack Developer,537557,Chhatrapati Sambhajinagar,2026
+P0009,C001,STU_C001_009,Company_41,Full Stack Developer,444789,Chhatrapati Sambhajinagar,2026
+P0010,C001,STU_C001_010,Company_45,Full Stack Developer,520692,Chhatrapati Sambhajinagar,2026
+P0011,C001,STU_C001_011,Company_56,Full Stack Developer,445243,Chhatrapati Sambhajinagar,2026
+P0012,C001,STU_C001_012,Company_64,Full Stack Developer,445070,Chhatrapati Sambhajinagar,2026
+P0013,C001,STU_C001_013,Company_66,Full Stack Developer,498147,Chhatrapati Sambhajinagar,2026
+P0014,C001,STU_C001_014,Company_73,Full Stack Developer,336503,Chhatrapati Sambhajinagar,2026
+P0015,C001,STU_C001_015,Company_76,Full Stack Developer,350631,Chhatrapati Sambhajinagar,2026
+P0016,C001,STU_C001_016,Company_78,Full Stack Developer,437828,Chhatrapati Sambhajinagar,2026
+P0017,C001,STU_C001_017,Company_79,Full Stack Developer,404037,Chhatrapati Sambhajinagar,2026
+P0018,C001,STU_C001_018,Company_82,Full Stack Developer,503568,Chhatrapati Sambhajinagar,2026
+P0019,C001,STU_C001_019,Company_84,Full Stack Developer,411898,Chhatrapati Sambhajinagar,2026
+P0020,C001,STU_C001_020,Company_86,Full Stack Developer,374077,Chhatrapati Sambhajinagar,2026
+P0021,C001,STU_C001_021,Company_96,Full Stack Developer,589923,Chhatrapati Sambhajinagar,2026
+P0022,C001,STU_C001_022,Company_97,Full Stack Developer,463066,Chhatrapati Sambhajinagar,2026
+P0023,C001,STU_C001_023,Company_98,Full Stack Developer,485064,Chhatrapati Sambhajinagar,2026
+P0024,C001,STU_C001_024,Company_99,Full Stack Developer,373143,Chhatrapati Sambhajinagar,2026
+P0025,C001,STU_C001_025,Company_3,Full Stack Developer,439171,Chhatrapati Sambhajinagar,2026
+P0026,C001,STU_C001_026,Company_9,Full Stack Developer,488319,Chhatrapati Sambhajinagar,2026
+P0027,C001,STU_C001_027,Company_13,Full Stack Developer,393675,Chhatrapati Sambhajinagar,2026
+P0028,C001,STU_C001_028,Company_21,Full Stack Developer,508177,Chhatrapati Sambhajinagar,2026
+P0029,C001,STU_C001_029,Company_24,Full Stack Developer,434952,Chhatrapati Sambhajinagar,2026
+P0030,C001,STU_C001_030,Company_25,Full Stack Developer,458122,Chhatrapati Sambhajinagar,2026
+P0031,C001,STU_C001_031,Company_28,Full Stack Developer,434872,Chhatrapati Sambhajinagar,2026
+P0032,C001,STU_C001_032,Company_31,Full Stack Developer,618920,Chhatrapati Sambhajinagar,2026
+P0033,C001,STU_C001_033,Company_32,Full Stack Developer,478987,Chhatrapati Sambhajinagar,2026
+P0034,C001,STU_C001_034,Company_34,Full Stack Developer,400671,Chhatrapati Sambhajinagar,2026
+P0035,C001,STU_C001_035,Company_41,Full Stack Developer,541690,Chhatrapati Sambhajinagar,2026
+P0036,C001,STU_C001_036,Company_45,Full Stack Developer,388436,Chhatrapati Sambhajinagar,2026
+P0037,C001,STU_C001_037,Company_56,Full Stack Developer,495664,Chhatrapati Sambhajinagar,2026
+P0038,C001,STU_C001_038,Company_64,Full Stack Developer,333024,Chhatrapati Sambhajinagar,2026
+P0039,C001,STU_C001_039,Company_66,Full Stack Developer,380386,Chhatrapati Sambhajinagar,2026
+P0040,C001,STU_C001_040,Company_73,Full Stack Developer,494764,Chhatrapati Sambhajinagar,2026
+P0041,C001,STU_C001_041,Company_76,Full Stack Developer,535384,Chhatrapati Sambhajinagar,2026
+P0042,C001,STU_C001_042,Company_78,Full Stack Developer,492852,Chhatrapati Sambhajinagar,2026
+P0043,C001,STU_C001_043,Company_79,Full Stack Developer,471326,Chhatrapati Sambhajinagar,2026
+P0044,C001,STU_C001_044,Company_82,Full Stack Developer,457417,Chhatrapati Sambhajinagar,2026
+P0045,C001,STU_C001_045,Company_84,Full Stack Developer,369110,Chhatrapati Sambhajinagar,2026
+P0046,C001,STU_C001_046,Company_86,Full Stack Developer,426011,Chhatrapati Sambhajinagar,2026
+P0047,C001,STU_C001_047,Company_96,Full Stack Developer,445452,Chhatrapati Sambhajinagar,2026
+P0048,C001,STU_C001_048,Company_97,Full Stack Developer,559284,Chhatrapati Sambhajinagar,2026
+P0049,C001,STU_C001_049,Company_98,Full Stack Developer,505771,Chhatrapati Sambhajinagar,2026
+P0050,C001,STU_C001_050,Company_99,Full Stack Developer,347771,Chhatrapati Sambhajinagar,2026
+P0051,C001,STU_C001_051,Company_3,Full Stack Developer,504306,Chhatrapati Sambhajinagar,2026
+P0052,C001,STU_C001_052,Company_9,Full Stack Developer,451118,Chhatrapati Sambhajinagar,2026
+P0053,C001,STU_C001_053,Company_13,Full Stack Developer,429230,Chhatrapati Sambhajinagar,2026
+P0054,C001,STU_C001_054,Company_21,Full Stack Developer,525875,Chhatrapati Sambhajinagar,2026
+P0055,C001,STU_C001_055,Company_24,Full Stack Developer,557324,Chhatrapati Sambhajinagar,2026
+P0056,C001,STU_C001_056,Company_25,Full Stack Developer,549846,Chhatrapati Sambhajinagar,2026
+P0057,C001,STU_C001_057,Company_28,Full Stack Developer,417058,Chhatrapati Sambhajinagar,2026
+P0058,C001,STU_C001_058,Company_31,Full Stack Developer,456809,Chhatrapati Sambhajinagar,2026
+P0059,C001,STU_C001_059,Company_32,Full Stack Developer,504844,Chhatrapati Sambhajinagar,2026
+P0060,C001,STU_C001_060,Company_34,Full Stack Developer,553165,Chhatrapati Sambhajinagar,2026
+P0061,C002,STU_C002_001,Company_21,Data Analyst,444061,Chhatrapati Sambhajinagar,2026
+P0062,C002,STU_C002_002,Company_24,Data Analyst,466075,Chhatrapati Sambhajinagar,2026
+P0063,C002,STU_C002_003,Company_25,Data Analyst,397024,Chhatrapati Sambhajinagar,2026
+P0064,C002,STU_C002_004,Company_28,Data Analyst,390284,Chhatrapati Sambhajinagar,2026
+P0065,C002,STU_C002_005,Company_31,Data Analyst,540939,Chhatrapati Sambhajinagar,2026
+P0066,C002,STU_C002_006,Company_32,Data Analyst,581718,Chhatrapati Sambhajinagar,2026
+P0067,C002,STU_C002_007,Company_34,Data Analyst,474599,Chhatrapati Sambhajinagar,2026
+P0068,C002,STU_C002_008,Company_41,Data Analyst,555264,Chhatrapati Sambhajinagar,2026
+P0069,C002,STU_C002_009,Company_45,Data Analyst,507122,Chhatrapati Sambhajinagar,2026
+P0070,C002,STU_C002_010,Company_56,Data Analyst,431616,Chhatrapati Sambhajinagar,2026
+P0071,C002,STU_C002_011,Company_64,Data Analyst,507104,Chhatrapati Sambhajinagar,2026
+P0072,C002,STU_C002_012,Company_66,Data Analyst,595352,Chhatrapati Sambhajinagar,2026
+P0073,C002,STU_C002_013,Company_73,Data Analyst,477313,Chhatrapati Sambhajinagar,2026
+P0074,C002,STU_C002_014,Company_76,Data Analyst,597348,Chhatrapati Sambhajinagar,2026
+P0075,C002,STU_C002_015,Company_78,Data Analyst,320000,Chhatrapati Sambhajinagar,2026
+P0076,C002,STU_C002_016,Company_79,Data Analyst,541642,Chhatrapati Sambhajinagar,2026
+P0077,C002,STU_C002_017,Company_82,Data Analyst,486528,Chhatrapati Sambhajinagar,2026
+P0078,C002,STU_C002_018,Company_84,Data Analyst,457574,Chhatrapati Sambhajinagar,2026
+P0079,C002,STU_C002_019,Company_86,Data Analyst,486882,Chhatrapati Sambhajinagar,2026
+P0080,C002,STU_C002_020,Company_96,Data Analyst,330932,Chhatrapati Sambhajinagar,2026
+P0081,C002,STU_C002_021,Company_97,Data Analyst,463524,Chhatrapati Sambhajinagar,2026
+P0082,C002,STU_C002_022,Company_98,Data Analyst,506783,Chhatrapati Sambhajinagar,2026
+P0083,C002,STU_C002_023,Company_99,Data Analyst,590842,Chhatrapati Sambhajinagar,2026
+P0084,C002,STU_C002_024,Company_3,Data Analyst,441129,Chhatrapati Sambhajinagar,2026
+P0085,C002,STU_C002_025,Company_9,Data Analyst,419362,Chhatrapati Sambhajinagar,2026
+P0086,C002,STU_C002_026,Company_13,Data Analyst,442368,Chhatrapati Sambhajinagar,2026
+P0087,C003,STU_C003_001,Company_15,EV Battery Technician,548655,Mumbai,2026
+P0088,C003,STU_C003_002,Company_18,EV Battery Technician,504656,Mumbai,2026
+P0089,C003,STU_C003_003,Company_19,EV Battery Technician,440267,Mumbai,2026
+P0090,C003,STU_C003_004,Company_22,EV Battery Technician,518495,Mumbai,2026
+P0091,C003,STU_C003_005,Company_23,EV Battery Technician,487280,Mumbai,2026
+P0092,C003,STU_C003_006,Company_27,EV Battery Technician,552648,Mumbai,2026
+P0093,C003,STU_C003_007,Company_30,EV Battery Technician,427346,Mumbai,2026
+P0094,C003,STU_C003_008,Company_42,EV Battery Technician,455425,Mumbai,2026
+P0095,C003,STU_C003_009,Company_44,EV Battery Technician,450591,Mumbai,2026
+P0096,C003,STU_C003_010,Company_47,EV Battery Technician,370236,Mumbai,2026
+P0097,C003,STU_C003_011,Company_49,EV Battery Technician,502209,Mumbai,2026
+P0098,C003,STU_C003_012,Company_50,EV Battery Technician,499579,Mumbai,2026
+P0099,C003,STU_C003_013,Company_54,EV Battery Technician,480383,Mumbai,2026
+P0100,C003,STU_C003_014,Company_61,EV Battery Technician,462405,Mumbai,2026
+P0101,C003,STU_C003_015,Company_69,EV Battery Technician,373847,Mumbai,2026
+P0102,C003,STU_C003_016,Company_70,EV Battery Technician,448451,Mumbai,2026
+P0103,C003,STU_C003_017,Company_85,EV Battery Technician,454296,Mumbai,2026
+P0104,C003,STU_C003_018,Company_92,EV Battery Technician,419829,Mumbai,2026
+P0105,C003,STU_C003_019,Company_94,EV Battery Technician,467903,Mumbai,2026
+P0106,C003,STU_C003_020,Company_7,EV Battery Technician,510303,Mumbai,2026
+P0107,C003,STU_C003_021,Company_8,EV Battery Technician,621463,Mumbai,2026
+P0108,C003,STU_C003_022,Company_11,EV Battery Technician,493093,Mumbai,2026
+P0109,C003,STU_C003_023,Company_12,EV Battery Technician,499316,Mumbai,2026
+P0110,C003,STU_C003_024,Company_15,EV Battery Technician,474416,Mumbai,2026
+P0111,C003,STU_C003_025,Company_18,EV Battery Technician,336092,Mumbai,2026
+P0112,C003,STU_C003_026,Company_19,EV Battery Technician,478011,Mumbai,2026
+P0113,C003,STU_C003_027,Company_22,EV Battery Technician,484517,Mumbai,2026
+P0114,C003,STU_C003_028,Company_23,EV Battery Technician,664743,Mumbai,2026
+P0115,C003,STU_C003_029,Company_27,EV Battery Technician,465572,Mumbai,2026
+P0116,C003,STU_C003_030,Company_30,EV Battery Technician,502616,Mumbai,2026
+P0117,C003,STU_C003_031,Company_42,EV Battery Technician,477396,Mumbai,2026
+P0118,C003,STU_C003_032,Company_44,EV Battery Technician,392349,Mumbai,2026
+P0119,C003,STU_C003_033,Company_47,EV Battery Technician,565711,Mumbai,2026
+P0120,C003,STU_C003_034,Company_49,EV Battery Technician,536394,Mumbai,2026
+P0121,C004,STU_C004_001,Company_18,Solar Grid Engineer,539327,Mumbai,2026
+P0122,C004,STU_C004_002,Company_19,Solar Grid Engineer,411795,Mumbai,2026
+P0123,C004,STU_C004_003,Company_22,Solar Grid Engineer,585209,Mumbai,2026
+P0124,C004,STU_C004_004,Company_23,Solar Grid Engineer,374861,Mumbai,2026
+P0125,C004,STU_C004_005,Company_27,Solar Grid Engineer,524014,Mumbai,2026
+P0126,C004,STU_C004_006,Company_30,Solar Grid Engineer,644284,Mumbai,2026
+P0127,C004,STU_C004_007,Company_42,Solar Grid Engineer,405709,Mumbai,2026
+P0128,C004,STU_C004_008,Company_44,Solar Grid Engineer,437527,Mumbai,2026
+P0129,C004,STU_C004_009,Company_47,Solar Grid Engineer,487473,Mumbai,2026
+P0130,C004,STU_C004_010,Company_49,Solar Grid Engineer,442239,Mumbai,2026
+P0131,C004,STU_C004_011,Company_50,Solar Grid Engineer,363700,Mumbai,2026
+P0132,C004,STU_C004_012,Company_54,Solar Grid Engineer,485142,Mumbai,2026
+P0133,C004,STU_C004_013,Company_61,Solar Grid Engineer,400327,Mumbai,2026
+P0134,C004,STU_C004_014,Company_69,Solar Grid Engineer,515519,Mumbai,2026
+P0135,C004,STU_C004_015,Company_70,Solar Grid Engineer,411043,Mumbai,2026
+P0136,C004,STU_C004_016,Company_85,Solar Grid Engineer,596245,Mumbai,2026
+P0137,C004,STU_C004_017,Company_92,Solar Grid Engineer,421256,Mumbai,2026
+P0138,C004,STU_C004_018,Company_94,Solar Grid Engineer,455845,Mumbai,2026
+P0139,C004,STU_C004_019,Company_7,Solar Grid Engineer,541013,Mumbai,2026
+P0140,C004,STU_C004_020,Company_8,Solar Grid Engineer,387685,Mumbai,2026
+P0141,C004,STU_C004_021,Company_11,Solar Grid Engineer,497059,Mumbai,2026
+P0142,C004,STU_C004_022,Company_12,Solar Grid Engineer,578035,Mumbai,2026
+P0143,C004,STU_C004_023,Company_15,Solar Grid Engineer,359438,Mumbai,2026
+P0144,C004,STU_C004_024,Company_18,Solar Grid Engineer,493847,Mumbai,2026
+P0145,C004,STU_C004_025,Company_19,Solar Grid Engineer,499491,Mumbai,2026
+P0146,C004,STU_C004_026,Company_22,Solar Grid Engineer,538636,Mumbai,2026
+P0147,C004,STU_C004_027,Company_23,Solar Grid Engineer,387228,Mumbai,2026
+P0148,C004,STU_C004_028,Company_27,Solar Grid Engineer,380965,Mumbai,2026
+P0149,C004,STU_C004_029,Company_30,Solar Grid Engineer,519145,Mumbai,2026
+P0150,C004,STU_C004_030,Company_42,Solar Grid Engineer,502273,Mumbai,2026
+P0151,C004,STU_C004_031,Company_44,Solar Grid Engineer,498786,Mumbai,2026
+P0152,C004,STU_C004_032,Company_47,Solar Grid Engineer,505983,Mumbai,2026
+P0153,C004,STU_C004_033,Company_49,Solar Grid Engineer,428998,Mumbai,2026
+P0154,C004,STU_C004_034,Company_50,Solar Grid Engineer,497419,Mumbai,2026
+P0155,C004,STU_C004_035,Company_54,Solar Grid Engineer,501980,Mumbai,2026
+P0156,C004,STU_C004_036,Company_61,Solar Grid Engineer,426423,Mumbai,2026
+P0157,C004,STU_C004_037,Company_69,Solar Grid Engineer,619933,Mumbai,2026
+P0158,C004,STU_C004_038,Company_70,Solar Grid Engineer,515537,Mumbai,2026
+P0159,C004,STU_C004_039,Company_85,Solar Grid Engineer,390652,Mumbai,2026
+P0160,C004,STU_C004_040,Company_92,Solar Grid Engineer,529241,Mumbai,2026
+P0161,C004,STU_C004_041,Company_94,Solar Grid Engineer,406898,Mumbai,2026
+P0162,C004,STU_C004_042,Company_7,Solar Grid Engineer,539031,Mumbai,2026
+P0163,C004,STU_C004_043,Company_8,Solar Grid Engineer,566894,Mumbai,2026
+P0164,C004,STU_C004_044,Company_11,Solar Grid Engineer,418448,Mumbai,2026
+P0165,C004,STU_C004_045,Company_12,Solar Grid Engineer,552253,Mumbai,2026
+P0166,C004,STU_C004_046,Company_15,Solar Grid Engineer,510958,Mumbai,2026
+P0167,C004,STU_C004_047,Company_18,Solar Grid Engineer,541654,Mumbai,2026
+P0168,C004,STU_C004_048,Company_19,Solar Grid Engineer,622259,Mumbai,2026
+P0169,C005,STU_C005_001,Company_52,Supply Chain Coordinator,461595,Nagpur,2026
+P0170,C005,STU_C005_002,Company_55,Supply Chain Coordinator,423469,Nagpur,2026
+P0171,C005,STU_C005_003,Company_65,Supply Chain Coordinator,413286,Nagpur,2026
+P0172,C005,STU_C005_004,Company_72,Supply Chain Coordinator,418814,Nagpur,2026
+P0173,C005,STU_C005_005,Company_77,Supply Chain Coordinator,474217,Nagpur,2026
+P0174,C005,STU_C005_006,Company_80,Supply Chain Coordinator,505586,Nagpur,2026
+P0175,C005,STU_C005_007,Company_81,Supply Chain Coordinator,500751,Nagpur,2026
+P0176,C005,STU_C005_008,Company_89,Supply Chain Coordinator,542038,Nagpur,2026
+P0177,C005,STU_C005_009,Company_90,Supply Chain Coordinator,480975,Nagpur,2026
+P0178,C005,STU_C005_010,Company_91,Supply Chain Coordinator,589015,Nagpur,2026
+P0179,C005,STU_C005_011,Company_95,Supply Chain Coordinator,460150,Nagpur,2026
+P0180,C005,STU_C005_012,Company_100,Supply Chain Coordinator,684012,Nagpur,2026
+P0181,C005,STU_C005_013,Company_6,Supply Chain Coordinator,526925,Nagpur,2026
+P0182,C005,STU_C005_014,Company_10,Supply Chain Coordinator,415713,Nagpur,2026
+P0183,C005,STU_C005_015,Company_14,Supply Chain Coordinator,399683,Nagpur,2026
+P0184,C005,STU_C005_016,Company_26,Supply Chain Coordinator,516185,Nagpur,2026
+P0185,C005,STU_C005_017,Company_37,Supply Chain Coordinator,463240,Nagpur,2026
+P0186,C005,STU_C005_018,Company_40,Supply Chain Coordinator,533550,Nagpur,2026
+P0187,C005,STU_C005_019,Company_52,Supply Chain Coordinator,515492,Nagpur,2026
+P0188,C005,STU_C005_020,Company_55,Supply Chain Coordinator,474537,Nagpur,2026
+P0189,C005,STU_C005_021,Company_65,Supply Chain Coordinator,416490,Nagpur,2026
+P0190,C005,STU_C005_022,Company_72,Supply Chain Coordinator,366386,Nagpur,2026
+P0191,C005,STU_C005_023,Company_77,Supply Chain Coordinator,446511,Nagpur,2026
+P0192,C005,STU_C005_024,Company_80,Supply Chain Coordinator,544229,Nagpur,2026
+P0193,C005,STU_C005_025,Company_81,Supply Chain Coordinator,496057,Nagpur,2026
+P0194,C005,STU_C005_026,Company_89,Supply Chain Coordinator,386569,Nagpur,2026
+P0195,C005,STU_C005_027,Company_90,Supply Chain Coordinator,492988,Nagpur,2026
+P0196,C005,STU_C005_028,Company_91,Supply Chain Coordinator,508898,Nagpur,2026
+P0197,C005,STU_C005_029,Company_95,Supply Chain Coordinator,413710,Nagpur,2026
+P0198,C005,STU_C005_030,Company_100,Supply Chain Coordinator,491529,Nagpur,2026
+P0199,C005,STU_C005_031,Company_6,Supply Chain Coordinator,484365,Nagpur,2026
+P0200,C005,STU_C005_032,Company_10,Supply Chain Coordinator,394277,Nagpur,2026
+P0201,C005,STU_C005_033,Company_14,Supply Chain Coordinator,506834,Nagpur,2026
+P0202,C005,STU_C005_034,Company_26,Supply Chain Coordinator,522058,Nagpur,2026
+P0203,C005,STU_C005_035,Company_37,Supply Chain Coordinator,561228,Nagpur,2026
+P0204,C005,STU_C005_036,Company_40,Supply Chain Coordinator,559035,Nagpur,2026
+P0205,C005,STU_C005_037,Company_52,Supply Chain Coordinator,376674,Nagpur,2026
+P0206,C005,STU_C005_038,Company_55,Supply Chain Coordinator,409663,Nagpur,2026
+P0207,C005,STU_C005_039,Company_65,Supply Chain Coordinator,518627,Nagpur,2026
+P0208,C005,STU_C005_040,Company_72,Supply Chain Coordinator,518533,Nagpur,2026
+P0209,C005,STU_C005_041,Company_77,Supply Chain Coordinator,518628,Nagpur,2026
+P0210,C005,STU_C005_042,Company_80,Supply Chain Coordinator,768954,Nagpur,2026
+P0211,C005,STU_C005_043,Company_81,Supply Chain Coordinator,522816,Nagpur,2026
+P0212,C005,STU_C005_044,Company_89,Supply Chain Coordinator,565167,Nagpur,2026
+P0213,C005,STU_C005_045,Company_90,Supply Chain Coordinator,551550,Nagpur,2026
+P0214,C005,STU_C005_046,Company_91,Supply Chain Coordinator,528854,Nagpur,2026
+P0215,C005,STU_C005_047,Company_95,Supply Chain Coordinator,456354,Nagpur,2026
+P0216,C005,STU_C005_048,Company_100,Supply Chain Coordinator,536922,Nagpur,2026
+P0217,C005,STU_C005_049,Company_6,Supply Chain Coordinator,422038,Nagpur,2026
+P0218,C005,STU_C005_050,Company_10,Supply Chain Coordinator,462238,Nagpur,2026
+P0219,C005,STU_C005_051,Company_14,Supply Chain Coordinator,443597,Nagpur,2026
+P0220,C005,STU_C005_052,Company_26,Supply Chain Coordinator,486140,Nagpur,2026
+P0221,C005,STU_C005_053,Company_37,Supply Chain Coordinator,653599,Nagpur,2026
+P0222,C005,STU_C005_054,Company_40,Supply Chain Coordinator,339955,Nagpur,2026
+P0223,C005,STU_C005_055,Company_52,Supply Chain Coordinator,531469,Nagpur,2026
+P0224,C005,STU_C005_056,Company_55,Supply Chain Coordinator,359046,Nagpur,2026
+P0225,C005,STU_C005_057,Company_65,Supply Chain Coordinator,444605,Nagpur,2026
+P0226,C005,STU_C005_058,Company_72,Supply Chain Coordinator,561671,Nagpur,2026
+P0227,C005,STU_C005_059,Company_77,Supply Chain Coordinator,484821,Nagpur,2026
+P0228,C005,STU_C005_060,Company_80,Supply Chain Coordinator,399169,Nagpur,2026
+P0229,C005,STU_C005_061,Company_81,Supply Chain Coordinator,426352,Nagpur,2026
+P0230,C005,STU_C005_062,Company_89,Supply Chain Coordinator,530969,Nagpur,2026
+P0231,C005,STU_C005_063,Company_90,Supply Chain Coordinator,425222,Nagpur,2026
+P0232,C005,STU_C005_064,Company_91,Supply Chain Coordinator,496234,Nagpur,2026
+P0233,C005,STU_C005_065,Company_95,Supply Chain Coordinator,483417,Nagpur,2026
+P0234,C005,STU_C005_066,Company_100,Supply Chain Coordinator,431129,Nagpur,2026
+P0235,C005,STU_C005_067,Company_6,Supply Chain Coordinator,640795,Nagpur,2026
+P0236,C005,STU_C005_068,Company_10,Supply Chain Coordinator,527543,Nagpur,2026
+P0237,C005,STU_C005_069,Company_14,Supply Chain Coordinator,328114,Nagpur,2026
+P0238,C005,STU_C005_070,Company_26,Supply Chain Coordinator,493984,Nagpur,2026
+P0239,C005,STU_C005_071,Company_37,Supply Chain Coordinator,430366,Nagpur,2026
+P0240,C005,STU_C005_072,Company_40,Supply Chain Coordinator,543932,Nagpur,2026
+P0241,C005,STU_C005_073,Company_52,Supply Chain Coordinator,420560,Nagpur,2026
+P0242,C005,STU_C005_074,Company_55,Supply Chain Coordinator,471394,Nagpur,2026
+P0243,C005,STU_C005_075,Company_65,Supply Chain Coordinator,517874,Nagpur,2026
+P0244,C005,STU_C005_076,Company_72,Supply Chain Coordinator,544931,Nagpur,2026
+P0245,C005,STU_C005_077,Company_77,Supply Chain Coordinator,389977,Nagpur,2026
+P0246,C005,STU_C005_078,Company_80,Supply Chain Coordinator,454912,Nagpur,2026
+P0247,C006,STU_C006_001,Company_36,PLC Programmer,444379,Nashik,2026
+P0248,C006,STU_C006_002,Company_38,PLC Programmer,431000,Nashik,2026
+P0249,C006,STU_C006_003,Company_46,PLC Programmer,612409,Nashik,2026
+P0250,C006,STU_C006_004,Company_48,PLC Programmer,510373,Nashik,2026
+P0251,C006,STU_C006_005,Company_51,PLC Programmer,385433,Nashik,2026
+P0252,C006,STU_C006_006,Company_53,PLC Programmer,548839,Nashik,2026
+P0253,C006,STU_C006_007,Company_58,PLC Programmer,639161,Nashik,2026
+P0254,C006,STU_C006_008,Company_59,PLC Programmer,557434,Nashik,2026
+P0255,C006,STU_C006_009,Company_60,PLC Programmer,366047,Nashik,2026
+P0256,C006,STU_C006_010,Company_62,PLC Programmer,443682,Nashik,2026
+P0257,C006,STU_C006_011,Company_71,PLC Programmer,575018,Nashik,2026
+P0258,C006,STU_C006_012,Company_74,PLC Programmer,426924,Nashik,2026
+P0259,C006,STU_C006_013,Company_83,PLC Programmer,513286,Nashik,2026
+P0260,C006,STU_C006_014,Company_93,PLC Programmer,538097,Nashik,2026
+P0261,C006,STU_C006_015,Company_1,PLC Programmer,410480,Nashik,2026
+P0262,C006,STU_C006_016,Company_2,PLC Programmer,475535,Nashik,2026
+P0263,C006,STU_C006_017,Company_16,PLC Programmer,320000,Nashik,2026
+P0264,C006,STU_C006_018,Company_20,PLC Programmer,403170,Nashik,2026
+P0265,C006,STU_C006_019,Company_29,PLC Programmer,461057,Nashik,2026
+P0266,C006,STU_C006_020,Company_33,PLC Programmer,386416,Nashik,2026
+P0267,C006,STU_C006_021,Company_35,PLC Programmer,602430,Nashik,2026
+P0268,C006,STU_C006_022,Company_36,PLC Programmer,372739,Nashik,2026
+P0269,C006,STU_C006_023,Company_38,PLC Programmer,446996,Nashik,2026
+P0270,C006,STU_C006_024,Company_46,PLC Programmer,489805,Nashik,2026
+P0271,C006,STU_C006_025,Company_48,PLC Programmer,588095,Nashik,2026
+P0272,C006,STU_C006_026,Company_51,PLC Programmer,372310,Nashik,2026
+P0273,C006,STU_C006_027,Company_53,PLC Programmer,567237,Nashik,2026
+P0274,C006,STU_C006_028,Company_58,PLC Programmer,480767,Nashik,2026
+P0275,C006,STU_C006_029,Company_59,PLC Programmer,406386,Nashik,2026
+P0276,C006,STU_C006_030,Company_60,PLC Programmer,514657,Nashik,2026
+P0277,C006,STU_C006_031,Company_62,PLC Programmer,494929,Nashik,2026
+P0278,C006,STU_C006_032,Company_71,PLC Programmer,434983,Nashik,2026
+P0279,C006,STU_C006_033,Company_74,PLC Programmer,485235,Nashik,2026
+P0280,C006,STU_C006_034,Company_83,PLC Programmer,451101,Nashik,2026
+P0281,C006,STU_C006_035,Company_93,PLC Programmer,488513,Nashik,2026
+P0282,C006,STU_C006_036,Company_1,PLC Programmer,529659,Nashik,2026
+P0283,C006,STU_C006_037,Company_2,PLC Programmer,598951,Nashik,2026
+P0284,C006,STU_C006_038,Company_16,PLC Programmer,387163,Nashik,2026
+P0285,C006,STU_C006_039,Company_20,PLC Programmer,639977,Nashik,2026
+P0286,C006,STU_C006_040,Company_29,PLC Programmer,333593,Nashik,2026
+P0287,C006,STU_C006_041,Company_33,PLC Programmer,468616,Nashik,2026
+P0288,C006,STU_C006_042,Company_35,PLC Programmer,524123,Nashik,2026
+P0289,C006,STU_C006_043,Company_36,PLC Programmer,501074,Nashik,2026
+P0290,C006,STU_C006_044,Company_38,PLC Programmer,433297,Nashik,2026
+P0291,C006,STU_C006_045,Company_46,PLC Programmer,464390,Nashik,2026
+P0292,C006,STU_C006_046,Company_48,PLC Programmer,443024,Nashik,2026
+P0293,C006,STU_C006_047,Company_51,PLC Programmer,435797,Nashik,2026
+P0294,C006,STU_C006_048,Company_53,PLC Programmer,543720,Nashik,2026
+P0295,C006,STU_C006_049,Company_58,PLC Programmer,506776,Nashik,2026
+P0296,C006,STU_C006_050,Company_59,PLC Programmer,428031,Nashik,2026
+P0297,C006,STU_C006_051,Company_60,PLC Programmer,547469,Nashik,2026
+P0298,C006,STU_C006_052,Company_62,PLC Programmer,503047,Nashik,2026
+P0299,C006,STU_C006_053,Company_71,PLC Programmer,540964,Nashik,2026
+P0300,C006,STU_C006_054,Company_74,PLC Programmer,527222,Nashik,2026
+P0301,C006,STU_C006_055,Company_83,PLC Programmer,417825,Nashik,2026
+P0302,C006,STU_C006_056,Company_93,PLC Programmer,437986,Nashik,2026
+P0303,C006,STU_C006_057,Company_1,PLC Programmer,536047,Nashik,2026
+P0304,C006,STU_C006_058,Company_2,PLC Programmer,525777,Nashik,2026
+P0305,C006,STU_C006_059,Company_16,PLC Programmer,478432,Nashik,2026
+P0306,C006,STU_C006_060,Company_20,PLC Programmer,488799,Nashik,2026
+P0307,C006,STU_C006_061,Company_29,PLC Programmer,575824,Nashik,2026
+P0308,C006,STU_C006_062,Company_33,PLC Programmer,435632,Nashik,2026
+P0309,C006,STU_C006_063,Company_35,PLC Programmer,521032,Nashik,2026
+P0310,C007,STU_C007_001,Company_38,Cloud Architect,464835,Nashik,2026
+P0311,C007,STU_C007_002,Company_46,Cloud Architect,463673,Nashik,2026
+P0312,C007,STU_C007_003,Company_48,Cloud Architect,562408,Nashik,2026
+P0313,C007,STU_C007_004,Company_51,Cloud Architect,541906,Nashik,2026
+P0314,C007,STU_C007_005,Company_53,Cloud Architect,541013,Nashik,2026
+P0315,C007,STU_C007_006,Company_58,Cloud Architect,577910,Nashik,2026
+P0316,C007,STU_C007_007,Company_59,Cloud Architect,481575,Nashik,2026
+P0317,C007,STU_C007_008,Company_60,Cloud Architect,531146,Nashik,2026
+P0318,C007,STU_C007_009,Company_62,Cloud Architect,456729,Nashik,2026
+P0319,C007,STU_C007_010,Company_71,Cloud Architect,504312,Nashik,2026
+P0320,C007,STU_C007_011,Company_74,Cloud Architect,470239,Nashik,2026
+P0321,C007,STU_C007_012,Company_83,Cloud Architect,487274,Nashik,2026
+P0322,C007,STU_C007_013,Company_93,Cloud Architect,524636,Nashik,2026
+P0323,C007,STU_C007_014,Company_1,Cloud Architect,418633,Nashik,2026
+P0324,C007,STU_C007_015,Company_2,Cloud Architect,636929,Nashik,2026
+P0325,C007,STU_C007_016,Company_16,Cloud Architect,404548,Nashik,2026
+P0326,C007,STU_C007_017,Company_20,Cloud Architect,388935,Nashik,2026
+P0327,C007,STU_C007_018,Company_29,Cloud Architect,566858,Nashik,2026
+P0328,C007,STU_C007_019,Company_33,Cloud Architect,539374,Nashik,2026
+P0329,C007,STU_C007_020,Company_35,Cloud Architect,526808,Nashik,2026
+P0330,C007,STU_C007_021,Company_36,Cloud Architect,527125,Nashik,2026
+P0331,C007,STU_C007_022,Company_38,Cloud Architect,479081,Nashik,2026
+P0332,C007,STU_C007_023,Company_46,Cloud Architect,412705,Nashik,2026
+P0333,C007,STU_C007_024,Company_48,Cloud Architect,485685,Nashik,2026
+P0334,C007,STU_C007_025,Company_51,Cloud Architect,429212,Nashik,2026
+P0335,C007,STU_C007_026,Company_53,Cloud Architect,553133,Nashik,2026
+P0336,C007,STU_C007_027,Company_58,Cloud Architect,468970,Nashik,2026
+P0337,C007,STU_C007_028,Company_59,Cloud Architect,418087,Nashik,2026
+P0338,C007,STU_C007_029,Company_60,Cloud Architect,455896,Nashik,2026
+P0339,C007,STU_C007_030,Company_62,Cloud Architect,510969,Nashik,2026
+P0340,C007,STU_C007_031,Company_71,Cloud Architect,437720,Nashik,2026
+P0341,C007,STU_C007_032,Company_74,Cloud Architect,418333,Nashik,2026
+P0342,C007,STU_C007_033,Company_83,Cloud Architect,498276,Nashik,2026
+P0343,C007,STU_C007_034,Company_93,Cloud Architect,498372,Nashik,2026
+P0344,C007,STU_C007_035,Company_1,Cloud Architect,441979,Nashik,2026
+P0345,C007,STU_C007_036,Company_2,Cloud Architect,444672,Nashik,2026
+P0346,C007,STU_C007_037,Company_16,Cloud Architect,497403,Nashik,2026
+P0347,C008,STU_C008_001,Company_27,Digital Marketing Specialist,371393,Mumbai,2026
+P0348,C008,STU_C008_002,Company_30,Digital Marketing Specialist,374440,Mumbai,2026
+P0349,C008,STU_C008_003,Company_42,Digital Marketing Specialist,426116,Mumbai,2026
+P0350,C008,STU_C008_004,Company_44,Digital Marketing Specialist,463991,Mumbai,2026
+P0351,C008,STU_C008_005,Company_47,Digital Marketing Specialist,503318,Mumbai,2026
+P0352,C008,STU_C008_006,Company_49,Digital Marketing Specialist,590651,Mumbai,2026
+P0353,C008,STU_C008_007,Company_50,Digital Marketing Specialist,544324,Mumbai,2026
+P0354,C008,STU_C008_008,Company_54,Digital Marketing Specialist,468004,Mumbai,2026
+P0355,C008,STU_C008_009,Company_61,Digital Marketing Specialist,478573,Mumbai,2026
+P0356,C008,STU_C008_010,Company_69,Digital Marketing Specialist,404810,Mumbai,2026
+P0357,C008,STU_C008_011,Company_70,Digital Marketing Specialist,478611,Mumbai,2026
+P0358,C008,STU_C008_012,Company_85,Digital Marketing Specialist,458350,Mumbai,2026
+P0359,C008,STU_C008_013,Company_92,Digital Marketing Specialist,504203,Mumbai,2026
+P0360,C008,STU_C008_014,Company_94,Digital Marketing Specialist,417957,Mumbai,2026
+P0361,C008,STU_C008_015,Company_7,Digital Marketing Specialist,518950,Mumbai,2026
+P0362,C008,STU_C008_016,Company_8,Digital Marketing Specialist,594955,Mumbai,2026
+P0363,C008,STU_C008_017,Company_11,Digital Marketing Specialist,471842,Mumbai,2026
+P0364,C008,STU_C008_018,Company_12,Digital Marketing Specialist,510128,Mumbai,2026
+P0365,C008,STU_C008_019,Company_15,Digital Marketing Specialist,531760,Mumbai,2026
+P0366,C008,STU_C008_020,Company_18,Digital Marketing Specialist,449908,Mumbai,2026
+P0367,C008,STU_C008_021,Company_19,Digital Marketing Specialist,496806,Mumbai,2026
+P0368,C009,STU_C009_001,Company_87,Warehouse Manager,480944,Pune,2026
+P0369,C009,STU_C009_002,Company_88,Warehouse Manager,487325,Pune,2026
+P0370,C009,STU_C009_003,Company_4,Warehouse Manager,422024,Pune,2026
+P0371,C009,STU_C009_004,Company_5,Warehouse Manager,481838,Pune,2026
+P0372,C009,STU_C009_005,Company_17,Warehouse Manager,517349,Pune,2026
+P0373,C009,STU_C009_006,Company_39,Warehouse Manager,588835,Pune,2026
+P0374,C009,STU_C009_007,Company_43,Warehouse Manager,551945,Pune,2026
+P0375,C009,STU_C009_008,Company_57,Warehouse Manager,641488,Pune,2026
+P0376,C009,STU_C009_009,Company_63,Warehouse Manager,422448,Pune,2026
+P0377,C009,STU_C009_010,Company_67,Warehouse Manager,545424,Pune,2026
+P0378,C009,STU_C009_011,Company_68,Warehouse Manager,493750,Pune,2026
+P0379,C009,STU_C009_012,Company_75,Warehouse Manager,644235,Pune,2026
+P0380,C009,STU_C009_013,Company_87,Warehouse Manager,419377,Pune,2026
+P0381,C009,STU_C009_014,Company_88,Warehouse Manager,417020,Pune,2026
+P0382,C009,STU_C009_015,Company_4,Warehouse Manager,435045,Pune,2026
+P0383,C009,STU_C009_016,Company_5,Warehouse Manager,320707,Pune,2026
+P0384,C009,STU_C009_017,Company_17,Warehouse Manager,440568,Pune,2026
+P0385,C009,STU_C009_018,Company_39,Warehouse Manager,423065,Pune,2026
+P0386,C009,STU_C009_019,Company_43,Warehouse Manager,491279,Pune,2026
+P0387,C009,STU_C009_020,Company_57,Warehouse Manager,505631,Pune,2026
+P0388,C009,STU_C009_021,Company_63,Warehouse Manager,620712,Pune,2026
+P0389,C009,STU_C009_022,Company_67,Warehouse Manager,551281,Pune,2026
+P0390,C009,STU_C009_023,Company_68,Warehouse Manager,436732,Pune,2026
+P0391,C009,STU_C009_024,Company_75,Warehouse Manager,412618,Pune,2026
+P0392,C009,STU_C009_025,Company_87,Warehouse Manager,516893,Pune,2026
+P0393,C009,STU_C009_026,Company_88,Warehouse Manager,380982,Pune,2026
+P0394,C009,STU_C009_027,Company_4,Warehouse Manager,617359,Pune,2026
+P0395,C009,STU_C009_028,Company_5,Warehouse Manager,568458,Pune,2026
+P0396,C009,STU_C009_029,Company_17,Warehouse Manager,444811,Pune,2026
+P0397,C009,STU_C009_030,Company_39,Warehouse Manager,351514,Pune,2026
+P0398,C009,STU_C009_031,Company_43,Warehouse Manager,581540,Pune,2026
+P0399,C009,STU_C009_032,Company_57,Warehouse Manager,471409,Pune,2026
+P0400,C009,STU_C009_033,Company_63,Warehouse Manager,572836,Pune,2026
+P0401,C009,STU_C009_034,Company_67,Warehouse Manager,360417,Pune,2026
+P0402,C009,STU_C009_035,Company_68,Warehouse Manager,435046,Pune,2026
+P0403,C009,STU_C009_036,Company_75,Warehouse Manager,480393,Pune,2026
+P0404,C009,STU_C009_037,Company_87,Warehouse Manager,483523,Pune,2026
+P0405,C009,STU_C009_038,Company_88,Warehouse Manager,446245,Pune,2026
+P0406,C009,STU_C009_039,Company_4,Warehouse Manager,526713,Pune,2026
+P0407,C009,STU_C009_040,Company_5,Warehouse Manager,399928,Pune,2026
+P0408,C009,STU_C009_041,Company_17,Warehouse Manager,469321,Pune,2026
+P0409,C009,STU_C009_042,Company_39,Warehouse Manager,489022,Pune,2026
+P0410,C009,STU_C009_043,Company_43,Warehouse Manager,518582,Pune,2026
+P0411,C009,STU_C009_044,Company_57,Warehouse Manager,533371,Pune,2026
+P0412,C009,STU_C009_045,Company_63,Warehouse Manager,395651,Pune,2026
+P0413,C009,STU_C009_046,Company_67,Warehouse Manager,364941,Pune,2026
+P0414,C009,STU_C009_047,Company_68,Warehouse Manager,575825,Pune,2026
+P0415,C009,STU_C009_048,Company_75,Warehouse Manager,504923,Pune,2026
+P0416,C009,STU_C009_049,Company_87,Warehouse Manager,423863,Pune,2026
+P0417,C009,STU_C009_050,Company_88,Warehouse Manager,596336,Pune,2026
+P0418,C009,STU_C009_051,Company_4,Warehouse Manager,488675,Pune,2026
+P0419,C009,STU_C009_052,Company_5,Warehouse Manager,568447,Pune,2026
+P0420,C010,STU_C010_001,Company_51,Robotics Maintenance Tech,485063,Nashik,2026
+P0421,C010,STU_C010_002,Company_53,Robotics Maintenance Tech,634556,Nashik,2026
+P0422,C010,STU_C010_003,Company_58,Robotics Maintenance Tech,611650,Nashik,2026
+P0423,C010,STU_C010_004,Company_59,Robotics Maintenance Tech,461327,Nashik,2026
+P0424,C010,STU_C010_005,Company_60,Robotics Maintenance Tech,552867,Nashik,2026
+P0425,C010,STU_C010_006,Company_62,Robotics Maintenance Tech,528403,Nashik,2026
+P0426,C010,STU_C010_007,Company_71,Robotics Maintenance Tech,582647,Nashik,2026
+P0427,C010,STU_C010_008,Company_74,Robotics Maintenance Tech,407630,Nashik,2026
+P0428,C010,STU_C010_009,Company_83,Robotics Maintenance Tech,531453,Nashik,2026
+P0429,C010,STU_C010_010,Company_93,Robotics Maintenance Tech,559381,Nashik,2026
+P0430,C010,STU_C010_011,Company_1,Robotics Maintenance Tech,348094,Nashik,2026
+P0431,C010,STU_C010_012,Company_2,Robotics Maintenance Tech,391255,Nashik,2026
+P0432,C010,STU_C010_013,Company_16,Robotics Maintenance Tech,327057,Nashik,2026
+P0433,C010,STU_C010_014,Company_20,Robotics Maintenance Tech,459794,Nashik,2026
+P0434,C010,STU_C010_015,Company_29,Robotics Maintenance Tech,533815,Nashik,2026
+P0435,C010,STU_C010_016,Company_33,Robotics Maintenance Tech,592676,Nashik,2026
+P0436,C010,STU_C010_017,Company_35,Robotics Maintenance Tech,485557,Nashik,2026
+P0437,C010,STU_C010_018,Company_36,Robotics Maintenance Tech,602146,Nashik,2026
+P0438,C010,STU_C010_019,Company_38,Robotics Maintenance Tech,376492,Nashik,2026
+P0439,C010,STU_C010_020,Company_46,Robotics Maintenance Tech,352246,Nashik,2026
+P0440,C010,STU_C010_021,Company_48,Robotics Maintenance Tech,475833,Nashik,2026
+P0441,C010,STU_C010_022,Company_51,Robotics Maintenance Tech,508804,Nashik,2026
+P0442,C010,STU_C010_023,Company_53,Robotics Maintenance Tech,477547,Nashik,2026
+P0443,C010,STU_C010_024,Company_58,Robotics Maintenance Tech,324941,Nashik,2026
+P0444,C010,STU_C010_025,Company_59,Robotics Maintenance Tech,473315,Nashik,2026
+P0445,C010,STU_C010_026,Company_60,Robotics Maintenance Tech,382164,Nashik,2026
+P0446,C010,STU_C010_027,Company_62,Robotics Maintenance Tech,530225,Nashik,2026
+P0447,C010,STU_C010_028,Company_71,Robotics Maintenance Tech,507494,Nashik,2026
+P0448,C010,STU_C010_029,Company_74,Robotics Maintenance Tech,409509,Nashik,2026
+P0449,C010,STU_C010_030,Company_83,Robotics Maintenance Tech,441459,Nashik,2026
+P0450,C010,STU_C010_031,Company_93,Robotics Maintenance Tech,400558,Nashik,2026
+P0451,C010,STU_C010_032,Company_1,Robotics Maintenance Tech,475299,Nashik,2026
+P0452,C010,STU_C010_033,Company_2,Robotics Maintenance Tech,551635,Nashik,2026
+P0453,C010,STU_C010_034,Company_16,Robotics Maintenance Tech,406070,Nashik,2026
+P0454,C010,STU_C010_035,Company_20,Robotics Maintenance Tech,517803,Nashik,2026
+P0455,C010,STU_C010_036,Company_29,Robotics Maintenance Tech,440230,Nashik,2026
+P0456,C010,STU_C010_037,Company_33,Robotics Maintenance Tech,420534,Nashik,2026
+P0457,C010,STU_C010_038,Company_35,Robotics Maintenance Tech,471972,Nashik,2026
+P0458,C010,STU_C010_039,Company_36,Robotics Maintenance Tech,402356,Nashik,2026
+P0459,C010,STU_C010_040,Company_38,Robotics Maintenance Tech,438476,Nashik,2026
+P0460,C010,STU_C010_041,Company_46,Robotics Maintenance Tech,390159,Nashik,2026
+P0461,C010,STU_C010_042,Company_48,Robotics Maintenance Tech,627354,Nashik,2026
+P0462,C010,STU_C010_043,Company_51,Robotics Maintenance Tech,482644,Nashik,2026
+P0463,C010,STU_C010_044,Company_53,Robotics Maintenance Tech,427520,Nashik,2026
+P0464,C010,STU_C010_045,Company_58,Robotics Maintenance Tech,496048,Nashik,2026
+P0465,C010,STU_C010_046,Company_59,Robotics Maintenance Tech,471575,Nashik,2026
+P0466,C010,STU_C010_047,Company_60,Robotics Maintenance Tech,463427,Nashik,2026
+P0467,C010,STU_C010_048,Company_62,Robotics Maintenance Tech,526062,Nashik,2026
+P0468,C010,STU_C010_049,Company_71,Robotics Maintenance Tech,536813,Nashik,2026
+P0469,C010,STU_C010_050,Company_74,Robotics Maintenance Tech,440212,Nashik,2026
+P0470,C010,STU_C010_051,Company_83,Robotics Maintenance Tech,436813,Nashik,2026
+P0471,C010,STU_C010_052,Company_93,Robotics Maintenance Tech,459371,Nashik,2026
+P0472,C010,STU_C010_053,Company_1,Robotics Maintenance Tech,320000,Nashik,2026
+P0473,C010,STU_C010_054,Company_2,Robotics Maintenance Tech,366360,Nashik,2026
+P0474,C010,STU_C010_055,Company_16,Robotics Maintenance Tech,582515,Nashik,2026
+P0475,C010,STU_C010_056,Company_20,Robotics Maintenance Tech,603372,Nashik,2026
+P0476,C010,STU_C010_057,Company_29,Robotics Maintenance Tech,461322,Nashik,2026
+P0477,C010,STU_C010_058,Company_33,Robotics Maintenance Tech,523241,Nashik,2026
+P0478,C010,STU_C010_059,Company_35,Robotics Maintenance Tech,503343,Nashik,2026
+P0479,C011,STU_C011_001,Company_53,Full Stack Developer,710916,Nashik,2026
+P0480,C011,STU_C011_002,Company_58,Full Stack Developer,563968,Nashik,2026
+P0481,C011,STU_C011_003,Company_59,Full Stack Developer,470406,Nashik,2026
+P0482,C011,STU_C011_004,Company_60,Full Stack Developer,408334,Nashik,2026
+P0483,C011,STU_C011_005,Company_62,Full Stack Developer,359516,Nashik,2026
+P0484,C011,STU_C011_006,Company_71,Full Stack Developer,495259,Nashik,2026
+P0485,C011,STU_C011_007,Company_74,Full Stack Developer,423273,Nashik,2026
+P0486,C011,STU_C011_008,Company_83,Full Stack Developer,373330,Nashik,2026
+P0487,C011,STU_C011_009,Company_93,Full Stack Developer,431507,Nashik,2026
+P0488,C011,STU_C011_010,Company_1,Full Stack Developer,398883,Nashik,2026
+P0489,C011,STU_C011_011,Company_2,Full Stack Developer,606535,Nashik,2026
+P0490,C011,STU_C011_012,Company_16,Full Stack Developer,546122,Nashik,2026
+P0491,C011,STU_C011_013,Company_20,Full Stack Developer,479402,Nashik,2026
+P0492,C011,STU_C011_014,Company_29,Full Stack Developer,590995,Nashik,2026
+P0493,C011,STU_C011_015,Company_33,Full Stack Developer,485802,Nashik,2026
+P0494,C011,STU_C011_016,Company_35,Full Stack Developer,415403,Nashik,2026
+P0495,C011,STU_C011_017,Company_36,Full Stack Developer,594234,Nashik,2026
+P0496,C011,STU_C011_018,Company_38,Full Stack Developer,520418,Nashik,2026
+P0497,C011,STU_C011_019,Company_46,Full Stack Developer,402206,Nashik,2026
+P0498,C011,STU_C011_020,Company_48,Full Stack Developer,465724,Nashik,2026
+P0499,C011,STU_C011_021,Company_51,Full Stack Developer,414328,Nashik,2026
+P0500,C011,STU_C011_022,Company_53,Full Stack Developer,376290,Nashik,2026
+P0501,C011,STU_C011_023,Company_58,Full Stack Developer,549463,Nashik,2026
+P0502,C011,STU_C011_024,Company_59,Full Stack Developer,623206,Nashik,2026
+P0503,C011,STU_C011_025,Company_60,Full Stack Developer,375107,Nashik,2026
+P0504,C011,STU_C011_026,Company_62,Full Stack Developer,522222,Nashik,2026
+P0505,C011,STU_C011_027,Company_71,Full Stack Developer,431201,Nashik,2026
+P0506,C011,STU_C011_028,Company_74,Full Stack Developer,443465,Nashik,2026
+P0507,C011,STU_C011_029,Company_83,Full Stack Developer,435570,Nashik,2026
+P0508,C011,STU_C011_030,Company_93,Full Stack Developer,415200,Nashik,2026
+P0509,C011,STU_C011_031,Company_1,Full Stack Developer,483639,Nashik,2026
+P0510,C011,STU_C011_032,Company_2,Full Stack Developer,417678,Nashik,2026
+P0511,C011,STU_C011_033,Company_16,Full Stack Developer,500284,Nashik,2026
+P0512,C011,STU_C011_034,Company_20,Full Stack Developer,476232,Nashik,2026
+P0513,C011,STU_C011_035,Company_29,Full Stack Developer,462078,Nashik,2026
+P0514,C011,STU_C011_036,Company_33,Full Stack Developer,411932,Nashik,2026
+P0515,C011,STU_C011_037,Company_35,Full Stack Developer,436742,Nashik,2026
+P0516,C011,STU_C011_038,Company_36,Full Stack Developer,536654,Nashik,2026
+P0517,C011,STU_C011_039,Company_38,Full Stack Developer,517568,Nashik,2026
+P0518,C011,STU_C011_040,Company_46,Full Stack Developer,406683,Nashik,2026
+P0519,C011,STU_C011_041,Company_48,Full Stack Developer,487449,Nashik,2026
+P0520,C011,STU_C011_042,Company_51,Full Stack Developer,536354,Nashik,2026
+P0521,C011,STU_C011_043,Company_53,Full Stack Developer,354794,Nashik,2026
+P0522,C011,STU_C011_044,Company_58,Full Stack Developer,520752,Nashik,2026
+P0523,C011,STU_C011_045,Company_59,Full Stack Developer,430303,Nashik,2026
+P0524,C011,STU_C011_046,Company_60,Full Stack Developer,522794,Nashik,2026
+P0525,C011,STU_C011_047,Company_62,Full Stack Developer,422755,Nashik,2026
+P0526,C011,STU_C011_048,Company_71,Full Stack Developer,344633,Nashik,2026
+P0527,C011,STU_C011_049,Company_74,Full Stack Developer,357934,Nashik,2026
+P0528,C011,STU_C011_050,Company_83,Full Stack Developer,483606,Nashik,2026
+P0529,C011,STU_C011_051,Company_93,Full Stack Developer,499479,Nashik,2026
+P0530,C011,STU_C011_052,Company_1,Full Stack Developer,412176,Nashik,2026
+P0531,C011,STU_C011_053,Company_2,Full Stack Developer,527894,Nashik,2026
+P0532,C011,STU_C011_054,Company_16,Full Stack Developer,355385,Nashik,2026
+P0533,C011,STU_C011_055,Company_20,Full Stack Developer,475044,Nashik,2026
+P0534,C011,STU_C011_056,Company_29,Full Stack Developer,389173,Nashik,2026
+P0535,C011,STU_C011_057,Company_33,Full Stack Developer,431112,Nashik,2026
+P0536,C011,STU_C011_058,Company_35,Full Stack Developer,483554,Nashik,2026
+P0537,C011,STU_C011_059,Company_36,Full Stack Developer,415468,Nashik,2026
+P0538,C011,STU_C011_060,Company_38,Full Stack Developer,451158,Nashik,2026
+P0539,C011,STU_C011_061,Company_46,Full Stack Developer,555471,Nashik,2026
+P0540,C011,STU_C011_062,Company_48,Full Stack Developer,436733,Nashik,2026
+P0541,C011,STU_C011_063,Company_51,Full Stack Developer,542676,Nashik,2026
+P0542,C012,STU_C012_001,Company_89,Full Stack Developer,395271,Nagpur,2026
+P0543,C012,STU_C012_002,Company_90,Full Stack Developer,519735,Nagpur,2026
+P0544,C012,STU_C012_003,Company_91,Full Stack Developer,588117,Nagpur,2026
+P0545,C012,STU_C012_004,Company_95,Full Stack Developer,320000,Nagpur,2026
+P0546,C012,STU_C012_005,Company_100,Full Stack Developer,420232,Nagpur,2026
+P0547,C012,STU_C012_006,Company_6,Full Stack Developer,523280,Nagpur,2026
+P0548,C012,STU_C012_007,Company_10,Full Stack Developer,464771,Nagpur,2026
+P0549,C012,STU_C012_008,Company_14,Full Stack Developer,507835,Nagpur,2026
+P0550,C012,STU_C012_009,Company_26,Full Stack Developer,434701,Nagpur,2026
+P0551,C012,STU_C012_010,Company_37,Full Stack Developer,486494,Nagpur,2026
+P0552,C012,STU_C012_011,Company_40,Full Stack Developer,468324,Nagpur,2026
+P0553,C012,STU_C012_012,Company_52,Full Stack Developer,567583,Nagpur,2026
+P0554,C012,STU_C012_013,Company_55,Full Stack Developer,499081,Nagpur,2026
+P0555,C012,STU_C012_014,Company_65,Full Stack Developer,505320,Nagpur,2026
+P0556,C012,STU_C012_015,Company_72,Full Stack Developer,449109,Nagpur,2026
+P0557,C012,STU_C012_016,Company_77,Full Stack Developer,443429,Nagpur,2026
+P0558,C012,STU_C012_017,Company_80,Full Stack Developer,447558,Nagpur,2026
+P0559,C012,STU_C012_018,Company_81,Full Stack Developer,509583,Nagpur,2026
+P0560,C012,STU_C012_019,Company_89,Full Stack Developer,448426,Nagpur,2026
+P0561,C012,STU_C012_020,Company_90,Full Stack Developer,501733,Nagpur,2026
+P0562,C012,STU_C012_021,Company_91,Full Stack Developer,635655,Nagpur,2026
+P0563,C012,STU_C012_022,Company_95,Full Stack Developer,545334,Nagpur,2026
+P0564,C012,STU_C012_023,Company_100,Full Stack Developer,455548,Nagpur,2026
+P0565,C012,STU_C012_024,Company_6,Full Stack Developer,570091,Nagpur,2026
+P0566,C012,STU_C012_025,Company_10,Full Stack Developer,449394,Nagpur,2026
+P0567,C012,STU_C012_026,Company_14,Full Stack Developer,327140,Nagpur,2026
+P0568,C012,STU_C012_027,Company_26,Full Stack Developer,404393,Nagpur,2026
+P0569,C012,STU_C012_028,Company_37,Full Stack Developer,339690,Nagpur,2026
+P0570,C012,STU_C012_029,Company_40,Full Stack Developer,453636,Nagpur,2026
+P0571,C012,STU_C012_030,Company_52,Full Stack Developer,481381,Nagpur,2026
+P0572,C012,STU_C012_031,Company_55,Full Stack Developer,605732,Nagpur,2026
+P0573,C012,STU_C012_032,Company_65,Full Stack Developer,504519,Nagpur,2026
+P0574,C012,STU_C012_033,Company_72,Full Stack Developer,463567,Nagpur,2026
+P0575,C012,STU_C012_034,Company_77,Full Stack Developer,542205,Nagpur,2026
+P0576,C012,STU_C012_035,Company_80,Full Stack Developer,320000,Nagpur,2026
+P0577,C012,STU_C012_036,Company_81,Full Stack Developer,497671,Nagpur,2026
+P0578,C012,STU_C012_037,Company_89,Full Stack Developer,537814,Nagpur,2026
+P0579,C012,STU_C012_038,Company_90,Full Stack Developer,369106,Nagpur,2026
+P0580,C012,STU_C012_039,Company_91,Full Stack Developer,565781,Nagpur,2026
+P0581,C012,STU_C012_040,Company_95,Full Stack Developer,505387,Nagpur,2026
+P0582,C012,STU_C012_041,Company_100,Full Stack Developer,448853,Nagpur,2026
+P0583,C012,STU_C012_042,Company_6,Full Stack Developer,527458,Nagpur,2026
+P0584,C012,STU_C012_043,Company_10,Full Stack Developer,650301,Nagpur,2026
+P0585,C012,STU_C012_044,Company_14,Full Stack Developer,493639,Nagpur,2026
+P0586,C012,STU_C012_045,Company_26,Full Stack Developer,498616,Nagpur,2026
+P0587,C012,STU_C012_046,Company_37,Full Stack Developer,445547,Nagpur,2026
+P0588,C012,STU_C012_047,Company_40,Full Stack Developer,416261,Nagpur,2026
+P0589,C012,STU_C012_048,Company_52,Full Stack Developer,542275,Nagpur,2026
+P0590,C013,STU_C013_001,Company_66,Full Stack Developer,415793,Chhatrapati Sambhajinagar,2026
+P0591,C013,STU_C013_002,Company_73,Full Stack Developer,485367,Chhatrapati Sambhajinagar,2026
+P0592,C013,STU_C013_003,Company_76,Full Stack Developer,444175,Chhatrapati Sambhajinagar,2026
+P0593,C013,STU_C013_004,Company_78,Full Stack Developer,515923,Chhatrapati Sambhajinagar,2026
+P0594,C013,STU_C013_005,Company_79,Full Stack Developer,505024,Chhatrapati Sambhajinagar,2026
+P0595,C013,STU_C013_006,Company_82,Full Stack Developer,557815,Chhatrapati Sambhajinagar,2026
+P0596,C013,STU_C013_007,Company_84,Full Stack Developer,441748,Chhatrapati Sambhajinagar,2026
+P0597,C013,STU_C013_008,Company_86,Full Stack Developer,459759,Chhatrapati Sambhajinagar,2026
+P0598,C013,STU_C013_009,Company_96,Full Stack Developer,406592,Chhatrapati Sambhajinagar,2026
+P0599,C013,STU_C013_010,Company_97,Full Stack Developer,446678,Chhatrapati Sambhajinagar,2026
+P0600,C013,STU_C013_011,Company_98,Full Stack Developer,508297,Chhatrapati Sambhajinagar,2026
+P0601,C013,STU_C013_012,Company_99,Full Stack Developer,536774,Chhatrapati Sambhajinagar,2026
+P0602,C013,STU_C013_013,Company_3,Full Stack Developer,410837,Chhatrapati Sambhajinagar,2026
+P0603,C013,STU_C013_014,Company_9,Full Stack Developer,545220,Chhatrapati Sambhajinagar,2026
+P0604,C013,STU_C013_015,Company_13,Full Stack Developer,581672,Chhatrapati Sambhajinagar,2026
+P0605,C013,STU_C013_016,Company_21,Full Stack Developer,511007,Chhatrapati Sambhajinagar,2026
+P0606,C013,STU_C013_017,Company_24,Full Stack Developer,620759,Chhatrapati Sambhajinagar,2026
+P0607,C013,STU_C013_018,Company_25,Full Stack Developer,421965,Chhatrapati Sambhajinagar,2026
+P0608,C013,STU_C013_019,Company_28,Full Stack Developer,386650,Chhatrapati Sambhajinagar,2026
+P0609,C013,STU_C013_020,Company_31,Full Stack Developer,346595,Chhatrapati Sambhajinagar,2026
+P0610,C013,STU_C013_021,Company_32,Full Stack Developer,592203,Chhatrapati Sambhajinagar,2026
+P0611,C013,STU_C013_022,Company_34,Full Stack Developer,529077,Chhatrapati Sambhajinagar,2026
+P0612,C014,STU_C014_001,Company_91,Robotics Maintenance Tech,475831,Nagpur,2026
+P0613,C014,STU_C014_002,Company_95,Robotics Maintenance Tech,500997,Nagpur,2026
+P0614,C014,STU_C014_003,Company_100,Robotics Maintenance Tech,395588,Nagpur,2026
+P0615,C014,STU_C014_004,Company_6,Robotics Maintenance Tech,663431,Nagpur,2026
+P0616,C014,STU_C014_005,Company_10,Robotics Maintenance Tech,489691,Nagpur,2026
+P0617,C014,STU_C014_006,Company_14,Robotics Maintenance Tech,488204,Nagpur,2026
+P0618,C014,STU_C014_007,Company_26,Robotics Maintenance Tech,534432,Nagpur,2026
+P0619,C014,STU_C014_008,Company_37,Robotics Maintenance Tech,516075,Nagpur,2026
+P0620,C014,STU_C014_009,Company_40,Robotics Maintenance Tech,496791,Nagpur,2026
+P0621,C014,STU_C014_010,Company_52,Robotics Maintenance Tech,420714,Nagpur,2026
+P0622,C014,STU_C014_011,Company_55,Robotics Maintenance Tech,515360,Nagpur,2026
+P0623,C014,STU_C014_012,Company_65,Robotics Maintenance Tech,621151,Nagpur,2026
+P0624,C014,STU_C014_013,Company_72,Robotics Maintenance Tech,580906,Nagpur,2026
+P0625,C014,STU_C014_014,Company_77,Robotics Maintenance Tech,599488,Nagpur,2026
+P0626,C014,STU_C014_015,Company_80,Robotics Maintenance Tech,441658,Nagpur,2026
+P0627,C014,STU_C014_016,Company_81,Robotics Maintenance Tech,405779,Nagpur,2026
+P0628,C014,STU_C014_017,Company_89,Robotics Maintenance Tech,470565,Nagpur,2026
+P0629,C014,STU_C014_018,Company_90,Robotics Maintenance Tech,484179,Nagpur,2026
+P0630,C014,STU_C014_019,Company_91,Robotics Maintenance Tech,562064,Nagpur,2026
+P0631,C014,STU_C014_020,Company_95,Robotics Maintenance Tech,353065,Nagpur,2026
+P0632,C015,STU_C015_001,Company_54,PLC Programmer,594716,Mumbai,2026
+P0633,C015,STU_C015_002,Company_61,PLC Programmer,468149,Mumbai,2026
+P0634,C015,STU_C015_003,Company_69,PLC Programmer,447983,Mumbai,2026
+P0635,C015,STU_C015_004,Company_70,PLC Programmer,404092,Mumbai,2026
+P0636,C015,STU_C015_005,Company_85,PLC Programmer,355885,Mumbai,2026
+P0637,C015,STU_C015_006,Company_92,PLC Programmer,541737,Mumbai,2026
+P0638,C015,STU_C015_007,Company_94,PLC Programmer,485498,Mumbai,2026
+P0639,C015,STU_C015_008,Company_7,PLC Programmer,383252,Mumbai,2026
+P0640,C015,STU_C015_009,Company_8,PLC Programmer,382869,Mumbai,2026
+P0641,C015,STU_C015_010,Company_11,PLC Programmer,454816,Mumbai,2026
+P0642,C015,STU_C015_011,Company_12,PLC Programmer,605176,Mumbai,2026
+P0643,C015,STU_C015_012,Company_15,PLC Programmer,460530,Mumbai,2026
+P0644,C015,STU_C015_013,Company_18,PLC Programmer,367264,Mumbai,2026
+P0645,C015,STU_C015_014,Company_19,PLC Programmer,461569,Mumbai,2026
+P0646,C015,STU_C015_015,Company_22,PLC Programmer,459545,Mumbai,2026
+P0647,C015,STU_C015_016,Company_23,PLC Programmer,320000,Mumbai,2026
+P0648,C015,STU_C015_017,Company_27,PLC Programmer,475927,Mumbai,2026
+P0649,C015,STU_C015_018,Company_30,PLC Programmer,462679,Mumbai,2026
+P0650,C015,STU_C015_019,Company_42,PLC Programmer,532215,Mumbai,2026
+P0651,C015,STU_C015_020,Company_44,PLC Programmer,618671,Mumbai,2026
+P0652,C015,STU_C015_021,Company_47,PLC Programmer,564492,Mumbai,2026
+P0653,C015,STU_C015_022,Company_49,PLC Programmer,459833,Mumbai,2026
+P0654,C015,STU_C015_023,Company_50,PLC Programmer,397010,Mumbai,2026
+P0655,C015,STU_C015_024,Company_54,PLC Programmer,673001,Mumbai,2026
+P0656,C015,STU_C015_025,Company_61,PLC Programmer,484441,Mumbai,2026
+P0657,C015,STU_C015_026,Company_69,PLC Programmer,481044,Mumbai,2026
+P0658,C015,STU_C015_027,Company_70,PLC Programmer,478190,Mumbai,2026
+P0659,C015,STU_C015_028,Company_85,PLC Programmer,494856,Mumbai,2026
+P0660,C015,STU_C015_029,Company_92,PLC Programmer,469172,Mumbai,2026
+P0661,C015,STU_C015_030,Company_94,PLC Programmer,436975,Mumbai,2026
+P0662,C015,STU_C015_031,Company_7,PLC Programmer,438985,Mumbai,2026
+P0663,C015,STU_C015_032,Company_8,PLC Programmer,477543,Mumbai,2026
+P0664,C015,STU_C015_033,Company_11,PLC Programmer,439243,Mumbai,2026
+P0665,C015,STU_C015_034,Company_12,PLC Programmer,426536,Mumbai,2026
+P0666,C015,STU_C015_035,Company_15,PLC Programmer,487982,Mumbai,2026
+P0667,C015,STU_C015_036,Company_18,PLC Programmer,460876,Mumbai,2026
+P0668,C015,STU_C015_037,Company_19,PLC Programmer,592799,Mumbai,2026
+P0669,C015,STU_C015_038,Company_22,PLC Programmer,320000,Mumbai,2026
+P0670,C015,STU_C015_039,Company_23,PLC Programmer,561863,Mumbai,2026

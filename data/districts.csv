@@ -1,0 +1,6 @@
+district_id,district_name,region,headquarters,industrial_focus
+D01,Pune,Western Maharashtra,Pune,"Automotive, IT & Software, Engineering, Electronics"
+D02,Mumbai,Konkan,Mumbai,"Financial Services, IT/Tech, Media & Entertainment, Digital Logistics"
+D03,Nagpur,Vidarbha,Nagpur,"Logistics Hub, Aerospace & Defense (MIHAN), Thermal & Power, Heavy Engineering"
+D04,Nashik,North Maharashtra,Nashik,"Automotive & Ancillaries, Precision Engineering, Electrical Equipment, Agri-Tech"
+D05,Chhatrapati Sambhajinagar,Marathwada,Chhatrapati Sambhajinagar,"Auto Components, Pharmaceuticals, Breweries, Smart Industrial City (AURIC)"

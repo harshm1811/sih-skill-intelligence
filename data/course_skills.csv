@@ -1,0 +1,83 @@
+course_id,skill,proficiency
+C001,FastAPI,Advanced
+C001,SAP EWM,Intermediate
+C001,Python,Advanced
+C001,IoT Sensors,Intermediate
+C001,Logistics Analytics,Beginner
+C001,Git,Intermediate
+C001,Data Structures,Beginner
+C002,Digital Electronics,Beginner
+C002,Data Structures,Advanced
+C002,Grid Integration,Advanced
+C002,IoT Sensors,Intermediate
+C003,SEO/SEM,Beginner
+C003,PLC Programming,Advanced
+C003,Python,Intermediate
+C003,Content Strategy,Intermediate
+C004,FastAPI,Beginner
+C004,IoT Sensors,Advanced
+C004,Content Strategy,Advanced
+C004,SQL,Beginner
+C004,Electric Powertrain,Beginner
+C004,Robotics Troubleshooting,Advanced
+C005,Content Strategy,Intermediate
+C005,Node.js,Advanced
+C005,Microprocessors,Advanced
+C005,SEO/SEM,Beginner
+C006,Microprocessors,Beginner
+C006,Solar PV Design,Beginner
+C006,AWS,Beginner
+C006,Power BI,Beginner
+C006,FastAPI,Advanced
+C007,Data Structures,Advanced
+C007,AWS,Beginner
+C007,Microprocessors,Intermediate
+C007,Grid Integration,Advanced
+C007,Robotics Troubleshooting,Beginner
+C007,Git,Advanced
+C007,Quantum Computing Basics,Intermediate
+C008,Logistics Analytics,Intermediate
+C008,Git,Advanced
+C008,C++,Advanced
+C008,SAP EWM,Advanced
+C008,Docker,Intermediate
+C008,SQL,Intermediate
+C008,IoT Sensors,Beginner
+C009,Robotics Troubleshooting,Beginner
+C009,Solar PV Design,Intermediate
+C009,Content Strategy,Beginner
+C009,Docker,Beginner
+C009,PLC Programming,Intermediate
+C010,AWS,Advanced
+C010,Battery Management Systems,Intermediate
+C010,Data Structures,Advanced
+C010,IoT Sensors,Beginner
+C010,SCADA,Advanced
+C010,Robotics Troubleshooting,Beginner
+C010,C++,Advanced
+C011,Kubernetes,Beginner
+C011,Electric Powertrain,Beginner
+C011,SEO/SEM,Beginner
+C011,SQL,Advanced
+C011,Inventory Management,Advanced
+C011,React,Intermediate
+C011,IoT Sensors,Intermediate
+C012,React,Beginner
+C012,Inventory Management,Beginner
+C012,SQL,Intermediate
+C012,C++,Beginner
+C013,Node.js,Advanced
+C013,React,Intermediate
+C013,Solar PV Design,Advanced
+C013,SEO/SEM,Intermediate
+C014,PLC Programming,Beginner
+C014,Node.js,Advanced
+C014,Docker,Beginner
+C014,Machine Learning,Advanced
+C014,IoT Sensors,Intermediate
+C014,Power BI,Beginner
+C014,Microprocessors,Advanced
+C015,Robotics Troubleshooting,Advanced
+C015,C++,Beginner
+C015,Grid Integration,Beginner
+C015,Digital Electronics,Beginner

@@ -1,0 +1,2001 @@
+job_id,district,company,role,salary,experience,description,date
+J0001,Mumbai,Company_23,Full Stack Developer,913896,0 years,Sample job description,2026-09-01
+J0002,Pune,Company_88,Full Stack Developer,531974,5 years,Sample job description,2026-09-01
+J0003,Chhatrapati Sambhajinagar,Company_1,PLC Programmer,1375334,5 years,Sample job description,2026-09-01
+J0004,Pune,Company_84,EV Battery Technician,391011,2 years,Sample job description,2026-09-01
+J0005,Nashik,Company_48,Full Stack Developer,312217,2 years,Sample job description,2026-09-01
+J0006,Pune,Company_63,EV Battery Technician,1113729,3 years,Sample job description,2026-09-01
+J0007,Chhatrapati Sambhajinagar,Company_53,Digital Marketing Specialist,1001320,1 years,Sample job description,2026-09-01
+J0008,Mumbai,Company_34,EV Battery Technician,962730,4 years,Sample job description,2026-09-01
+J0009,Mumbai,Company_13,Cloud Architect,898959,2 years,Sample job description,2026-09-01
+J0010,Nashik,Company_75,Warehouse Manager,1461824,2 years,Sample job description,2026-09-01
+J0011,Mumbai,Company_80,EV Battery Technician,711205,0 years,Sample job description,2026-09-01
+J0012,Pune,Company_38,Cloud Architect,726499,0 years,Sample job description,2026-09-01
+J0013,Nashik,Company_42,Warehouse Manager,697542,2 years,Sample job description,2026-09-01
+J0014,Chhatrapati Sambhajinagar,Company_5,Solar Grid Engineer,355634,1 years,Sample job description,2026-09-01
+J0015,Mumbai,Company_30,PLC Programmer,1281883,1 years,Sample job description,2026-09-01
+J0016,Mumbai,Company_74,Full Stack Developer,402450,2 years,Sample job description,2026-09-01
+J0017,Nashik,Company_39,Solar Grid Engineer,816570,3 years,Sample job description,2026-09-01
+J0018,Mumbai,Company_5,PLC Programmer,1484069,2 years,Sample job description,2026-09-01
+J0019,Nashik,Company_56,Full Stack Developer,645067,1 years,Sample job description,2026-09-01
+J0020,Nagpur,Company_41,Digital Marketing Specialist,1356625,1 years,Sample job description,2026-09-01
+J0021,Mumbai,Company_36,Data Analyst,1311299,5 years,Sample job description,2026-09-01
+J0022,Chhatrapati Sambhajinagar,Company_13,Solar Grid Engineer,1301098,1 years,Sample job description,2026-09-01
+J0023,Pune,Company_63,Digital Marketing Specialist,559808,1 years,Sample job description,2026-09-01
+J0024,Mumbai,Company_66,PLC Programmer,1038328,5 years,Sample job description,2026-09-01
+J0025,Pune,Company_30,Full Stack Developer,1421004,1 years,Sample job description,2026-09-01
+J0026,Mumbai,Company_69,Data Analyst,1214341,0 years,Sample job description,2026-09-01
+J0027,Nagpur,Company_65,Warehouse Manager,985042,3 years,Sample job description,2026-09-01
+J0028,Nagpur,Company_14,Data Analyst,868565,2 years,Sample job description,2026-09-01
+J0029,Nashik,Company_37,Cloud Architect,988993,4 years,Sample job description,2026-09-01
+J0030,Nagpur,Company_68,Data Analyst,634112,2 years,Sample job description,2026-09-01
+J0031,Nashik,Company_83,Warehouse Manager,829483,4 years,Sample job description,2026-09-01
+J0032,Nashik,Company_33,Supply Chain Coordinator,1220416,5 years,Sample job description,2026-09-01
+J0033,Nashik,Company_30,PLC Programmer,1229208,5 years,Sample job description,2026-09-01
+J0034,Pune,Company_26,Robotics Maintenance Tech,998978,4 years,Sample job description,2026-09-01
+J0035,Nashik,Company_80,Digital Marketing Specialist,871823,5 years,Sample job description,2026-09-01
+J0036,Nashik,Company_63,Warehouse Manager,1076517,5 years,Sample job description,2026-09-01
+J0037,Mumbai,Company_39,EV Battery Technician,1352747,0 years,Sample job description,2026-09-01
+J0038,Nagpur,Company_36,Data Analyst,1449642,3 years,Sample job description,2026-09-01
+J0039,Nashik,Company_13,Supply Chain Coordinator,924102,1 years,Sample job description,2026-09-01
+J0040,Mumbai,Company_73,Supply Chain Coordinator,597205,3 years,Sample job description,2026-09-01
+J0041,Nagpur,Company_29,Robotics Maintenance Tech,979006,3 years,Sample job description,2026-09-01
+J0042,Chhatrapati Sambhajinagar,Company_19,Full Stack Developer,680789,0 years,Sample job description,2026-09-01
+J0043,Chhatrapati Sambhajinagar,Company_21,PLC Programmer,1044774,4 years,Sample job description,2026-09-01
+J0044,Chhatrapati Sambhajinagar,Company_17,PLC Programmer,1255095,0 years,Sample job description,2026-09-01
+J0045,Chhatrapati Sambhajinagar,Company_73,Cloud Architect,555133,4 years,Sample job description,2026-09-01
+J0046,Mumbai,Company_85,Digital Marketing Specialist,1267166,4 years,Sample job description,2026-09-01
+J0047,Pune,Company_87,Cloud Architect,1329915,4 years,Sample job description,2026-09-01
+J0048,Nashik,Company_31,Cloud Architect,446200,5 years,Sample job description,2026-09-01
+J0049,Mumbai,Company_95,Data Analyst,1456763,1 years,Sample job description,2026-09-01
+J0050,Chhatrapati Sambhajinagar,Company_60,Data Analyst,1423551,2 years,Sample job description,2026-09-01
+J0051,Pune,Company_85,PLC Programmer,886699,3 years,Sample job description,2026-09-01
+J0052,Chhatrapati Sambhajinagar,Company_71,Solar Grid Engineer,956440,0 years,Sample job description,2026-09-01
+J0053,Nashik,Company_65,Supply Chain Coordinator,754670,4 years,Sample job description,2026-09-01
+J0054,Nagpur,Company_92,Cloud Architect,767974,1 years,Sample job description,2026-09-01
+J0055,Pune,Company_76,Supply Chain Coordinator,322507,0 years,Sample job description,2026-09-01
+J0056,Chhatrapati Sambhajinagar,Company_63,Data Analyst,1400854,1 years,Sample job description,2026-09-01
+J0057,Pune,Company_49,Robotics Maintenance Tech,692013,1 years,Sample job description,2026-09-01
+J0058,Nagpur,Company_38,Data Analyst,1030343,2 years,Sample job description,2026-09-01
+J0059,Mumbai,Company_90,Full Stack Developer,1268177,4 years,Sample job description,2026-09-01
+J0060,Pune,Company_42,Robotics Maintenance Tech,710314,1 years,Sample job description,2026-09-01
+J0061,Mumbai,Company_78,Solar Grid Engineer,1364099,0 years,Sample job description,2026-09-01
+J0062,Chhatrapati Sambhajinagar,Company_34,EV Battery Technician,1464250,1 years,Sample job description,2026-09-01
+J0063,Chhatrapati Sambhajinagar,Company_6,EV Battery Technician,453389,2 years,Sample job description,2026-09-01
+J0064,Mumbai,Company_85,Robotics Maintenance Tech,897700,0 years,Sample job description,2026-09-01
+J0065,Mumbai,Company_5,PLC Programmer,1381446,5 years,Sample job description,2026-09-01
+J0066,Nagpur,Company_93,EV Battery Technician,1243479,0 years,Sample job description,2026-09-01
+J0067,Pune,Company_58,Supply Chain Coordinator,1096332,2 years,Sample job description,2026-09-01
+J0068,Nashik,Company_29,Digital Marketing Specialist,662583,0 years,Sample job description,2026-09-01
+J0069,Chhatrapati Sambhajinagar,Company_52,Data Analyst,1108915,4 years,Sample job description,2026-09-01
+J0070,Chhatrapati Sambhajinagar,Company_89,Robotics Maintenance Tech,644153,4 years,Sample job description,2026-09-01
+J0071,Nashik,Company_2,Digital Marketing Specialist,1098358,4 years,Sample job description,2026-09-01
+J0072,Nagpur,Company_58,Data Analyst,1031441,2 years,Sample job description,2026-09-01
+J0073,Nashik,Company_88,Solar Grid Engineer,1070784,3 years,Sample job description,2026-09-01
+J0074,Nagpur,Company_7,Warehouse Manager,1097882,4 years,Sample job description,2026-09-01
+J0075,Pune,Company_39,PLC Programmer,1264646,5 years,Sample job description,2026-09-01
+J0076,Mumbai,Company_7,Data Analyst,1355894,1 years,Sample job description,2026-09-01
+J0077,Pune,Company_60,EV Battery Technician,1412608,2 years,Sample job description,2026-09-01
+J0078,Nashik,Company_21,Data Analyst,1107430,0 years,Sample job description,2026-09-01
+J0079,Nagpur,Company_9,Solar Grid Engineer,1118851,0 years,Sample job description,2026-09-01
+J0080,Pune,Company_86,PLC Programmer,1481134,0 years,Sample job description,2026-09-01
+J0081,Nashik,Company_48,Cloud Architect,983787,5 years,Sample job description,2026-09-01
+J0082,Nashik,Company_26,PLC Programmer,726788,0 years,Sample job description,2026-09-01
+J0083,Nagpur,Company_14,Digital Marketing Specialist,1403176,1 years,Sample job description,2026-09-01
+J0084,Nashik,Company_4,PLC Programmer,1463525,2 years,Sample job description,2026-09-01
+J0085,Nashik,Company_78,Solar Grid Engineer,654108,3 years,Sample job description,2026-09-01
+J0086,Pune,Company_87,Solar Grid Engineer,870035,2 years,Sample job description,2026-09-01
+J0087,Nagpur,Company_67,Supply Chain Coordinator,813785,1 years,Sample job description,2026-09-01
+J0088,Mumbai,Company_70,Solar Grid Engineer,482720,3 years,Sample job description,2026-09-01
+J0089,Chhatrapati Sambhajinagar,Company_43,PLC Programmer,1442777,1 years,Sample job description,2026-09-01
+J0090,Nagpur,Company_94,EV Battery Technician,1200390,2 years,Sample job description,2026-09-01
+J0091,Mumbai,Company_11,PLC Programmer,1256561,5 years,Sample job description,2026-09-01
+J0092,Nashik,Company_74,Cloud Architect,1326686,1 years,Sample job description,2026-09-01
+J0093,Nagpur,Company_52,Cloud Architect,953544,5 years,Sample job description,2026-09-01
+J0094,Nagpur,Company_31,Robotics Maintenance Tech,1156119,0 years,Sample job description,2026-09-01
+J0095,Mumbai,Company_30,Digital Marketing Specialist,1117644,5 years,Sample job description,2026-09-01
+J0096,Nagpur,Company_71,Data Analyst,1180522,2 years,Sample job description,2026-09-01
+J0097,Mumbai,Company_22,EV Battery Technician,1150935,3 years,Sample job description,2026-09-01
+J0098,Pune,Company_38,Supply Chain Coordinator,590905,3 years,Sample job description,2026-09-01
+J0099,Pune,Company_64,PLC Programmer,775701,2 years,Sample job description,2026-09-01
+J0100,Nashik,Company_71,Full Stack Developer,834471,0 years,Sample job description,2026-09-01
+J0101,Chhatrapati Sambhajinagar,Company_14,EV Battery Technician,853065,2 years,Sample job description,2026-09-01
+J0102,Pune,Company_99,Supply Chain Coordinator,675759,1 years,Sample job description,2026-09-01
+J0103,Pune,Company_74,Digital Marketing Specialist,849660,4 years,Sample job description,2026-09-01
+J0104,Nagpur,Company_53,Digital Marketing Specialist,1422558,3 years,Sample job description,2026-09-01
+J0105,Nashik,Company_66,Supply Chain Coordinator,1490267,5 years,Sample job description,2026-09-01
+J0106,Mumbai,Company_2,Data Analyst,1420882,0 years,Sample job description,2026-09-01
+J0107,Pune,Company_43,Digital Marketing Specialist,922024,0 years,Sample job description,2026-09-01
+J0108,Mumbai,Company_98,Solar Grid Engineer,570191,0 years,Sample job description,2026-09-01
+J0109,Mumbai,Company_25,Data Analyst,1025793,1 years,Sample job description,2026-09-01
+J0110,Mumbai,Company_91,Warehouse Manager,411336,1 years,Sample job description,2026-09-01
+J0111,Pune,Company_73,Solar Grid Engineer,632632,0 years,Sample job description,2026-09-01
+J0112,Chhatrapati Sambhajinagar,Company_56,Full Stack Developer,406268,0 years,Sample job description,2026-09-01
+J0113,Mumbai,Company_55,Full Stack Developer,1370049,1 years,Sample job description,2026-09-01
+J0114,Mumbai,Company_92,Cloud Architect,1288411,5 years,Sample job description,2026-09-01
+J0115,Nashik,Company_36,Warehouse Manager,694708,3 years,Sample job description,2026-09-01
+J0116,Chhatrapati Sambhajinagar,Company_3,EV Battery Technician,1422656,4 years,Sample job description,2026-09-01
+J0117,Nagpur,Company_66,EV Battery Technician,753710,2 years,Sample job description,2026-09-01
+J0118,Nashik,Company_40,Supply Chain Coordinator,1141640,1 years,Sample job description,2026-09-01
+J0119,Mumbai,Company_16,EV Battery Technician,1224617,4 years,Sample job description,2026-09-01
+J0120,Nashik,Company_23,Data Analyst,1286562,2 years,Sample job description,2026-09-01
+J0121,Chhatrapati Sambhajinagar,Company_72,Solar Grid Engineer,842327,4 years,Sample job description,2026-09-01
+J0122,Mumbai,Company_44,Solar Grid Engineer,703612,3 years,Sample job description,2026-09-01
+J0123,Chhatrapati Sambhajinagar,Company_97,Solar Grid Engineer,1252078,3 years,Sample job description,2026-09-01
+J0124,Nashik,Company_75,Supply Chain Coordinator,978499,3 years,Sample job description,2026-09-01
+J0125,Mumbai,Company_70,Robotics Maintenance Tech,1324452,3 years,Sample job description,2026-09-01
+J0126,Nashik,Company_66,Data Analyst,458963,1 years,Sample job description,2026-09-01
+J0127,Pune,Company_28,PLC Programmer,348889,2 years,Sample job description,2026-09-01
+J0128,Nashik,Company_86,EV Battery Technician,658304,5 years,Sample job description,2026-09-01
+J0129,Mumbai,Company_95,PLC Programmer,590580,4 years,Sample job description,2026-09-01
+J0130,Nashik,Company_34,Cloud Architect,1424486,0 years,Sample job description,2026-09-01
+J0131,Nashik,Company_88,Data Analyst,1260329,1 years,Sample job description,2026-09-01
+J0132,Mumbai,Company_31,Full Stack Developer,886038,4 years,Sample job description,2026-09-01
+J0133,Nashik,Company_14,Robotics Maintenance Tech,1202918,5 years,Sample job description,2026-09-01
+J0134,Mumbai,Company_74,EV Battery Technician,389361,1 years,Sample job description,2026-09-01
+J0135,Chhatrapati Sambhajinagar,Company_83,Full Stack Developer,878413,5 years,Sample job description,2026-09-01
+J0136,Pune,Company_38,Robotics Maintenance Tech,1180405,1 years,Sample job description,2026-09-01
+J0137,Nagpur,Company_23,Digital Marketing Specialist,1263991,4 years,Sample job description,2026-09-01
+J0138,Nagpur,Company_30,Solar Grid Engineer,733167,3 years,Sample job description,2026-09-01
+J0139,Mumbai,Company_55,Data Analyst,615213,0 years,Sample job description,2026-09-01
+J0140,Pune,Company_29,Digital Marketing Specialist,937356,0 years,Sample job description,2026-09-01
+J0141,Mumbai,Company_61,Digital Marketing Specialist,1006241,1 years,Sample job description,2026-09-01
+J0142,Chhatrapati Sambhajinagar,Company_22,Data Analyst,444680,1 years,Sample job description,2026-09-01
+J0143,Nagpur,Company_91,Full Stack Developer,1320948,5 years,Sample job description,2026-09-01
+J0144,Mumbai,Company_1,EV Battery Technician,1482585,1 years,Sample job description,2026-09-01
+J0145,Chhatrapati Sambhajinagar,Company_41,Data Analyst,968603,0 years,Sample job description,2026-09-01
+J0146,Pune,Company_74,Supply Chain Coordinator,538478,2 years,Sample job description,2026-09-01
+J0147,Nashik,Company_27,Full Stack Developer,1031339,4 years,Sample job description,2026-09-01
+J0148,Chhatrapati Sambhajinagar,Company_98,Digital Marketing Specialist,1391744,5 years,Sample job description,2026-09-01
+J0149,Chhatrapati Sambhajinagar,Company_74,Cloud Architect,1031244,2 years,Sample job description,2026-09-01
+J0150,Nashik,Company_81,Full Stack Developer,831410,3 years,Sample job description,2026-09-01
+J0151,Nashik,Company_16,Full Stack Developer,580777,1 years,Sample job description,2026-09-01
+J0152,Nashik,Company_73,Data Analyst,1262040,4 years,Sample job description,2026-09-01
+J0153,Chhatrapati Sambhajinagar,Company_88,Cloud Architect,1288629,3 years,Sample job description,2026-09-01
+J0154,Chhatrapati Sambhajinagar,Company_20,Supply Chain Coordinator,495988,0 years,Sample job description,2026-09-01
+J0155,Nagpur,Company_80,Data Analyst,817406,1 years,Sample job description,2026-09-01
+J0156,Pune,Company_3,EV Battery Technician,743237,2 years,Sample job description,2026-09-01
+J0157,Chhatrapati Sambhajinagar,Company_3,Robotics Maintenance Tech,1328992,1 years,Sample job description,2026-09-01
+J0158,Mumbai,Company_71,Cloud Architect,1275502,0 years,Sample job description,2026-09-01
+J0159,Chhatrapati Sambhajinagar,Company_68,EV Battery Technician,926037,0 years,Sample job description,2026-09-01
+J0160,Nagpur,Company_76,Cloud Architect,349247,3 years,Sample job description,2026-09-01
+J0161,Pune,Company_38,Full Stack Developer,986236,2 years,Sample job description,2026-09-01
+J0162,Nagpur,Company_26,Solar Grid Engineer,1486508,0 years,Sample job description,2026-09-01
+J0163,Nagpur,Company_39,Warehouse Manager,1450421,5 years,Sample job description,2026-09-01
+J0164,Nagpur,Company_79,Warehouse Manager,1275754,2 years,Sample job description,2026-09-01
+J0165,Chhatrapati Sambhajinagar,Company_81,Supply Chain Coordinator,885226,0 years,Sample job description,2026-09-01
+J0166,Chhatrapati Sambhajinagar,Company_82,Supply Chain Coordinator,855792,2 years,Sample job description,2026-09-01
+J0167,Chhatrapati Sambhajinagar,Company_82,PLC Programmer,568065,5 years,Sample job description,2026-09-01
+J0168,Mumbai,Company_61,Full Stack Developer,840226,2 years,Sample job description,2026-09-01
+J0169,Nashik,Company_85,Full Stack Developer,632827,3 years,Sample job description,2026-09-01
+J0170,Chhatrapati Sambhajinagar,Company_13,Solar Grid Engineer,786156,2 years,Sample job description,2026-09-01
+J0171,Chhatrapati Sambhajinagar,Company_76,Robotics Maintenance Tech,539929,5 years,Sample job description,2026-09-01
+J0172,Chhatrapati Sambhajinagar,Company_89,Robotics Maintenance Tech,650163,1 years,Sample job description,2026-09-01
+J0173,Mumbai,Company_87,Supply Chain Coordinator,1363382,5 years,Sample job description,2026-09-01
+J0174,Chhatrapati Sambhajinagar,Company_76,Data Analyst,1307682,3 years,Sample job description,2026-09-01
+J0175,Nagpur,Company_21,Cloud Architect,1467862,5 years,Sample job description,2026-09-01
+J0176,Chhatrapati Sambhajinagar,Company_75,Data Analyst,964550,1 years,Sample job description,2026-09-01
+J0177,Nagpur,Company_97,Digital Marketing Specialist,1095938,5 years,Sample job description,2026-09-01
+J0178,Mumbai,Company_41,Robotics Maintenance Tech,1180008,3 years,Sample job description,2026-09-01
+J0179,Pune,Company_17,Digital Marketing Specialist,830504,0 years,Sample job description,2026-09-01
+J0180,Chhatrapati Sambhajinagar,Company_37,Data Analyst,1139599,3 years,Sample job description,2026-09-01
+J0181,Chhatrapati Sambhajinagar,Company_92,Digital Marketing Specialist,1272119,1 years,Sample job description,2026-09-01
+J0182,Chhatrapati Sambhajinagar,Company_99,Cloud Architect,627665,1 years,Sample job description,2026-09-01
+J0183,Pune,Company_48,Solar Grid Engineer,1194519,4 years,Sample job description,2026-09-01
+J0184,Nashik,Company_75,Digital Marketing Specialist,1093301,0 years,Sample job description,2026-09-01
+J0185,Chhatrapati Sambhajinagar,Company_51,Full Stack Developer,1203794,1 years,Sample job description,2026-09-01
+J0186,Nagpur,Company_27,Data Analyst,503478,0 years,Sample job description,2026-09-01
+J0187,Pune,Company_53,Robotics Maintenance Tech,754086,0 years,Sample job description,2026-09-01
+J0188,Mumbai,Company_6,Warehouse Manager,1177744,3 years,Sample job description,2026-09-01
+J0189,Chhatrapati Sambhajinagar,Company_7,Data Analyst,736252,5 years,Sample job description,2026-09-01
+J0190,Nashik,Company_62,Warehouse Manager,1306720,4 years,Sample job description,2026-09-01
+J0191,Nashik,Company_44,PLC Programmer,1373692,3 years,Sample job description,2026-09-01
+J0192,Mumbai,Company_39,Full Stack Developer,951013,1 years,Sample job description,2026-09-01
+J0193,Mumbai,Company_54,PLC Programmer,678603,2 years,Sample job description,2026-09-01
+J0194,Chhatrapati Sambhajinagar,Company_34,PLC Programmer,572095,5 years,Sample job description,2026-09-01
+J0195,Chhatrapati Sambhajinagar,Company_42,Supply Chain Coordinator,901267,3 years,Sample job description,2026-09-01
+J0196,Chhatrapati Sambhajinagar,Company_45,PLC Programmer,1460186,5 years,Sample job description,2026-09-01
+J0197,Nagpur,Company_17,Solar Grid Engineer,1308545,4 years,Sample job description,2026-09-01
+J0198,Chhatrapati Sambhajinagar,Company_97,Data Analyst,751163,4 years,Sample job description,2026-09-01
+J0199,Pune,Company_97,Robotics Maintenance Tech,1292224,2 years,Sample job description,2026-09-01
+J0200,Nashik,Company_76,Warehouse Manager,928427,4 years,Sample job description,2026-09-01
+J0201,Nagpur,Company_96,Digital Marketing Specialist,751557,5 years,Sample job description,2026-09-01
+J0202,Chhatrapati Sambhajinagar,Company_38,Data Analyst,693084,4 years,Sample job description,2026-09-01
+J0203,Nagpur,Company_45,Cloud Architect,1238004,4 years,Sample job description,2026-09-01
+J0204,Chhatrapati Sambhajinagar,Company_66,Full Stack Developer,478586,4 years,Sample job description,2026-09-01
+J0205,Nagpur,Company_22,Warehouse Manager,836912,5 years,Sample job description,2026-09-01
+J0206,Mumbai,Company_22,Robotics Maintenance Tech,301160,4 years,Sample job description,2026-09-01
+J0207,Mumbai,Company_67,Supply Chain Coordinator,1246154,3 years,Sample job description,2026-09-01
+J0208,Mumbai,Company_41,Solar Grid Engineer,1120936,2 years,Sample job description,2026-09-01
+J0209,Chhatrapati Sambhajinagar,Company_96,Digital Marketing Specialist,1272220,1 years,Sample job description,2026-09-01
+J0210,Pune,Company_33,Cloud Architect,834822,1 years,Sample job description,2026-09-01
+J0211,Nagpur,Company_3,Cloud Architect,912566,5 years,Sample job description,2026-09-01
+J0212,Nagpur,Company_90,Supply Chain Coordinator,338639,1 years,Sample job description,2026-09-01
+J0213,Chhatrapati Sambhajinagar,Company_31,Data Analyst,532748,4 years,Sample job description,2026-09-01
+J0214,Nashik,Company_58,Data Analyst,445445,1 years,Sample job description,2026-09-01
+J0215,Nashik,Company_71,EV Battery Technician,611489,5 years,Sample job description,2026-09-01
+J0216,Nashik,Company_19,Solar Grid Engineer,453483,1 years,Sample job description,2026-09-01
+J0217,Nashik,Company_8,Warehouse Manager,1409550,5 years,Sample job description,2026-09-01
+J0218,Nashik,Company_32,PLC Programmer,1333927,1 years,Sample job description,2026-09-01
+J0219,Nagpur,Company_22,Solar Grid Engineer,688451,5 years,Sample job description,2026-09-01
+J0220,Nagpur,Company_42,EV Battery Technician,1380972,1 years,Sample job description,2026-09-01
+J0221,Nashik,Company_44,Digital Marketing Specialist,809732,2 years,Sample job description,2026-09-01
+J0222,Nagpur,Company_5,Full Stack Developer,1425648,5 years,Sample job description,2026-09-01
+J0223,Pune,Company_97,PLC Programmer,1340848,4 years,Sample job description,2026-09-01
+J0224,Chhatrapati Sambhajinagar,Company_37,PLC Programmer,975333,3 years,Sample job description,2026-09-01
+J0225,Nagpur,Company_32,Cloud Architect,810790,2 years,Sample job description,2026-09-01
+J0226,Pune,Company_11,Full Stack Developer,568796,2 years,Sample job description,2026-09-01
+J0227,Nagpur,Company_51,Supply Chain Coordinator,1466844,1 years,Sample job description,2026-09-01
+J0228,Nashik,Company_16,Full Stack Developer,588043,1 years,Sample job description,2026-09-01
+J0229,Nashik,Company_33,Cloud Architect,551672,5 years,Sample job description,2026-09-01
+J0230,Pune,Company_49,Robotics Maintenance Tech,1050284,3 years,Sample job description,2026-09-01
+J0231,Chhatrapati Sambhajinagar,Company_100,EV Battery Technician,818825,3 years,Sample job description,2026-09-01
+J0232,Chhatrapati Sambhajinagar,Company_30,Warehouse Manager,1365922,0 years,Sample job description,2026-09-01
+J0233,Nagpur,Company_80,Warehouse Manager,1028133,4 years,Sample job description,2026-09-01
+J0234,Chhatrapati Sambhajinagar,Company_64,Digital Marketing Specialist,923841,2 years,Sample job description,2026-09-01
+J0235,Nashik,Company_95,Cloud Architect,1261007,1 years,Sample job description,2026-09-01
+J0236,Pune,Company_94,Data Analyst,456387,1 years,Sample job description,2026-09-01
+J0237,Chhatrapati Sambhajinagar,Company_94,Data Analyst,315012,0 years,Sample job description,2026-09-01
+J0238,Mumbai,Company_81,PLC Programmer,981684,0 years,Sample job description,2026-09-01
+J0239,Nashik,Company_71,Solar Grid Engineer,1425755,2 years,Sample job description,2026-09-01
+J0240,Chhatrapati Sambhajinagar,Company_44,Full Stack Developer,491513,5 years,Sample job description,2026-09-01
+J0241,Mumbai,Company_48,Cloud Architect,1207316,4 years,Sample job description,2026-09-01
+J0242,Nashik,Company_95,Solar Grid Engineer,333169,0 years,Sample job description,2026-09-01
+J0243,Mumbai,Company_100,Robotics Maintenance Tech,1313869,5 years,Sample job description,2026-09-01
+J0244,Pune,Company_75,Data Analyst,625303,1 years,Sample job description,2026-09-01
+J0245,Mumbai,Company_29,PLC Programmer,1210604,2 years,Sample job description,2026-09-01
+J0246,Chhatrapati Sambhajinagar,Company_54,Warehouse Manager,354831,0 years,Sample job description,2026-09-01
+J0247,Nashik,Company_85,Data Analyst,1324859,5 years,Sample job description,2026-09-01
+J0248,Chhatrapati Sambhajinagar,Company_78,Cloud Architect,706026,5 years,Sample job description,2026-09-01
+J0249,Nashik,Company_83,PLC Programmer,1075815,4 years,Sample job description,2026-09-01
+J0250,Nashik,Company_95,EV Battery Technician,1280336,5 years,Sample job description,2026-09-01
+J0251,Nagpur,Company_64,Data Analyst,771897,0 years,Sample job description,2026-09-01
+J0252,Mumbai,Company_58,Cloud Architect,1232092,0 years,Sample job description,2026-09-01
+J0253,Nagpur,Company_95,Supply Chain Coordinator,645464,1 years,Sample job description,2026-09-01
+J0254,Chhatrapati Sambhajinagar,Company_45,PLC Programmer,1365380,5 years,Sample job description,2026-09-01
+J0255,Chhatrapati Sambhajinagar,Company_64,Full Stack Developer,661146,1 years,Sample job description,2026-09-01
+J0256,Pune,Company_9,PLC Programmer,1397048,2 years,Sample job description,2026-09-01
+J0257,Nashik,Company_86,PLC Programmer,891002,5 years,Sample job description,2026-09-01
+J0258,Pune,Company_91,EV Battery Technician,1032406,3 years,Sample job description,2026-09-01
+J0259,Chhatrapati Sambhajinagar,Company_66,Digital Marketing Specialist,534000,1 years,Sample job description,2026-09-01
+J0260,Chhatrapati Sambhajinagar,Company_58,EV Battery Technician,438682,3 years,Sample job description,2026-09-01
+J0261,Pune,Company_22,Warehouse Manager,1163796,4 years,Sample job description,2026-09-01
+J0262,Mumbai,Company_48,Cloud Architect,1003500,2 years,Sample job description,2026-09-01
+J0263,Nagpur,Company_73,Warehouse Manager,610902,5 years,Sample job description,2026-09-01
+J0264,Nashik,Company_79,Supply Chain Coordinator,499121,0 years,Sample job description,2026-09-01
+J0265,Nashik,Company_81,Warehouse Manager,941000,5 years,Sample job description,2026-09-01
+J0266,Nashik,Company_71,Cloud Architect,712300,4 years,Sample job description,2026-09-01
+J0267,Nashik,Company_70,Supply Chain Coordinator,1210022,2 years,Sample job description,2026-09-01
+J0268,Chhatrapati Sambhajinagar,Company_66,Warehouse Manager,1469348,3 years,Sample job description,2026-09-01
+J0269,Mumbai,Company_18,PLC Programmer,869494,1 years,Sample job description,2026-09-01
+J0270,Nashik,Company_91,EV Battery Technician,626644,1 years,Sample job description,2026-09-01
+J0271,Nashik,Company_94,Solar Grid Engineer,822738,1 years,Sample job description,2026-09-01
+J0272,Chhatrapati Sambhajinagar,Company_25,EV Battery Technician,695176,1 years,Sample job description,2026-09-01
+J0273,Nashik,Company_36,Cloud Architect,1450957,4 years,Sample job description,2026-09-01
+J0274,Mumbai,Company_39,Robotics Maintenance Tech,540606,2 years,Sample job description,2026-09-01
+J0275,Pune,Company_77,Warehouse Manager,536565,0 years,Sample job description,2026-09-01
+J0276,Pune,Company_50,EV Battery Technician,420661,2 years,Sample job description,2026-09-01
+J0277,Chhatrapati Sambhajinagar,Company_3,Full Stack Developer,583636,5 years,Sample job description,2026-09-01
+J0278,Nashik,Company_41,Data Analyst,538276,4 years,Sample job description,2026-09-01
+J0279,Mumbai,Company_79,Digital Marketing Specialist,1321032,0 years,Sample job description,2026-09-01
+J0280,Nashik,Company_5,Robotics Maintenance Tech,1177198,0 years,Sample job description,2026-09-01
+J0281,Pune,Company_28,Solar Grid Engineer,545580,5 years,Sample job description,2026-09-01
+J0282,Nashik,Company_57,Robotics Maintenance Tech,1443572,5 years,Sample job description,2026-09-01
+J0283,Chhatrapati Sambhajinagar,Company_24,Supply Chain Coordinator,1016417,0 years,Sample job description,2026-09-01
+J0284,Chhatrapati Sambhajinagar,Company_29,Supply Chain Coordinator,966806,0 years,Sample job description,2026-09-01
+J0285,Chhatrapati Sambhajinagar,Company_3,EV Battery Technician,1239983,4 years,Sample job description,2026-09-01
+J0286,Mumbai,Company_47,Digital Marketing Specialist,938930,0 years,Sample job description,2026-09-01
+J0287,Mumbai,Company_68,Robotics Maintenance Tech,1139457,5 years,Sample job description,2026-09-01
+J0288,Chhatrapati Sambhajinagar,Company_91,Solar Grid Engineer,531603,3 years,Sample job description,2026-09-01
+J0289,Chhatrapati Sambhajinagar,Company_14,Digital Marketing Specialist,444565,2 years,Sample job description,2026-09-01
+J0290,Mumbai,Company_51,Solar Grid Engineer,1180582,4 years,Sample job description,2026-09-01
+J0291,Chhatrapati Sambhajinagar,Company_61,Cloud Architect,741828,2 years,Sample job description,2026-09-01
+J0292,Mumbai,Company_23,Solar Grid Engineer,1052859,0 years,Sample job description,2026-09-01
+J0293,Chhatrapati Sambhajinagar,Company_98,Supply Chain Coordinator,487563,3 years,Sample job description,2026-09-01
+J0294,Mumbai,Company_16,Data Analyst,568855,4 years,Sample job description,2026-09-01
+J0295,Pune,Company_83,Data Analyst,813326,5 years,Sample job description,2026-09-01
+J0296,Nashik,Company_61,Supply Chain Coordinator,820261,0 years,Sample job description,2026-09-01
+J0297,Chhatrapati Sambhajinagar,Company_23,Robotics Maintenance Tech,1364664,0 years,Sample job description,2026-09-01
+J0298,Nagpur,Company_86,Cloud Architect,467777,5 years,Sample job description,2026-09-01
+J0299,Chhatrapati Sambhajinagar,Company_70,Full Stack Developer,532283,5 years,Sample job description,2026-09-01
+J0300,Nagpur,Company_36,Warehouse Manager,1052516,0 years,Sample job description,2026-09-01
+J0301,Nashik,Company_74,Digital Marketing Specialist,672012,0 years,Sample job description,2026-09-01
+J0302,Nagpur,Company_95,PLC Programmer,1421926,2 years,Sample job description,2026-09-01
+J0303,Nagpur,Company_89,PLC Programmer,838490,4 years,Sample job description,2026-09-01
+J0304,Nashik,Company_31,EV Battery Technician,1258556,0 years,Sample job description,2026-09-01
+J0305,Mumbai,Company_18,Full Stack Developer,594191,3 years,Sample job description,2026-09-01
+J0306,Chhatrapati Sambhajinagar,Company_80,Solar Grid Engineer,1249756,1 years,Sample job description,2026-09-01
+J0307,Nashik,Company_79,Cloud Architect,867025,2 years,Sample job description,2026-09-01
+J0308,Mumbai,Company_10,Supply Chain Coordinator,754056,5 years,Sample job description,2026-09-01
+J0309,Mumbai,Company_82,Digital Marketing Specialist,1259684,5 years,Sample job description,2026-09-01
+J0310,Nagpur,Company_82,Solar Grid Engineer,924554,0 years,Sample job description,2026-09-01
+J0311,Mumbai,Company_70,Robotics Maintenance Tech,1116566,5 years,Sample job description,2026-09-01
+J0312,Mumbai,Company_43,Digital Marketing Specialist,1336246,3 years,Sample job description,2026-09-01
+J0313,Chhatrapati Sambhajinagar,Company_66,Full Stack Developer,956423,4 years,Sample job description,2026-09-01
+J0314,Nagpur,Company_98,EV Battery Technician,655264,2 years,Sample job description,2026-09-01
+J0315,Chhatrapati Sambhajinagar,Company_95,Cloud Architect,699250,2 years,Sample job description,2026-09-01
+J0316,Nagpur,Company_37,Cloud Architect,645983,5 years,Sample job description,2026-09-01
+J0317,Chhatrapati Sambhajinagar,Company_32,Robotics Maintenance Tech,1331474,1 years,Sample job description,2026-09-01
+J0318,Mumbai,Company_43,Solar Grid Engineer,547268,3 years,Sample job description,2026-09-01
+J0319,Nagpur,Company_28,Supply Chain Coordinator,1382778,5 years,Sample job description,2026-09-01
+J0320,Pune,Company_10,Digital Marketing Specialist,669409,0 years,Sample job description,2026-09-01
+J0321,Mumbai,Company_11,Warehouse Manager,1405000,0 years,Sample job description,2026-09-01
+J0322,Nagpur,Company_100,PLC Programmer,1244387,3 years,Sample job description,2026-09-01
+J0323,Chhatrapati Sambhajinagar,Company_9,Cloud Architect,306210,3 years,Sample job description,2026-09-01
+J0324,Mumbai,Company_92,Supply Chain Coordinator,740780,5 years,Sample job description,2026-09-01
+J0325,Nagpur,Company_40,Data Analyst,1462951,1 years,Sample job description,2026-09-01
+J0326,Nagpur,Company_54,Warehouse Manager,859640,2 years,Sample job description,2026-09-01
+J0327,Pune,Company_69,Digital Marketing Specialist,821020,2 years,Sample job description,2026-09-01
+J0328,Nagpur,Company_15,Solar Grid Engineer,1437753,3 years,Sample job description,2026-09-01
+J0329,Mumbai,Company_58,Cloud Architect,1396554,4 years,Sample job description,2026-09-01
+J0330,Mumbai,Company_75,Digital Marketing Specialist,653418,0 years,Sample job description,2026-09-01
+J0331,Nashik,Company_85,PLC Programmer,660756,1 years,Sample job description,2026-09-01
+J0332,Nagpur,Company_6,Supply Chain Coordinator,527301,3 years,Sample job description,2026-09-01
+J0333,Nagpur,Company_25,Solar Grid Engineer,800864,5 years,Sample job description,2026-09-01
+J0334,Pune,Company_72,Solar Grid Engineer,1284497,1 years,Sample job description,2026-09-01
+J0335,Pune,Company_39,PLC Programmer,583482,4 years,Sample job description,2026-09-01
+J0336,Chhatrapati Sambhajinagar,Company_99,Robotics Maintenance Tech,1260133,0 years,Sample job description,2026-09-01
+J0337,Nashik,Company_31,Supply Chain Coordinator,396362,2 years,Sample job description,2026-09-01
+J0338,Mumbai,Company_90,Supply Chain Coordinator,1326341,4 years,Sample job description,2026-09-01
+J0339,Nagpur,Company_65,Robotics Maintenance Tech,1075443,4 years,Sample job description,2026-09-01
+J0340,Chhatrapati Sambhajinagar,Company_20,Solar Grid Engineer,483509,3 years,Sample job description,2026-09-01
+J0341,Mumbai,Company_52,Supply Chain Coordinator,1365462,1 years,Sample job description,2026-09-01
+J0342,Mumbai,Company_42,Warehouse Manager,503730,5 years,Sample job description,2026-09-01
+J0343,Mumbai,Company_35,Data Analyst,1112846,1 years,Sample job description,2026-09-01
+J0344,Mumbai,Company_62,Data Analyst,1087930,3 years,Sample job description,2026-09-01
+J0345,Chhatrapati Sambhajinagar,Company_33,Supply Chain Coordinator,1181022,1 years,Sample job description,2026-09-01
+J0346,Pune,Company_2,Data Analyst,567955,4 years,Sample job description,2026-09-01
+J0347,Nashik,Company_22,Warehouse Manager,1176743,5 years,Sample job description,2026-09-01
+J0348,Chhatrapati Sambhajinagar,Company_48,PLC Programmer,389808,5 years,Sample job description,2026-09-01
+J0349,Nashik,Company_23,Digital Marketing Specialist,725304,5 years,Sample job description,2026-09-01
+J0350,Pune,Company_81,Full Stack Developer,1120111,1 years,Sample job description,2026-09-01
+J0351,Mumbai,Company_17,Full Stack Developer,1239791,1 years,Sample job description,2026-09-01
+J0352,Nashik,Company_60,PLC Programmer,1370820,1 years,Sample job description,2026-09-01
+J0353,Pune,Company_10,Solar Grid Engineer,1199927,2 years,Sample job description,2026-09-01
+J0354,Nagpur,Company_78,Solar Grid Engineer,1113595,3 years,Sample job description,2026-09-01
+J0355,Mumbai,Company_6,Robotics Maintenance Tech,418519,5 years,Sample job description,2026-09-01
+J0356,Nashik,Company_9,Cloud Architect,381223,1 years,Sample job description,2026-09-01
+J0357,Mumbai,Company_2,Supply Chain Coordinator,802260,0 years,Sample job description,2026-09-01
+J0358,Mumbai,Company_16,Solar Grid Engineer,1302344,2 years,Sample job description,2026-09-01
+J0359,Mumbai,Company_35,Data Analyst,449919,4 years,Sample job description,2026-09-01
+J0360,Mumbai,Company_5,Robotics Maintenance Tech,388397,5 years,Sample job description,2026-09-01
+J0361,Chhatrapati Sambhajinagar,Company_41,Digital Marketing Specialist,824294,2 years,Sample job description,2026-09-01
+J0362,Chhatrapati Sambhajinagar,Company_79,Supply Chain Coordinator,894555,4 years,Sample job description,2026-09-01
+J0363,Pune,Company_39,EV Battery Technician,511235,0 years,Sample job description,2026-09-01
+J0364,Mumbai,Company_63,EV Battery Technician,1488206,0 years,Sample job description,2026-09-01
+J0365,Mumbai,Company_62,Robotics Maintenance Tech,572012,4 years,Sample job description,2026-09-01
+J0366,Pune,Company_75,Data Analyst,1189842,5 years,Sample job description,2026-09-01
+J0367,Nagpur,Company_52,Supply Chain Coordinator,440677,0 years,Sample job description,2026-09-01
+J0368,Chhatrapati Sambhajinagar,Company_16,Full Stack Developer,388267,3 years,Sample job description,2026-09-01
+J0369,Mumbai,Company_33,Digital Marketing Specialist,1446645,5 years,Sample job description,2026-09-01
+J0370,Pune,Company_26,Robotics Maintenance Tech,1067122,5 years,Sample job description,2026-09-01
+J0371,Mumbai,Company_4,Solar Grid Engineer,748425,3 years,Sample job description,2026-09-01
+J0372,Nashik,Company_17,Digital Marketing Specialist,1303497,4 years,Sample job description,2026-09-01
+J0373,Mumbai,Company_88,Digital Marketing Specialist,855182,3 years,Sample job description,2026-09-01
+J0374,Pune,Company_53,Warehouse Manager,923462,1 years,Sample job description,2026-09-01
+J0375,Nagpur,Company_56,Full Stack Developer,685717,1 years,Sample job description,2026-09-01
+J0376,Pune,Company_85,Data Analyst,401960,1 years,Sample job description,2026-09-01
+J0377,Mumbai,Company_68,Full Stack Developer,764529,4 years,Sample job description,2026-09-01
+J0378,Mumbai,Company_70,Solar Grid Engineer,826559,3 years,Sample job description,2026-09-01
+J0379,Nashik,Company_25,Supply Chain Coordinator,748364,5 years,Sample job description,2026-09-01
+J0380,Pune,Company_54,PLC Programmer,1472134,0 years,Sample job description,2026-09-01
+J0381,Pune,Company_44,Supply Chain Coordinator,489917,2 years,Sample job description,2026-09-01
+J0382,Nagpur,Company_55,PLC Programmer,833071,2 years,Sample job description,2026-09-01
+J0383,Nagpur,Company_59,PLC Programmer,909372,5 years,Sample job description,2026-09-01
+J0384,Pune,Company_18,PLC Programmer,343878,3 years,Sample job description,2026-09-01
+J0385,Nagpur,Company_53,Robotics Maintenance Tech,394578,5 years,Sample job description,2026-09-01
+J0386,Nagpur,Company_2,Digital Marketing Specialist,786802,3 years,Sample job description,2026-09-01
+J0387,Nashik,Company_22,Solar Grid Engineer,413821,2 years,Sample job description,2026-09-01
+J0388,Mumbai,Company_3,Digital Marketing Specialist,1441735,3 years,Sample job description,2026-09-01
+J0389,Nashik,Company_83,Solar Grid Engineer,1421155,2 years,Sample job description,2026-09-01
+J0390,Nagpur,Company_29,Digital Marketing Specialist,742613,1 years,Sample job description,2026-09-01
+J0391,Nagpur,Company_72,Full Stack Developer,709242,1 years,Sample job description,2026-09-01
+J0392,Nashik,Company_57,Supply Chain Coordinator,446115,2 years,Sample job description,2026-09-01
+J0393,Chhatrapati Sambhajinagar,Company_94,Supply Chain Coordinator,1406245,2 years,Sample job description,2026-09-01
+J0394,Chhatrapati Sambhajinagar,Company_67,Full Stack Developer,413445,2 years,Sample job description,2026-09-01
+J0395,Chhatrapati Sambhajinagar,Company_32,EV Battery Technician,979655,3 years,Sample job description,2026-09-01
+J0396,Nagpur,Company_36,PLC Programmer,1296242,1 years,Sample job description,2026-09-01
+J0397,Nashik,Company_30,Cloud Architect,384902,5 years,Sample job description,2026-09-01
+J0398,Chhatrapati Sambhajinagar,Company_20,Data Analyst,770453,4 years,Sample job description,2026-09-01
+J0399,Pune,Company_61,Digital Marketing Specialist,1157842,2 years,Sample job description,2026-09-01
+J0400,Pune,Company_21,Cloud Architect,885967,2 years,Sample job description,2026-09-01
+J0401,Nagpur,Company_46,Full Stack Developer,853584,3 years,Sample job description,2026-09-01
+J0402,Pune,Company_20,Warehouse Manager,1285234,5 years,Sample job description,2026-09-01
+J0403,Mumbai,Company_37,Cloud Architect,1466628,4 years,Sample job description,2026-09-01
+J0404,Chhatrapati Sambhajinagar,Company_42,Warehouse Manager,614575,4 years,Sample job description,2026-09-01
+J0405,Nashik,Company_99,Digital Marketing Specialist,621788,3 years,Sample job description,2026-09-01
+J0406,Nagpur,Company_77,EV Battery Technician,1369307,1 years,Sample job description,2026-09-01
+J0407,Chhatrapati Sambhajinagar,Company_93,EV Battery Technician,834188,1 years,Sample job description,2026-09-01
+J0408,Nashik,Company_32,Supply Chain Coordinator,960832,3 years,Sample job description,2026-09-01
+J0409,Chhatrapati Sambhajinagar,Company_84,PLC Programmer,721445,4 years,Sample job description,2026-09-01
+J0410,Nagpur,Company_65,EV Battery Technician,371135,3 years,Sample job description,2026-09-01
+J0411,Mumbai,Company_90,Cloud Architect,1495022,4 years,Sample job description,2026-09-01
+J0412,Chhatrapati Sambhajinagar,Company_74,Solar Grid Engineer,745360,3 years,Sample job description,2026-09-01
+J0413,Chhatrapati Sambhajinagar,Company_64,Supply Chain Coordinator,615368,1 years,Sample job description,2026-09-01
+J0414,Pune,Company_80,Solar Grid Engineer,939751,0 years,Sample job description,2026-09-01
+J0415,Chhatrapati Sambhajinagar,Company_73,Data Analyst,1146691,4 years,Sample job description,2026-09-01
+J0416,Nashik,Company_91,EV Battery Technician,1136993,2 years,Sample job description,2026-09-01
+J0417,Mumbai,Company_32,Solar Grid Engineer,358068,2 years,Sample job description,2026-09-01
+J0418,Pune,Company_84,EV Battery Technician,318604,3 years,Sample job description,2026-09-01
+J0419,Chhatrapati Sambhajinagar,Company_31,Supply Chain Coordinator,530136,2 years,Sample job description,2026-09-01
+J0420,Mumbai,Company_76,Warehouse Manager,1215579,0 years,Sample job description,2026-09-01
+J0421,Nashik,Company_38,Robotics Maintenance Tech,1116492,2 years,Sample job description,2026-09-01
+J0422,Mumbai,Company_86,Solar Grid Engineer,1362741,2 years,Sample job description,2026-09-01
+J0423,Pune,Company_14,Supply Chain Coordinator,945524,0 years,Sample job description,2026-09-01
+J0424,Chhatrapati Sambhajinagar,Company_5,Digital Marketing Specialist,1194277,3 years,Sample job description,2026-09-01
+J0425,Mumbai,Company_16,Supply Chain Coordinator,899988,1 years,Sample job description,2026-09-01
+J0426,Nagpur,Company_84,Solar Grid Engineer,677123,2 years,Sample job description,2026-09-01
+J0427,Pune,Company_36,Warehouse Manager,1146665,5 years,Sample job description,2026-09-01
+J0428,Chhatrapati Sambhajinagar,Company_60,Data Analyst,1257141,4 years,Sample job description,2026-09-01
+J0429,Nashik,Company_60,Digital Marketing Specialist,1343361,5 years,Sample job description,2026-09-01
+J0430,Pune,Company_39,Cloud Architect,1264472,5 years,Sample job description,2026-09-01
+J0431,Nashik,Company_19,Cloud Architect,780667,0 years,Sample job description,2026-09-01
+J0432,Nagpur,Company_79,Data Analyst,1398049,3 years,Sample job description,2026-09-01
+J0433,Nashik,Company_62,PLC Programmer,718539,5 years,Sample job description,2026-09-01
+J0434,Mumbai,Company_28,Robotics Maintenance Tech,1000851,2 years,Sample job description,2026-09-01
+J0435,Mumbai,Company_91,Robotics Maintenance Tech,1396649,0 years,Sample job description,2026-09-01
+J0436,Nagpur,Company_85,EV Battery Technician,1356556,5 years,Sample job description,2026-09-01
+J0437,Nagpur,Company_42,Warehouse Manager,310144,4 years,Sample job description,2026-09-01
+J0438,Mumbai,Company_18,Full Stack Developer,612412,2 years,Sample job description,2026-09-01
+J0439,Nagpur,Company_22,EV Battery Technician,388804,5 years,Sample job description,2026-09-01
+J0440,Chhatrapati Sambhajinagar,Company_47,Full Stack Developer,575820,3 years,Sample job description,2026-09-01
+J0441,Mumbai,Company_99,Digital Marketing Specialist,1137914,3 years,Sample job description,2026-09-01
+J0442,Chhatrapati Sambhajinagar,Company_30,PLC Programmer,1275345,5 years,Sample job description,2026-09-01
+J0443,Mumbai,Company_63,Warehouse Manager,358785,0 years,Sample job description,2026-09-01
+J0444,Pune,Company_68,Full Stack Developer,1145384,4 years,Sample job description,2026-09-01
+J0445,Mumbai,Company_30,Warehouse Manager,932691,2 years,Sample job description,2026-09-01
+J0446,Nashik,Company_27,Solar Grid Engineer,1308465,1 years,Sample job description,2026-09-01
+J0447,Mumbai,Company_54,Full Stack Developer,1287298,5 years,Sample job description,2026-09-01
+J0448,Nagpur,Company_39,Full Stack Developer,422697,5 years,Sample job description,2026-09-01
+J0449,Nagpur,Company_90,Data Analyst,464074,5 years,Sample job description,2026-09-01
+J0450,Pune,Company_35,PLC Programmer,738732,1 years,Sample job description,2026-09-01
+J0451,Chhatrapati Sambhajinagar,Company_66,EV Battery Technician,636307,5 years,Sample job description,2026-09-01
+J0452,Mumbai,Company_13,Data Analyst,813420,2 years,Sample job description,2026-09-01
+J0453,Nagpur,Company_38,Data Analyst,1400993,5 years,Sample job description,2026-09-01
+J0454,Chhatrapati Sambhajinagar,Company_62,PLC Programmer,768521,2 years,Sample job description,2026-09-01
+J0455,Mumbai,Company_46,Data Analyst,359897,2 years,Sample job description,2026-09-01
+J0456,Chhatrapati Sambhajinagar,Company_18,Cloud Architect,1160159,0 years,Sample job description,2026-09-01
+J0457,Nagpur,Company_85,Warehouse Manager,1102851,0 years,Sample job description,2026-09-01
+J0458,Nashik,Company_32,Robotics Maintenance Tech,1108754,2 years,Sample job description,2026-09-01
+J0459,Mumbai,Company_69,Solar Grid Engineer,1418557,3 years,Sample job description,2026-09-01
+J0460,Chhatrapati Sambhajinagar,Company_84,Full Stack Developer,703201,2 years,Sample job description,2026-09-01
+J0461,Mumbai,Company_57,Robotics Maintenance Tech,1456570,4 years,Sample job description,2026-09-01
+J0462,Chhatrapati Sambhajinagar,Company_27,Digital Marketing Specialist,1128909,2 years,Sample job description,2026-09-01
+J0463,Chhatrapati Sambhajinagar,Company_64,Supply Chain Coordinator,837431,0 years,Sample job description,2026-09-01
+J0464,Mumbai,Company_66,Supply Chain Coordinator,1133598,3 years,Sample job description,2026-09-01
+J0465,Pune,Company_8,Data Analyst,1268161,0 years,Sample job description,2026-09-01
+J0466,Nagpur,Company_9,EV Battery Technician,431731,0 years,Sample job description,2026-09-01
+J0467,Nashik,Company_45,Warehouse Manager,1100958,3 years,Sample job description,2026-09-01
+J0468,Chhatrapati Sambhajinagar,Company_28,EV Battery Technician,652904,3 years,Sample job description,2026-09-01
+J0469,Chhatrapati Sambhajinagar,Company_93,Supply Chain Coordinator,763417,0 years,Sample job description,2026-09-01
+J0470,Nagpur,Company_77,Robotics Maintenance Tech,520137,4 years,Sample job description,2026-09-01
+J0471,Mumbai,Company_28,Supply Chain Coordinator,848537,1 years,Sample job description,2026-09-01
+J0472,Mumbai,Company_4,Solar Grid Engineer,1059866,0 years,Sample job description,2026-09-01
+J0473,Nashik,Company_36,Data Analyst,678131,4 years,Sample job description,2026-09-01
+J0474,Nagpur,Company_2,Robotics Maintenance Tech,693282,0 years,Sample job description,2026-09-01
+J0475,Nashik,Company_65,Robotics Maintenance Tech,1034681,1 years,Sample job description,2026-09-01
+J0476,Nagpur,Company_82,Data Analyst,1358509,3 years,Sample job description,2026-09-01
+J0477,Nagpur,Company_19,PLC Programmer,702224,3 years,Sample job description,2026-09-01
+J0478,Pune,Company_15,EV Battery Technician,1112308,4 years,Sample job description,2026-09-01
+J0479,Pune,Company_50,Robotics Maintenance Tech,949306,3 years,Sample job description,2026-09-01
+J0480,Mumbai,Company_53,Supply Chain Coordinator,1406086,3 years,Sample job description,2026-09-01
+J0481,Chhatrapati Sambhajinagar,Company_35,Supply Chain Coordinator,1064337,1 years,Sample job description,2026-09-01
+J0482,Pune,Company_56,Supply Chain Coordinator,1494048,5 years,Sample job description,2026-09-01
+J0483,Pune,Company_78,Digital Marketing Specialist,431216,5 years,Sample job description,2026-09-01
+J0484,Nashik,Company_37,Cloud Architect,1379233,4 years,Sample job description,2026-09-01
+J0485,Nagpur,Company_26,Supply Chain Coordinator,1436398,3 years,Sample job description,2026-09-01
+J0486,Nashik,Company_49,Digital Marketing Specialist,307665,2 years,Sample job description,2026-09-01
+J0487,Nashik,Company_16,Digital Marketing Specialist,1212178,2 years,Sample job description,2026-09-01
+J0488,Nagpur,Company_24,Data Analyst,1034973,5 years,Sample job description,2026-09-01
+J0489,Chhatrapati Sambhajinagar,Company_54,Full Stack Developer,833274,4 years,Sample job description,2026-09-01
+J0490,Chhatrapati Sambhajinagar,Company_89,EV Battery Technician,305857,2 years,Sample job description,2026-09-01
+J0491,Nashik,Company_72,Cloud Architect,1479593,5 years,Sample job description,2026-09-01
+J0492,Pune,Company_68,Full Stack Developer,913559,0 years,Sample job description,2026-09-01
+J0493,Nagpur,Company_12,Warehouse Manager,656662,1 years,Sample job description,2026-09-01
+J0494,Chhatrapati Sambhajinagar,Company_80,Supply Chain Coordinator,1202837,5 years,Sample job description,2026-09-01
+J0495,Nagpur,Company_84,Digital Marketing Specialist,936278,0 years,Sample job description,2026-09-01
+J0496,Pune,Company_43,PLC Programmer,610231,2 years,Sample job description,2026-09-01
+J0497,Pune,Company_54,Warehouse Manager,1152954,0 years,Sample job description,2026-09-01
+J0498,Chhatrapati Sambhajinagar,Company_34,Warehouse Manager,700680,1 years,Sample job description,2026-09-01
+J0499,Mumbai,Company_11,EV Battery Technician,1360415,2 years,Sample job description,2026-09-01
+J0500,Chhatrapati Sambhajinagar,Company_72,Supply Chain Coordinator,734100,3 years,Sample job description,2026-09-01
+J0501,Nashik,Company_9,EV Battery Technician,972860,5 years,Sample job description,2026-09-01
+J0502,Chhatrapati Sambhajinagar,Company_95,Data Analyst,947422,5 years,Sample job description,2026-09-01
+J0503,Nashik,Company_85,Robotics Maintenance Tech,1107617,4 years,Sample job description,2026-09-01
+J0504,Chhatrapati Sambhajinagar,Company_85,Robotics Maintenance Tech,1248685,1 years,Sample job description,2026-09-01
+J0505,Pune,Company_68,Warehouse Manager,515752,4 years,Sample job description,2026-09-01
+J0506,Pune,Company_29,Supply Chain Coordinator,816510,2 years,Sample job description,2026-09-01
+J0507,Mumbai,Company_90,Digital Marketing Specialist,814024,4 years,Sample job description,2026-09-01
+J0508,Nagpur,Company_31,Cloud Architect,795694,3 years,Sample job description,2026-09-01
+J0509,Chhatrapati Sambhajinagar,Company_62,Solar Grid Engineer,306854,1 years,Sample job description,2026-09-01
+J0510,Mumbai,Company_82,PLC Programmer,1226343,0 years,Sample job description,2026-09-01
+J0511,Mumbai,Company_88,EV Battery Technician,1486630,1 years,Sample job description,2026-09-01
+J0512,Nashik,Company_62,Full Stack Developer,1355234,0 years,Sample job description,2026-09-01
+J0513,Pune,Company_76,Cloud Architect,682066,4 years,Sample job description,2026-09-01
+J0514,Chhatrapati Sambhajinagar,Company_47,PLC Programmer,1371557,0 years,Sample job description,2026-09-01
+J0515,Pune,Company_66,Full Stack Developer,855551,1 years,Sample job description,2026-09-01
+J0516,Pune,Company_44,Robotics Maintenance Tech,1405163,0 years,Sample job description,2026-09-01
+J0517,Nashik,Company_88,Digital Marketing Specialist,704781,5 years,Sample job description,2026-09-01
+J0518,Nashik,Company_3,Solar Grid Engineer,1423563,4 years,Sample job description,2026-09-01
+J0519,Nagpur,Company_34,Warehouse Manager,317602,0 years,Sample job description,2026-09-01
+J0520,Nagpur,Company_44,EV Battery Technician,1187580,2 years,Sample job description,2026-09-01
+J0521,Nagpur,Company_77,Robotics Maintenance Tech,512561,3 years,Sample job description,2026-09-01
+J0522,Nashik,Company_16,PLC Programmer,854896,2 years,Sample job description,2026-09-01
+J0523,Nashik,Company_36,Cloud Architect,658466,4 years,Sample job description,2026-09-01
+J0524,Nashik,Company_9,Warehouse Manager,539101,3 years,Sample job description,2026-09-01
+J0525,Chhatrapati Sambhajinagar,Company_71,Data Analyst,821787,3 years,Sample job description,2026-09-01
+J0526,Nashik,Company_51,Cloud Architect,357687,0 years,Sample job description,2026-09-01
+J0527,Mumbai,Company_9,Full Stack Developer,322195,3 years,Sample job description,2026-09-01
+J0528,Mumbai,Company_57,Solar Grid Engineer,997428,0 years,Sample job description,2026-09-01
+J0529,Nashik,Company_18,PLC Programmer,461840,1 years,Sample job description,2026-09-01
+J0530,Chhatrapati Sambhajinagar,Company_78,Warehouse Manager,1029446,3 years,Sample job description,2026-09-01
+J0531,Mumbai,Company_34,Solar Grid Engineer,1168118,5 years,Sample job description,2026-09-01
+J0532,Nashik,Company_77,Cloud Architect,765994,2 years,Sample job description,2026-09-01
+J0533,Pune,Company_26,Supply Chain Coordinator,607033,5 years,Sample job description,2026-09-01
+J0534,Mumbai,Company_6,Cloud Architect,780240,1 years,Sample job description,2026-09-01
+J0535,Pune,Company_97,Cloud Architect,485067,4 years,Sample job description,2026-09-01
+J0536,Nagpur,Company_93,Supply Chain Coordinator,840082,0 years,Sample job description,2026-09-01
+J0537,Mumbai,Company_86,PLC Programmer,499075,1 years,Sample job description,2026-09-01
+J0538,Nagpur,Company_57,EV Battery Technician,1098475,1 years,Sample job description,2026-09-01
+J0539,Chhatrapati Sambhajinagar,Company_56,Warehouse Manager,1111308,4 years,Sample job description,2026-09-01
+J0540,Nashik,Company_100,Data Analyst,1186172,0 years,Sample job description,2026-09-01
+J0541,Nashik,Company_43,EV Battery Technician,796158,0 years,Sample job description,2026-09-01
+J0542,Pune,Company_97,Robotics Maintenance Tech,379855,0 years,Sample job description,2026-09-01
+J0543,Nashik,Company_58,Robotics Maintenance Tech,835457,2 years,Sample job description,2026-09-01
+J0544,Chhatrapati Sambhajinagar,Company_73,Digital Marketing Specialist,1081511,1 years,Sample job description,2026-09-01
+J0545,Mumbai,Company_63,EV Battery Technician,877385,4 years,Sample job description,2026-09-01
+J0546,Nagpur,Company_27,Supply Chain Coordinator,1079380,3 years,Sample job description,2026-09-01
+J0547,Nagpur,Company_36,Cloud Architect,926114,3 years,Sample job description,2026-09-01
+J0548,Chhatrapati Sambhajinagar,Company_11,Full Stack Developer,977958,1 years,Sample job description,2026-09-01
+J0549,Chhatrapati Sambhajinagar,Company_46,Data Analyst,1417576,1 years,Sample job description,2026-09-01
+J0550,Nashik,Company_31,Data Analyst,883604,3 years,Sample job description,2026-09-01
+J0551,Mumbai,Company_34,Cloud Architect,1039292,5 years,Sample job description,2026-09-01
+J0552,Pune,Company_26,Digital Marketing Specialist,1247490,3 years,Sample job description,2026-09-01
+J0553,Nagpur,Company_82,PLC Programmer,1161976,4 years,Sample job description,2026-09-01
+J0554,Nagpur,Company_73,Data Analyst,1296160,4 years,Sample job description,2026-09-01
+J0555,Chhatrapati Sambhajinagar,Company_98,Data Analyst,610856,4 years,Sample job description,2026-09-01
+J0556,Nagpur,Company_36,EV Battery Technician,1378410,2 years,Sample job description,2026-09-01
+J0557,Chhatrapati Sambhajinagar,Company_18,Full Stack Developer,1395615,2 years,Sample job description,2026-09-01
+J0558,Pune,Company_31,EV Battery Technician,562475,2 years,Sample job description,2026-09-01
+J0559,Pune,Company_52,Supply Chain Coordinator,542591,5 years,Sample job description,2026-09-01
+J0560,Nashik,Company_71,Digital Marketing Specialist,914396,4 years,Sample job description,2026-09-01
+J0561,Chhatrapati Sambhajinagar,Company_4,Warehouse Manager,1322193,2 years,Sample job description,2026-09-01
+J0562,Mumbai,Company_32,Robotics Maintenance Tech,359682,4 years,Sample job description,2026-09-01
+J0563,Chhatrapati Sambhajinagar,Company_83,Solar Grid Engineer,879635,2 years,Sample job description,2026-09-01
+J0564,Nagpur,Company_22,Robotics Maintenance Tech,715363,4 years,Sample job description,2026-09-01
+J0565,Chhatrapati Sambhajinagar,Company_28,Supply Chain Coordinator,1378215,1 years,Sample job description,2026-09-01
+J0566,Nagpur,Company_15,Digital Marketing Specialist,1336423,3 years,Sample job description,2026-09-01
+J0567,Nashik,Company_89,PLC Programmer,822499,4 years,Sample job description,2026-09-01
+J0568,Nagpur,Company_1,Supply Chain Coordinator,719713,2 years,Sample job description,2026-09-01
+J0569,Nashik,Company_67,Solar Grid Engineer,722050,5 years,Sample job description,2026-09-01
+J0570,Nagpur,Company_20,Digital Marketing Specialist,1140201,5 years,Sample job description,2026-09-01
+J0571,Chhatrapati Sambhajinagar,Company_48,Full Stack Developer,407278,2 years,Sample job description,2026-09-01
+J0572,Nashik,Company_8,Solar Grid Engineer,1265938,4 years,Sample job description,2026-09-01
+J0573,Nagpur,Company_53,Data Analyst,349512,4 years,Sample job description,2026-09-01
+J0574,Chhatrapati Sambhajinagar,Company_9,Cloud Architect,1343072,0 years,Sample job description,2026-09-01
+J0575,Pune,Company_88,Supply Chain Coordinator,558389,4 years,Sample job description,2026-09-01
+J0576,Pune,Company_66,Solar Grid Engineer,1419666,2 years,Sample job description,2026-09-01
+J0577,Chhatrapati Sambhajinagar,Company_86,Data Analyst,327897,3 years,Sample job description,2026-09-01
+J0578,Nashik,Company_49,Data Analyst,306627,0 years,Sample job description,2026-09-01
+J0579,Chhatrapati Sambhajinagar,Company_8,Data Analyst,1130466,4 years,Sample job description,2026-09-01
+J0580,Chhatrapati Sambhajinagar,Company_97,Warehouse Manager,553249,5 years,Sample job description,2026-09-01
+J0581,Nashik,Company_49,EV Battery Technician,1438153,0 years,Sample job description,2026-09-01
+J0582,Chhatrapati Sambhajinagar,Company_89,EV Battery Technician,317678,0 years,Sample job description,2026-09-01
+J0583,Mumbai,Company_69,Supply Chain Coordinator,1199120,2 years,Sample job description,2026-09-01
+J0584,Nagpur,Company_95,Warehouse Manager,1313184,3 years,Sample job description,2026-09-01
+J0585,Nagpur,Company_37,Supply Chain Coordinator,608129,5 years,Sample job description,2026-09-01
+J0586,Nashik,Company_8,Data Analyst,1121128,4 years,Sample job description,2026-09-01
+J0587,Nashik,Company_90,EV Battery Technician,1404951,2 years,Sample job description,2026-09-01
+J0588,Nagpur,Company_6,Cloud Architect,930019,3 years,Sample job description,2026-09-01
+J0589,Nashik,Company_68,Supply Chain Coordinator,956226,3 years,Sample job description,2026-09-01
+J0590,Chhatrapati Sambhajinagar,Company_25,Cloud Architect,852480,1 years,Sample job description,2026-09-01
+J0591,Nashik,Company_21,Cloud Architect,582320,2 years,Sample job description,2026-09-01
+J0592,Mumbai,Company_50,Digital Marketing Specialist,517773,3 years,Sample job description,2026-09-01
+J0593,Nashik,Company_60,Solar Grid Engineer,1146535,1 years,Sample job description,2026-09-01
+J0594,Nashik,Company_97,Warehouse Manager,458363,4 years,Sample job description,2026-09-01
+J0595,Nashik,Company_29,Cloud Architect,523187,4 years,Sample job description,2026-09-01
+J0596,Pune,Company_80,Data Analyst,474590,2 years,Sample job description,2026-09-01
+J0597,Mumbai,Company_83,PLC Programmer,702930,2 years,Sample job description,2026-09-01
+J0598,Pune,Company_89,PLC Programmer,421053,5 years,Sample job description,2026-09-01
+J0599,Pune,Company_87,Warehouse Manager,484602,4 years,Sample job description,2026-09-01
+J0600,Nagpur,Company_91,EV Battery Technician,806456,5 years,Sample job description,2026-09-01
+J0601,Mumbai,Company_47,Robotics Maintenance Tech,1126759,5 years,Sample job description,2026-09-01
+J0602,Nagpur,Company_63,Digital Marketing Specialist,1005618,5 years,Sample job description,2026-09-01
+J0603,Pune,Company_99,Solar Grid Engineer,1397630,4 years,Sample job description,2026-09-01
+J0604,Nagpur,Company_52,Supply Chain Coordinator,643895,1 years,Sample job description,2026-09-01
+J0605,Pune,Company_56,Robotics Maintenance Tech,1431188,1 years,Sample job description,2026-09-01
+J0606,Mumbai,Company_42,Digital Marketing Specialist,306411,0 years,Sample job description,2026-09-01
+J0607,Nagpur,Company_6,Solar Grid Engineer,667228,0 years,Sample job description,2026-09-01
+J0608,Mumbai,Company_75,Solar Grid Engineer,1365071,1 years,Sample job description,2026-09-01
+J0609,Nashik,Company_30,PLC Programmer,984763,0 years,Sample job description,2026-09-01
+J0610,Chhatrapati Sambhajinagar,Company_54,Supply Chain Coordinator,849993,1 years,Sample job description,2026-09-01
+J0611,Pune,Company_53,Robotics Maintenance Tech,368753,4 years,Sample job description,2026-09-01
+J0612,Pune,Company_42,EV Battery Technician,1181650,4 years,Sample job description,2026-09-01
+J0613,Mumbai,Company_25,Robotics Maintenance Tech,1259240,3 years,Sample job description,2026-09-01
+J0614,Nashik,Company_33,Full Stack Developer,1270890,3 years,Sample job description,2026-09-01
+J0615,Mumbai,Company_4,Full Stack Developer,1433678,5 years,Sample job description,2026-09-01
+J0616,Mumbai,Company_9,Supply Chain Coordinator,811177,4 years,Sample job description,2026-09-01
+J0617,Pune,Company_30,Data Analyst,1017597,0 years,Sample job description,2026-09-01
+J0618,Mumbai,Company_51,Cloud Architect,1030768,5 years,Sample job description,2026-09-01
+J0619,Nashik,Company_10,Robotics Maintenance Tech,653411,2 years,Sample job description,2026-09-01
+J0620,Mumbai,Company_60,Data Analyst,921090,0 years,Sample job description,2026-09-01
+J0621,Nashik,Company_74,Data Analyst,861859,2 years,Sample job description,2026-09-01
+J0622,Nashik,Company_93,Cloud Architect,1234599,2 years,Sample job description,2026-09-01
+J0623,Nagpur,Company_35,Supply Chain Coordinator,641354,0 years,Sample job description,2026-09-01
+J0624,Chhatrapati Sambhajinagar,Company_18,Supply Chain Coordinator,333898,0 years,Sample job description,2026-09-01
+J0625,Nashik,Company_4,Supply Chain Coordinator,758996,3 years,Sample job description,2026-09-01
+J0626,Chhatrapati Sambhajinagar,Company_41,Robotics Maintenance Tech,1197973,5 years,Sample job description,2026-09-01
+J0627,Nashik,Company_73,Robotics Maintenance Tech,1480509,1 years,Sample job description,2026-09-01
+J0628,Nagpur,Company_81,Cloud Architect,895744,2 years,Sample job description,2026-09-01
+J0629,Pune,Company_58,Data Analyst,656869,2 years,Sample job description,2026-09-01
+J0630,Pune,Company_70,Supply Chain Coordinator,1133005,5 years,Sample job description,2026-09-01
+J0631,Nagpur,Company_81,Warehouse Manager,587007,2 years,Sample job description,2026-09-01
+J0632,Nagpur,Company_38,Data Analyst,314489,0 years,Sample job description,2026-09-01
+J0633,Nagpur,Company_63,Digital Marketing Specialist,1381492,4 years,Sample job description,2026-09-01
+J0634,Pune,Company_18,Cloud Architect,526026,0 years,Sample job description,2026-09-01
+J0635,Chhatrapati Sambhajinagar,Company_16,Cloud Architect,972035,5 years,Sample job description,2026-09-01
+J0636,Nashik,Company_23,PLC Programmer,345245,3 years,Sample job description,2026-09-01
+J0637,Nashik,Company_29,Supply Chain Coordinator,1317771,1 years,Sample job description,2026-09-01
+J0638,Nashik,Company_84,PLC Programmer,1142629,4 years,Sample job description,2026-09-01
+J0639,Chhatrapati Sambhajinagar,Company_1,Robotics Maintenance Tech,741503,4 years,Sample job description,2026-09-01
+J0640,Mumbai,Company_14,Digital Marketing Specialist,833099,0 years,Sample job description,2026-09-01
+J0641,Nagpur,Company_69,PLC Programmer,1213725,0 years,Sample job description,2026-09-01
+J0642,Nagpur,Company_91,Warehouse Manager,1009292,5 years,Sample job description,2026-09-01
+J0643,Pune,Company_64,Robotics Maintenance Tech,806865,1 years,Sample job description,2026-09-01
+J0644,Chhatrapati Sambhajinagar,Company_18,Full Stack Developer,471525,4 years,Sample job description,2026-09-01
+J0645,Pune,Company_75,Digital Marketing Specialist,1022245,5 years,Sample job description,2026-09-01
+J0646,Nashik,Company_99,Solar Grid Engineer,718689,3 years,Sample job description,2026-09-01
+J0647,Pune,Company_27,EV Battery Technician,1065264,4 years,Sample job description,2026-09-01
+J0648,Nashik,Company_62,PLC Programmer,1402004,3 years,Sample job description,2026-09-01
+J0649,Mumbai,Company_86,Robotics Maintenance Tech,1246106,3 years,Sample job description,2026-09-01
+J0650,Mumbai,Company_8,Data Analyst,848341,4 years,Sample job description,2026-09-01
+J0651,Nashik,Company_5,Robotics Maintenance Tech,501380,5 years,Sample job description,2026-09-01
+J0652,Chhatrapati Sambhajinagar,Company_100,EV Battery Technician,421889,0 years,Sample job description,2026-09-01
+J0653,Pune,Company_72,EV Battery Technician,854642,0 years,Sample job description,2026-09-01
+J0654,Mumbai,Company_26,Digital Marketing Specialist,1237374,3 years,Sample job description,2026-09-01
+J0655,Chhatrapati Sambhajinagar,Company_94,Solar Grid Engineer,1094665,5 years,Sample job description,2026-09-01
+J0656,Nagpur,Company_84,Solar Grid Engineer,833187,1 years,Sample job description,2026-09-01
+J0657,Chhatrapati Sambhajinagar,Company_74,Supply Chain Coordinator,1261946,4 years,Sample job description,2026-09-01
+J0658,Pune,Company_83,Robotics Maintenance Tech,878664,0 years,Sample job description,2026-09-01
+J0659,Nashik,Company_52,Robotics Maintenance Tech,1496202,1 years,Sample job description,2026-09-01
+J0660,Chhatrapati Sambhajinagar,Company_92,Warehouse Manager,1467345,5 years,Sample job description,2026-09-01
+J0661,Pune,Company_71,PLC Programmer,690509,5 years,Sample job description,2026-09-01
+J0662,Pune,Company_75,Robotics Maintenance Tech,1050515,2 years,Sample job description,2026-09-01
+J0663,Nagpur,Company_35,Supply Chain Coordinator,1075908,2 years,Sample job description,2026-09-01
+J0664,Nashik,Company_45,Data Analyst,1215180,3 years,Sample job description,2026-09-01
+J0665,Nagpur,Company_30,Data Analyst,398923,1 years,Sample job description,2026-09-01
+J0666,Mumbai,Company_19,Warehouse Manager,1182658,1 years,Sample job description,2026-09-01
+J0667,Mumbai,Company_54,Data Analyst,1255424,0 years,Sample job description,2026-09-01
+J0668,Pune,Company_11,Data Analyst,686072,5 years,Sample job description,2026-09-01
+J0669,Nagpur,Company_86,Supply Chain Coordinator,1111157,0 years,Sample job description,2026-09-01
+J0670,Chhatrapati Sambhajinagar,Company_17,Robotics Maintenance Tech,1178846,2 years,Sample job description,2026-09-01
+J0671,Nashik,Company_38,Supply Chain Coordinator,701733,0 years,Sample job description,2026-09-01
+J0672,Pune,Company_2,Solar Grid Engineer,1049161,0 years,Sample job description,2026-09-01
+J0673,Pune,Company_52,Robotics Maintenance Tech,713519,4 years,Sample job description,2026-09-01
+J0674,Pune,Company_17,PLC Programmer,1293533,3 years,Sample job description,2026-09-01
+J0675,Nashik,Company_82,PLC Programmer,335966,3 years,Sample job description,2026-09-01
+J0676,Pune,Company_51,EV Battery Technician,1196728,3 years,Sample job description,2026-09-01
+J0677,Nagpur,Company_43,Digital Marketing Specialist,301522,5 years,Sample job description,2026-09-01
+J0678,Pune,Company_80,Full Stack Developer,335612,4 years,Sample job description,2026-09-01
+J0679,Nashik,Company_70,Digital Marketing Specialist,465559,5 years,Sample job description,2026-09-01
+J0680,Nashik,Company_40,Digital Marketing Specialist,727570,3 years,Sample job description,2026-09-01
+J0681,Nashik,Company_2,Warehouse Manager,1351814,1 years,Sample job description,2026-09-01
+J0682,Nagpur,Company_8,Digital Marketing Specialist,859920,3 years,Sample job description,2026-09-01
+J0683,Mumbai,Company_70,Data Analyst,388690,2 years,Sample job description,2026-09-01
+J0684,Chhatrapati Sambhajinagar,Company_13,Data Analyst,637952,3 years,Sample job description,2026-09-01
+J0685,Nagpur,Company_66,Cloud Architect,524102,4 years,Sample job description,2026-09-01
+J0686,Nashik,Company_64,Data Analyst,1043570,4 years,Sample job description,2026-09-01
+J0687,Nashik,Company_6,Robotics Maintenance Tech,381712,5 years,Sample job description,2026-09-01
+J0688,Pune,Company_8,Solar Grid Engineer,727271,0 years,Sample job description,2026-09-01
+J0689,Chhatrapati Sambhajinagar,Company_39,EV Battery Technician,733699,1 years,Sample job description,2026-09-01
+J0690,Nashik,Company_89,EV Battery Technician,1235604,1 years,Sample job description,2026-09-01
+J0691,Chhatrapati Sambhajinagar,Company_78,PLC Programmer,884487,5 years,Sample job description,2026-09-01
+J0692,Mumbai,Company_49,Full Stack Developer,729266,1 years,Sample job description,2026-09-01
+J0693,Nagpur,Company_63,EV Battery Technician,736468,2 years,Sample job description,2026-09-01
+J0694,Chhatrapati Sambhajinagar,Company_41,Cloud Architect,1329670,5 years,Sample job description,2026-09-01
+J0695,Nagpur,Company_25,EV Battery Technician,1080118,1 years,Sample job description,2026-09-01
+J0696,Pune,Company_59,Cloud Architect,1276002,1 years,Sample job description,2026-09-01
+J0697,Mumbai,Company_87,Digital Marketing Specialist,482988,0 years,Sample job description,2026-09-01
+J0698,Nagpur,Company_38,Robotics Maintenance Tech,1182777,3 years,Sample job description,2026-09-01
+J0699,Nagpur,Company_98,PLC Programmer,637656,1 years,Sample job description,2026-09-01
+J0700,Nashik,Company_40,PLC Programmer,839618,0 years,Sample job description,2026-09-01
+J0701,Mumbai,Company_86,Supply Chain Coordinator,1476488,2 years,Sample job description,2026-09-01
+J0702,Nagpur,Company_89,Robotics Maintenance Tech,1469860,0 years,Sample job description,2026-09-01
+J0703,Nagpur,Company_4,Solar Grid Engineer,897942,2 years,Sample job description,2026-09-01
+J0704,Mumbai,Company_36,Solar Grid Engineer,821562,1 years,Sample job description,2026-09-01
+J0705,Nashik,Company_2,Supply Chain Coordinator,728594,0 years,Sample job description,2026-09-01
+J0706,Mumbai,Company_19,Full Stack Developer,1291128,4 years,Sample job description,2026-09-01
+J0707,Chhatrapati Sambhajinagar,Company_9,Full Stack Developer,595253,1 years,Sample job description,2026-09-01
+J0708,Pune,Company_70,Digital Marketing Specialist,1359697,0 years,Sample job description,2026-09-01
+J0709,Nagpur,Company_51,EV Battery Technician,306266,0 years,Sample job description,2026-09-01
+J0710,Nashik,Company_43,Cloud Architect,301354,5 years,Sample job description,2026-09-01
+J0711,Mumbai,Company_40,Robotics Maintenance Tech,954067,4 years,Sample job description,2026-09-01
+J0712,Nashik,Company_3,Warehouse Manager,1359713,0 years,Sample job description,2026-09-01
+J0713,Mumbai,Company_23,Supply Chain Coordinator,1484149,5 years,Sample job description,2026-09-01
+J0714,Mumbai,Company_72,Full Stack Developer,1352173,5 years,Sample job description,2026-09-01
+J0715,Chhatrapati Sambhajinagar,Company_53,Robotics Maintenance Tech,652205,0 years,Sample job description,2026-09-01
+J0716,Pune,Company_97,PLC Programmer,1339131,4 years,Sample job description,2026-09-01
+J0717,Chhatrapati Sambhajinagar,Company_81,Digital Marketing Specialist,933822,2 years,Sample job description,2026-09-01
+J0718,Chhatrapati Sambhajinagar,Company_83,Solar Grid Engineer,427873,5 years,Sample job description,2026-09-01
+J0719,Nagpur,Company_39,Data Analyst,1333228,4 years,Sample job description,2026-09-01
+J0720,Nashik,Company_16,Robotics Maintenance Tech,1490953,1 years,Sample job description,2026-09-01
+J0721,Pune,Company_51,Robotics Maintenance Tech,891808,1 years,Sample job description,2026-09-01
+J0722,Pune,Company_41,Cloud Architect,657950,5 years,Sample job description,2026-09-01
+J0723,Nagpur,Company_76,Solar Grid Engineer,822861,4 years,Sample job description,2026-09-01
+J0724,Pune,Company_66,Supply Chain Coordinator,1035828,5 years,Sample job description,2026-09-01
+J0725,Nagpur,Company_72,Full Stack Developer,609276,1 years,Sample job description,2026-09-01
+J0726,Nashik,Company_58,Digital Marketing Specialist,603930,0 years,Sample job description,2026-09-01
+J0727,Nashik,Company_25,Solar Grid Engineer,931069,1 years,Sample job description,2026-09-01
+J0728,Nashik,Company_25,Cloud Architect,732630,3 years,Sample job description,2026-09-01
+J0729,Pune,Company_36,Robotics Maintenance Tech,951544,3 years,Sample job description,2026-09-01
+J0730,Chhatrapati Sambhajinagar,Company_91,Cloud Architect,410786,4 years,Sample job description,2026-09-01
+J0731,Pune,Company_25,Robotics Maintenance Tech,1353752,3 years,Sample job description,2026-09-01
+J0732,Mumbai,Company_87,EV Battery Technician,1493026,4 years,Sample job description,2026-09-01
+J0733,Mumbai,Company_99,Data Analyst,472979,1 years,Sample job description,2026-09-01
+J0734,Nashik,Company_46,Warehouse Manager,1300171,5 years,Sample job description,2026-09-01
+J0735,Pune,Company_39,Digital Marketing Specialist,308090,3 years,Sample job description,2026-09-01
+J0736,Nagpur,Company_80,EV Battery Technician,1259331,0 years,Sample job description,2026-09-01
+J0737,Pune,Company_95,PLC Programmer,358261,1 years,Sample job description,2026-09-01
+J0738,Mumbai,Company_55,PLC Programmer,1480028,0 years,Sample job description,2026-09-01
+J0739,Mumbai,Company_11,Supply Chain Coordinator,767764,3 years,Sample job description,2026-09-01
+J0740,Mumbai,Company_78,EV Battery Technician,842103,2 years,Sample job description,2026-09-01
+J0741,Chhatrapati Sambhajinagar,Company_78,PLC Programmer,716191,3 years,Sample job description,2026-09-01
+J0742,Mumbai,Company_16,Full Stack Developer,713265,3 years,Sample job description,2026-09-01
+J0743,Mumbai,Company_44,PLC Programmer,784272,1 years,Sample job description,2026-09-01
+J0744,Pune,Company_61,Full Stack Developer,1223373,5 years,Sample job description,2026-09-01
+J0745,Nagpur,Company_54,Data Analyst,1021296,4 years,Sample job description,2026-09-01
+J0746,Mumbai,Company_88,PLC Programmer,1301323,3 years,Sample job description,2026-09-01
+J0747,Nagpur,Company_5,Robotics Maintenance Tech,1349312,0 years,Sample job description,2026-09-01
+J0748,Mumbai,Company_26,PLC Programmer,834517,1 years,Sample job description,2026-09-01
+J0749,Chhatrapati Sambhajinagar,Company_28,Digital Marketing Specialist,1285515,3 years,Sample job description,2026-09-01
+J0750,Nashik,Company_86,PLC Programmer,369573,4 years,Sample job description,2026-09-01
+J0751,Nagpur,Company_72,Warehouse Manager,1102249,3 years,Sample job description,2026-09-01
+J0752,Nagpur,Company_73,Data Analyst,1176100,5 years,Sample job description,2026-09-01
+J0753,Mumbai,Company_46,PLC Programmer,1272642,5 years,Sample job description,2026-09-01
+J0754,Pune,Company_86,Cloud Architect,476638,1 years,Sample job description,2026-09-01
+J0755,Chhatrapati Sambhajinagar,Company_42,Digital Marketing Specialist,1208515,0 years,Sample job description,2026-09-01
+J0756,Pune,Company_46,Solar Grid Engineer,569056,1 years,Sample job description,2026-09-01
+J0757,Mumbai,Company_54,Robotics Maintenance Tech,1084845,5 years,Sample job description,2026-09-01
+J0758,Chhatrapati Sambhajinagar,Company_3,Robotics Maintenance Tech,381952,4 years,Sample job description,2026-09-01
+J0759,Mumbai,Company_20,Cloud Architect,499425,0 years,Sample job description,2026-09-01
+J0760,Mumbai,Company_85,Supply Chain Coordinator,1087657,5 years,Sample job description,2026-09-01
+J0761,Pune,Company_5,Warehouse Manager,1310257,5 years,Sample job description,2026-09-01
+J0762,Chhatrapati Sambhajinagar,Company_36,PLC Programmer,1096259,2 years,Sample job description,2026-09-01
+J0763,Pune,Company_9,Robotics Maintenance Tech,1041432,2 years,Sample job description,2026-09-01
+J0764,Nagpur,Company_54,Solar Grid Engineer,943736,1 years,Sample job description,2026-09-01
+J0765,Nashik,Company_91,EV Battery Technician,1324018,1 years,Sample job description,2026-09-01
+J0766,Chhatrapati Sambhajinagar,Company_27,Cloud Architect,631643,2 years,Sample job description,2026-09-01
+J0767,Pune,Company_29,Solar Grid Engineer,1251137,3 years,Sample job description,2026-09-01
+J0768,Mumbai,Company_42,Digital Marketing Specialist,301926,0 years,Sample job description,2026-09-01
+J0769,Nashik,Company_15,Solar Grid Engineer,1472285,4 years,Sample job description,2026-09-01
+J0770,Nagpur,Company_30,Supply Chain Coordinator,344863,5 years,Sample job description,2026-09-01
+J0771,Nagpur,Company_27,Solar Grid Engineer,407004,5 years,Sample job description,2026-09-01
+J0772,Nagpur,Company_37,Robotics Maintenance Tech,685400,3 years,Sample job description,2026-09-01
+J0773,Chhatrapati Sambhajinagar,Company_74,Cloud Architect,1158305,1 years,Sample job description,2026-09-01
+J0774,Nashik,Company_96,Digital Marketing Specialist,1137724,4 years,Sample job description,2026-09-01
+J0775,Mumbai,Company_42,Warehouse Manager,1272463,0 years,Sample job description,2026-09-01
+J0776,Chhatrapati Sambhajinagar,Company_96,Data Analyst,1462893,1 years,Sample job description,2026-09-01
+J0777,Nagpur,Company_94,Digital Marketing Specialist,1061437,5 years,Sample job description,2026-09-01
+J0778,Nashik,Company_49,Data Analyst,434921,4 years,Sample job description,2026-09-01
+J0779,Mumbai,Company_8,Cloud Architect,914539,5 years,Sample job description,2026-09-01
+J0780,Nagpur,Company_3,Supply Chain Coordinator,1436131,1 years,Sample job description,2026-09-01
+J0781,Nashik,Company_85,Warehouse Manager,1390447,5 years,Sample job description,2026-09-01
+J0782,Nashik,Company_89,Digital Marketing Specialist,1182266,1 years,Sample job description,2026-09-01
+J0783,Pune,Company_77,PLC Programmer,556171,0 years,Sample job description,2026-09-01
+J0784,Chhatrapati Sambhajinagar,Company_84,Full Stack Developer,772667,4 years,Sample job description,2026-09-01
+J0785,Nashik,Company_6,Warehouse Manager,632005,4 years,Sample job description,2026-09-01
+J0786,Nashik,Company_83,Data Analyst,704371,2 years,Sample job description,2026-09-01
+J0787,Nashik,Company_81,Robotics Maintenance Tech,1189451,2 years,Sample job description,2026-09-01
+J0788,Nagpur,Company_10,Supply Chain Coordinator,1402871,4 years,Sample job description,2026-09-01
+J0789,Mumbai,Company_11,PLC Programmer,853307,4 years,Sample job description,2026-09-01
+J0790,Pune,Company_77,Data Analyst,744344,2 years,Sample job description,2026-09-01
+J0791,Pune,Company_99,Warehouse Manager,1060225,3 years,Sample job description,2026-09-01
+J0792,Pune,Company_75,Digital Marketing Specialist,989080,4 years,Sample job description,2026-09-01
+J0793,Nashik,Company_21,Warehouse Manager,501516,0 years,Sample job description,2026-09-01
+J0794,Chhatrapati Sambhajinagar,Company_52,Robotics Maintenance Tech,678353,0 years,Sample job description,2026-09-01
+J0795,Pune,Company_72,Warehouse Manager,613351,1 years,Sample job description,2026-09-01
+J0796,Pune,Company_24,Solar Grid Engineer,822353,0 years,Sample job description,2026-09-01
+J0797,Chhatrapati Sambhajinagar,Company_25,Full Stack Developer,1062481,2 years,Sample job description,2026-09-01
+J0798,Mumbai,Company_72,Digital Marketing Specialist,317555,5 years,Sample job description,2026-09-01
+J0799,Nagpur,Company_44,Solar Grid Engineer,601861,0 years,Sample job description,2026-09-01
+J0800,Nashik,Company_38,EV Battery Technician,1176701,4 years,Sample job description,2026-09-01
+J0801,Chhatrapati Sambhajinagar,Company_93,Warehouse Manager,1197255,4 years,Sample job description,2026-09-01
+J0802,Chhatrapati Sambhajinagar,Company_42,EV Battery Technician,564413,0 years,Sample job description,2026-09-01
+J0803,Mumbai,Company_85,PLC Programmer,815396,0 years,Sample job description,2026-09-01
+J0804,Chhatrapati Sambhajinagar,Company_4,PLC Programmer,1156215,2 years,Sample job description,2026-09-01
+J0805,Nashik,Company_72,Warehouse Manager,1127484,3 years,Sample job description,2026-09-01
+J0806,Nashik,Company_36,Warehouse Manager,984610,0 years,Sample job description,2026-09-01
+J0807,Nagpur,Company_14,Full Stack Developer,993795,0 years,Sample job description,2026-09-01
+J0808,Nagpur,Company_17,Digital Marketing Specialist,509463,5 years,Sample job description,2026-09-01
+J0809,Nashik,Company_1,Solar Grid Engineer,1176409,1 years,Sample job description,2026-09-01
+J0810,Nashik,Company_49,EV Battery Technician,1260937,5 years,Sample job description,2026-09-01
+J0811,Pune,Company_43,Digital Marketing Specialist,817239,3 years,Sample job description,2026-09-01
+J0812,Nashik,Company_2,Digital Marketing Specialist,1188775,2 years,Sample job description,2026-09-01
+J0813,Mumbai,Company_62,Full Stack Developer,981288,1 years,Sample job description,2026-09-01
+J0814,Pune,Company_93,Solar Grid Engineer,815599,2 years,Sample job description,2026-09-01
+J0815,Mumbai,Company_33,Solar Grid Engineer,639850,0 years,Sample job description,2026-09-01
+J0816,Mumbai,Company_23,Solar Grid Engineer,373137,3 years,Sample job description,2026-09-01
+J0817,Mumbai,Company_60,Cloud Architect,838718,5 years,Sample job description,2026-09-01
+J0818,Nagpur,Company_73,Warehouse Manager,738164,4 years,Sample job description,2026-09-01
+J0819,Pune,Company_48,Robotics Maintenance Tech,1424284,3 years,Sample job description,2026-09-01
+J0820,Nashik,Company_43,Cloud Architect,1265065,2 years,Sample job description,2026-09-01
+J0821,Pune,Company_37,Supply Chain Coordinator,1409407,3 years,Sample job description,2026-09-01
+J0822,Nagpur,Company_54,Robotics Maintenance Tech,1376522,2 years,Sample job description,2026-09-01
+J0823,Nagpur,Company_10,Solar Grid Engineer,1266148,4 years,Sample job description,2026-09-01
+J0824,Nagpur,Company_41,PLC Programmer,555245,0 years,Sample job description,2026-09-01
+J0825,Nashik,Company_43,PLC Programmer,1249000,0 years,Sample job description,2026-09-01
+J0826,Nashik,Company_3,Data Analyst,837433,0 years,Sample job description,2026-09-01
+J0827,Nagpur,Company_35,PLC Programmer,419135,1 years,Sample job description,2026-09-01
+J0828,Nashik,Company_58,Digital Marketing Specialist,1377890,3 years,Sample job description,2026-09-01
+J0829,Pune,Company_21,Robotics Maintenance Tech,1104820,4 years,Sample job description,2026-09-01
+J0830,Mumbai,Company_69,Cloud Architect,1167336,5 years,Sample job description,2026-09-01
+J0831,Chhatrapati Sambhajinagar,Company_44,Full Stack Developer,1396384,0 years,Sample job description,2026-09-01
+J0832,Nashik,Company_39,Supply Chain Coordinator,745541,4 years,Sample job description,2026-09-01
+J0833,Nagpur,Company_97,PLC Programmer,489450,3 years,Sample job description,2026-09-01
+J0834,Pune,Company_75,Robotics Maintenance Tech,648684,0 years,Sample job description,2026-09-01
+J0835,Nashik,Company_59,Supply Chain Coordinator,801270,1 years,Sample job description,2026-09-01
+J0836,Nashik,Company_95,Solar Grid Engineer,879715,2 years,Sample job description,2026-09-01
+J0837,Nagpur,Company_7,Solar Grid Engineer,990279,0 years,Sample job description,2026-09-01
+J0838,Mumbai,Company_20,Supply Chain Coordinator,592728,2 years,Sample job description,2026-09-01
+J0839,Nagpur,Company_24,PLC Programmer,1198418,3 years,Sample job description,2026-09-01
+J0840,Mumbai,Company_5,Digital Marketing Specialist,304090,2 years,Sample job description,2026-09-01
+J0841,Nagpur,Company_91,Warehouse Manager,761544,3 years,Sample job description,2026-09-01
+J0842,Pune,Company_65,Full Stack Developer,1307230,2 years,Sample job description,2026-09-01
+J0843,Mumbai,Company_33,Robotics Maintenance Tech,1400027,2 years,Sample job description,2026-09-01
+J0844,Mumbai,Company_39,Data Analyst,1430520,4 years,Sample job description,2026-09-01
+J0845,Pune,Company_40,EV Battery Technician,842750,1 years,Sample job description,2026-09-01
+J0846,Nashik,Company_38,Cloud Architect,714602,2 years,Sample job description,2026-09-01
+J0847,Nagpur,Company_11,Robotics Maintenance Tech,446361,5 years,Sample job description,2026-09-01
+J0848,Pune,Company_96,Solar Grid Engineer,1075881,3 years,Sample job description,2026-09-01
+J0849,Nagpur,Company_75,Robotics Maintenance Tech,1196293,2 years,Sample job description,2026-09-01
+J0850,Chhatrapati Sambhajinagar,Company_76,Full Stack Developer,1395090,0 years,Sample job description,2026-09-01
+J0851,Nagpur,Company_18,Solar Grid Engineer,409627,4 years,Sample job description,2026-09-01
+J0852,Nashik,Company_58,Data Analyst,1309519,2 years,Sample job description,2026-09-01
+J0853,Pune,Company_5,Supply Chain Coordinator,1024471,5 years,Sample job description,2026-09-01
+J0854,Chhatrapati Sambhajinagar,Company_32,Solar Grid Engineer,799692,1 years,Sample job description,2026-09-01
+J0855,Nashik,Company_17,Cloud Architect,943349,1 years,Sample job description,2026-09-01
+J0856,Pune,Company_58,PLC Programmer,495229,0 years,Sample job description,2026-09-01
+J0857,Chhatrapati Sambhajinagar,Company_26,PLC Programmer,637818,0 years,Sample job description,2026-09-01
+J0858,Nashik,Company_83,Digital Marketing Specialist,608351,0 years,Sample job description,2026-09-01
+J0859,Nashik,Company_12,Digital Marketing Specialist,355144,0 years,Sample job description,2026-09-01
+J0860,Pune,Company_31,EV Battery Technician,1000873,0 years,Sample job description,2026-09-01
+J0861,Mumbai,Company_25,Supply Chain Coordinator,1074906,5 years,Sample job description,2026-09-01
+J0862,Pune,Company_85,Warehouse Manager,981349,2 years,Sample job description,2026-09-01
+J0863,Mumbai,Company_24,Full Stack Developer,1151319,2 years,Sample job description,2026-09-01
+J0864,Mumbai,Company_45,EV Battery Technician,341691,0 years,Sample job description,2026-09-01
+J0865,Nashik,Company_93,Warehouse Manager,659769,2 years,Sample job description,2026-09-01
+J0866,Nagpur,Company_64,Robotics Maintenance Tech,1071215,2 years,Sample job description,2026-09-01
+J0867,Mumbai,Company_44,Data Analyst,1395537,4 years,Sample job description,2026-09-01
+J0868,Chhatrapati Sambhajinagar,Company_86,Solar Grid Engineer,711298,1 years,Sample job description,2026-09-01
+J0869,Pune,Company_73,Cloud Architect,861649,1 years,Sample job description,2026-09-01
+J0870,Nagpur,Company_37,Full Stack Developer,1161590,3 years,Sample job description,2026-09-01
+J0871,Pune,Company_86,Supply Chain Coordinator,943879,1 years,Sample job description,2026-09-01
+J0872,Mumbai,Company_23,Warehouse Manager,1094420,4 years,Sample job description,2026-09-01
+J0873,Mumbai,Company_49,Warehouse Manager,1228144,1 years,Sample job description,2026-09-01
+J0874,Mumbai,Company_36,Supply Chain Coordinator,435013,0 years,Sample job description,2026-09-01
+J0875,Chhatrapati Sambhajinagar,Company_42,Supply Chain Coordinator,828555,0 years,Sample job description,2026-09-01
+J0876,Nagpur,Company_93,Data Analyst,1317272,5 years,Sample job description,2026-09-01
+J0877,Mumbai,Company_10,EV Battery Technician,1127928,1 years,Sample job description,2026-09-01
+J0878,Nashik,Company_79,Digital Marketing Specialist,814400,1 years,Sample job description,2026-09-01
+J0879,Nagpur,Company_60,PLC Programmer,1318184,1 years,Sample job description,2026-09-01
+J0880,Chhatrapati Sambhajinagar,Company_47,Cloud Architect,1440160,0 years,Sample job description,2026-09-01
+J0881,Nashik,Company_77,Cloud Architect,1449541,3 years,Sample job description,2026-09-01
+J0882,Pune,Company_88,EV Battery Technician,937442,3 years,Sample job description,2026-09-01
+J0883,Chhatrapati Sambhajinagar,Company_98,Solar Grid Engineer,941199,1 years,Sample job description,2026-09-01
+J0884,Nashik,Company_98,Supply Chain Coordinator,715691,1 years,Sample job description,2026-09-01
+J0885,Nagpur,Company_77,EV Battery Technician,1155750,2 years,Sample job description,2026-09-01
+J0886,Nashik,Company_35,Solar Grid Engineer,1261860,4 years,Sample job description,2026-09-01
+J0887,Pune,Company_88,EV Battery Technician,835650,2 years,Sample job description,2026-09-01
+J0888,Nagpur,Company_60,Supply Chain Coordinator,341314,2 years,Sample job description,2026-09-01
+J0889,Chhatrapati Sambhajinagar,Company_89,Cloud Architect,924530,0 years,Sample job description,2026-09-01
+J0890,Nashik,Company_50,PLC Programmer,856577,0 years,Sample job description,2026-09-01
+J0891,Pune,Company_84,Data Analyst,1245241,4 years,Sample job description,2026-09-01
+J0892,Nagpur,Company_66,EV Battery Technician,700073,1 years,Sample job description,2026-09-01
+J0893,Nashik,Company_24,Supply Chain Coordinator,631412,1 years,Sample job description,2026-09-01
+J0894,Mumbai,Company_52,Solar Grid Engineer,985913,5 years,Sample job description,2026-09-01
+J0895,Pune,Company_40,Cloud Architect,1214481,0 years,Sample job description,2026-09-01
+J0896,Nagpur,Company_38,EV Battery Technician,1210258,4 years,Sample job description,2026-09-01
+J0897,Nashik,Company_71,Robotics Maintenance Tech,1314060,1 years,Sample job description,2026-09-01
+J0898,Pune,Company_16,Supply Chain Coordinator,672101,3 years,Sample job description,2026-09-01
+J0899,Nashik,Company_4,PLC Programmer,782307,5 years,Sample job description,2026-09-01
+J0900,Chhatrapati Sambhajinagar,Company_18,PLC Programmer,336851,4 years,Sample job description,2026-09-01
+J0901,Chhatrapati Sambhajinagar,Company_99,Warehouse Manager,1480443,3 years,Sample job description,2026-09-01
+J0902,Pune,Company_76,Data Analyst,785262,4 years,Sample job description,2026-09-01
+J0903,Nagpur,Company_85,Data Analyst,1020353,0 years,Sample job description,2026-09-01
+J0904,Mumbai,Company_44,Solar Grid Engineer,449523,1 years,Sample job description,2026-09-01
+J0905,Chhatrapati Sambhajinagar,Company_72,Cloud Architect,1096782,5 years,Sample job description,2026-09-01
+J0906,Nashik,Company_20,Digital Marketing Specialist,1263204,5 years,Sample job description,2026-09-01
+J0907,Nagpur,Company_30,Robotics Maintenance Tech,501731,0 years,Sample job description,2026-09-01
+J0908,Mumbai,Company_85,Digital Marketing Specialist,301327,5 years,Sample job description,2026-09-01
+J0909,Mumbai,Company_25,PLC Programmer,368294,2 years,Sample job description,2026-09-01
+J0910,Chhatrapati Sambhajinagar,Company_60,Digital Marketing Specialist,438994,1 years,Sample job description,2026-09-01
+J0911,Nagpur,Company_32,Supply Chain Coordinator,489778,3 years,Sample job description,2026-09-01
+J0912,Nashik,Company_53,Cloud Architect,1304693,5 years,Sample job description,2026-09-01
+J0913,Nashik,Company_15,Robotics Maintenance Tech,417906,3 years,Sample job description,2026-09-01
+J0914,Pune,Company_70,Data Analyst,1366333,0 years,Sample job description,2026-09-01
+J0915,Pune,Company_41,Solar Grid Engineer,913309,3 years,Sample job description,2026-09-01
+J0916,Nagpur,Company_88,EV Battery Technician,839875,0 years,Sample job description,2026-09-01
+J0917,Nashik,Company_36,Digital Marketing Specialist,383314,4 years,Sample job description,2026-09-01
+J0918,Pune,Company_57,Warehouse Manager,1274738,1 years,Sample job description,2026-09-01
+J0919,Nashik,Company_7,Solar Grid Engineer,1274058,4 years,Sample job description,2026-09-01
+J0920,Nagpur,Company_54,Data Analyst,1033613,5 years,Sample job description,2026-09-01
+J0921,Chhatrapati Sambhajinagar,Company_61,Supply Chain Coordinator,936558,5 years,Sample job description,2026-09-01
+J0922,Nagpur,Company_52,Solar Grid Engineer,621141,4 years,Sample job description,2026-09-01
+J0923,Chhatrapati Sambhajinagar,Company_16,Robotics Maintenance Tech,1158538,3 years,Sample job description,2026-09-01
+J0924,Mumbai,Company_72,Digital Marketing Specialist,1090560,5 years,Sample job description,2026-09-01
+J0925,Pune,Company_23,Full Stack Developer,787673,0 years,Sample job description,2026-09-01
+J0926,Mumbai,Company_81,Warehouse Manager,887829,4 years,Sample job description,2026-09-01
+J0927,Pune,Company_67,Full Stack Developer,1298246,4 years,Sample job description,2026-09-01
+J0928,Chhatrapati Sambhajinagar,Company_65,EV Battery Technician,458106,3 years,Sample job description,2026-09-01
+J0929,Nashik,Company_36,Data Analyst,1107652,4 years,Sample job description,2026-09-01
+J0930,Nashik,Company_69,Data Analyst,540461,1 years,Sample job description,2026-09-01
+J0931,Nashik,Company_51,Full Stack Developer,908719,2 years,Sample job description,2026-09-01
+J0932,Mumbai,Company_78,Cloud Architect,388918,3 years,Sample job description,2026-09-01
+J0933,Chhatrapati Sambhajinagar,Company_43,Cloud Architect,319443,0 years,Sample job description,2026-09-01
+J0934,Nashik,Company_98,PLC Programmer,1072810,2 years,Sample job description,2026-09-01
+J0935,Mumbai,Company_3,Full Stack Developer,1356824,4 years,Sample job description,2026-09-01
+J0936,Nashik,Company_70,Cloud Architect,610813,1 years,Sample job description,2026-09-01
+J0937,Pune,Company_87,Warehouse Manager,1074625,1 years,Sample job description,2026-09-01
+J0938,Chhatrapati Sambhajinagar,Company_52,Warehouse Manager,660716,3 years,Sample job description,2026-09-01
+J0939,Mumbai,Company_50,Warehouse Manager,1332118,1 years,Sample job description,2026-09-01
+J0940,Chhatrapati Sambhajinagar,Company_62,Robotics Maintenance Tech,506345,2 years,Sample job description,2026-09-01
+J0941,Pune,Company_74,EV Battery Technician,427924,3 years,Sample job description,2026-09-01
+J0942,Nagpur,Company_39,Data Analyst,734282,1 years,Sample job description,2026-09-01
+J0943,Nashik,Company_33,Digital Marketing Specialist,895929,2 years,Sample job description,2026-09-01
+J0944,Nagpur,Company_87,Data Analyst,1498854,0 years,Sample job description,2026-09-01
+J0945,Mumbai,Company_74,Cloud Architect,848416,0 years,Sample job description,2026-09-01
+J0946,Nagpur,Company_26,Full Stack Developer,325655,0 years,Sample job description,2026-09-01
+J0947,Pune,Company_17,Cloud Architect,855295,3 years,Sample job description,2026-09-01
+J0948,Mumbai,Company_69,Robotics Maintenance Tech,1127129,0 years,Sample job description,2026-09-01
+J0949,Mumbai,Company_12,Data Analyst,324853,4 years,Sample job description,2026-09-01
+J0950,Mumbai,Company_27,Warehouse Manager,755610,5 years,Sample job description,2026-09-01
+J0951,Chhatrapati Sambhajinagar,Company_17,Full Stack Developer,1305974,2 years,Sample job description,2026-09-01
+J0952,Pune,Company_100,Full Stack Developer,353982,0 years,Sample job description,2026-09-01
+J0953,Nagpur,Company_97,Warehouse Manager,1350344,2 years,Sample job description,2026-09-01
+J0954,Nashik,Company_4,Cloud Architect,729502,4 years,Sample job description,2026-09-01
+J0955,Nagpur,Company_24,Solar Grid Engineer,1281454,1 years,Sample job description,2026-09-01
+J0956,Pune,Company_25,Digital Marketing Specialist,1411728,1 years,Sample job description,2026-09-01
+J0957,Nagpur,Company_55,PLC Programmer,1116770,5 years,Sample job description,2026-09-01
+J0958,Chhatrapati Sambhajinagar,Company_56,Cloud Architect,1141207,5 years,Sample job description,2026-09-01
+J0959,Pune,Company_69,EV Battery Technician,1323042,4 years,Sample job description,2026-09-01
+J0960,Chhatrapati Sambhajinagar,Company_98,Digital Marketing Specialist,1111785,3 years,Sample job description,2026-09-01
+J0961,Chhatrapati Sambhajinagar,Company_73,PLC Programmer,705345,2 years,Sample job description,2026-09-01
+J0962,Chhatrapati Sambhajinagar,Company_74,EV Battery Technician,880396,2 years,Sample job description,2026-09-01
+J0963,Pune,Company_50,Digital Marketing Specialist,928545,5 years,Sample job description,2026-09-01
+J0964,Nagpur,Company_92,Supply Chain Coordinator,1001120,3 years,Sample job description,2026-09-01
+J0965,Nashik,Company_55,EV Battery Technician,734119,4 years,Sample job description,2026-09-01
+J0966,Nagpur,Company_97,Full Stack Developer,754980,5 years,Sample job description,2026-09-01
+J0967,Nagpur,Company_33,Warehouse Manager,426773,2 years,Sample job description,2026-09-01
+J0968,Mumbai,Company_20,Supply Chain Coordinator,733162,3 years,Sample job description,2026-09-01
+J0969,Nashik,Company_93,Data Analyst,907365,3 years,Sample job description,2026-09-01
+J0970,Chhatrapati Sambhajinagar,Company_22,Digital Marketing Specialist,1056444,5 years,Sample job description,2026-09-01
+J0971,Chhatrapati Sambhajinagar,Company_86,Solar Grid Engineer,1057588,3 years,Sample job description,2026-09-01
+J0972,Chhatrapati Sambhajinagar,Company_48,Solar Grid Engineer,929954,2 years,Sample job description,2026-09-01
+J0973,Nagpur,Company_86,Full Stack Developer,1181315,0 years,Sample job description,2026-09-01
+J0974,Nagpur,Company_89,Digital Marketing Specialist,1395294,0 years,Sample job description,2026-09-01
+J0975,Nagpur,Company_80,Cloud Architect,461603,4 years,Sample job description,2026-09-01
+J0976,Chhatrapati Sambhajinagar,Company_81,Data Analyst,1066886,3 years,Sample job description,2026-09-01
+J0977,Chhatrapati Sambhajinagar,Company_31,Data Analyst,769628,5 years,Sample job description,2026-09-01
+J0978,Nashik,Company_18,Solar Grid Engineer,1223107,0 years,Sample job description,2026-09-01
+J0979,Nashik,Company_64,Digital Marketing Specialist,300622,5 years,Sample job description,2026-09-01
+J0980,Pune,Company_60,Supply Chain Coordinator,1254830,3 years,Sample job description,2026-09-01
+J0981,Chhatrapati Sambhajinagar,Company_35,Full Stack Developer,1107558,3 years,Sample job description,2026-09-01
+J0982,Nashik,Company_5,Solar Grid Engineer,1168467,1 years,Sample job description,2026-09-01
+J0983,Nagpur,Company_17,Full Stack Developer,1224692,2 years,Sample job description,2026-09-01
+J0984,Chhatrapati Sambhajinagar,Company_98,Warehouse Manager,835606,2 years,Sample job description,2026-09-01
+J0985,Nagpur,Company_56,Full Stack Developer,557815,0 years,Sample job description,2026-09-01
+J0986,Mumbai,Company_34,EV Battery Technician,657668,4 years,Sample job description,2026-09-01
+J0987,Mumbai,Company_98,Full Stack Developer,782273,0 years,Sample job description,2026-09-01
+J0988,Pune,Company_48,EV Battery Technician,730091,0 years,Sample job description,2026-09-01
+J0989,Pune,Company_66,EV Battery Technician,1000270,2 years,Sample job description,2026-09-01
+J0990,Nagpur,Company_100,Robotics Maintenance Tech,1227177,5 years,Sample job description,2026-09-01
+J0991,Nashik,Company_9,PLC Programmer,1319943,4 years,Sample job description,2026-09-01
+J0992,Chhatrapati Sambhajinagar,Company_25,Full Stack Developer,1239544,0 years,Sample job description,2026-09-01
+J0993,Pune,Company_64,Full Stack Developer,965955,2 years,Sample job description,2026-09-01
+J0994,Mumbai,Company_42,Warehouse Manager,833975,3 years,Sample job description,2026-09-01
+J0995,Nagpur,Company_61,Warehouse Manager,1265053,5 years,Sample job description,2026-09-01
+J0996,Pune,Company_66,Robotics Maintenance Tech,432060,3 years,Sample job description,2026-09-01
+J0997,Nashik,Company_92,Full Stack Developer,354212,1 years,Sample job description,2026-09-01
+J0998,Mumbai,Company_40,Data Analyst,750707,2 years,Sample job description,2026-09-01
+J0999,Pune,Company_18,EV Battery Technician,1154137,5 years,Sample job description,2026-09-01
+J1000,Nagpur,Company_40,Warehouse Manager,606523,5 years,Sample job description,2026-09-01
+J1001,Pune,Company_76,Digital Marketing Specialist,564103,5 years,Sample job description,2026-09-01
+J1002,Nagpur,Company_70,Digital Marketing Specialist,1264892,3 years,Sample job description,2026-09-01
+J1003,Chhatrapati Sambhajinagar,Company_78,Supply Chain Coordinator,447758,4 years,Sample job description,2026-09-01
+J1004,Chhatrapati Sambhajinagar,Company_28,Robotics Maintenance Tech,675056,5 years,Sample job description,2026-09-01
+J1005,Nagpur,Company_13,PLC Programmer,1363655,2 years,Sample job description,2026-09-01
+J1006,Mumbai,Company_18,Digital Marketing Specialist,1234977,4 years,Sample job description,2026-09-01
+J1007,Chhatrapati Sambhajinagar,Company_12,Warehouse Manager,1039234,1 years,Sample job description,2026-09-01
+J1008,Chhatrapati Sambhajinagar,Company_43,Robotics Maintenance Tech,512250,5 years,Sample job description,2026-09-01
+J1009,Nagpur,Company_13,Cloud Architect,562662,0 years,Sample job description,2026-09-01
+J1010,Mumbai,Company_19,Warehouse Manager,1333157,3 years,Sample job description,2026-09-01
+J1011,Nagpur,Company_92,PLC Programmer,422517,1 years,Sample job description,2026-09-01
+J1012,Nashik,Company_62,Robotics Maintenance Tech,859468,2 years,Sample job description,2026-09-01
+J1013,Nagpur,Company_83,Full Stack Developer,1474985,3 years,Sample job description,2026-09-01
+J1014,Pune,Company_47,Robotics Maintenance Tech,956549,4 years,Sample job description,2026-09-01
+J1015,Nagpur,Company_62,PLC Programmer,991825,2 years,Sample job description,2026-09-01
+J1016,Nashik,Company_36,Cloud Architect,460625,2 years,Sample job description,2026-09-01
+J1017,Chhatrapati Sambhajinagar,Company_87,Data Analyst,669672,2 years,Sample job description,2026-09-01
+J1018,Mumbai,Company_3,Solar Grid Engineer,1339142,3 years,Sample job description,2026-09-01
+J1019,Nashik,Company_74,Full Stack Developer,307125,2 years,Sample job description,2026-09-01
+J1020,Nagpur,Company_100,EV Battery Technician,1182421,5 years,Sample job description,2026-09-01
+J1021,Mumbai,Company_61,Full Stack Developer,1317705,0 years,Sample job description,2026-09-01
+J1022,Nashik,Company_1,Data Analyst,458895,3 years,Sample job description,2026-09-01
+J1023,Nashik,Company_63,Supply Chain Coordinator,1370058,1 years,Sample job description,2026-09-01
+J1024,Chhatrapati Sambhajinagar,Company_75,EV Battery Technician,315145,0 years,Sample job description,2026-09-01
+J1025,Mumbai,Company_32,Full Stack Developer,582513,2 years,Sample job description,2026-09-01
+J1026,Chhatrapati Sambhajinagar,Company_23,Digital Marketing Specialist,757613,2 years,Sample job description,2026-09-01
+J1027,Nagpur,Company_33,Data Analyst,774896,1 years,Sample job description,2026-09-01
+J1028,Mumbai,Company_70,Full Stack Developer,440660,5 years,Sample job description,2026-09-01
+J1029,Pune,Company_32,Cloud Architect,544597,3 years,Sample job description,2026-09-01
+J1030,Nashik,Company_37,EV Battery Technician,486054,2 years,Sample job description,2026-09-01
+J1031,Nashik,Company_100,Full Stack Developer,1025602,1 years,Sample job description,2026-09-01
+J1032,Chhatrapati Sambhajinagar,Company_81,PLC Programmer,408827,1 years,Sample job description,2026-09-01
+J1033,Pune,Company_34,Digital Marketing Specialist,1198566,2 years,Sample job description,2026-09-01
+J1034,Pune,Company_32,Data Analyst,1030148,4 years,Sample job description,2026-09-01
+J1035,Mumbai,Company_54,EV Battery Technician,612477,4 years,Sample job description,2026-09-01
+J1036,Chhatrapati Sambhajinagar,Company_68,Cloud Architect,340919,3 years,Sample job description,2026-09-01
+J1037,Pune,Company_5,Robotics Maintenance Tech,814194,5 years,Sample job description,2026-09-01
+J1038,Chhatrapati Sambhajinagar,Company_91,Data Analyst,1480201,3 years,Sample job description,2026-09-01
+J1039,Mumbai,Company_99,Solar Grid Engineer,786249,0 years,Sample job description,2026-09-01
+J1040,Chhatrapati Sambhajinagar,Company_85,Solar Grid Engineer,731292,0 years,Sample job description,2026-09-01
+J1041,Pune,Company_70,Supply Chain Coordinator,402911,1 years,Sample job description,2026-09-01
+J1042,Chhatrapati Sambhajinagar,Company_68,Data Analyst,486909,5 years,Sample job description,2026-09-01
+J1043,Nagpur,Company_62,Full Stack Developer,1138558,1 years,Sample job description,2026-09-01
+J1044,Nashik,Company_59,PLC Programmer,1169693,1 years,Sample job description,2026-09-01
+J1045,Mumbai,Company_18,Robotics Maintenance Tech,752987,2 years,Sample job description,2026-09-01
+J1046,Nashik,Company_33,EV Battery Technician,510814,1 years,Sample job description,2026-09-01
+J1047,Nagpur,Company_68,Solar Grid Engineer,497104,4 years,Sample job description,2026-09-01
+J1048,Pune,Company_86,Robotics Maintenance Tech,375254,5 years,Sample job description,2026-09-01
+J1049,Nagpur,Company_37,Robotics Maintenance Tech,1322201,1 years,Sample job description,2026-09-01
+J1050,Mumbai,Company_73,Robotics Maintenance Tech,1253161,1 years,Sample job description,2026-09-01
+J1051,Chhatrapati Sambhajinagar,Company_39,PLC Programmer,498710,0 years,Sample job description,2026-09-01
+J1052,Nagpur,Company_100,Robotics Maintenance Tech,1257414,5 years,Sample job description,2026-09-01
+J1053,Nagpur,Company_64,Data Analyst,1052713,3 years,Sample job description,2026-09-01
+J1054,Pune,Company_93,Warehouse Manager,1251495,5 years,Sample job description,2026-09-01
+J1055,Nashik,Company_8,Data Analyst,533463,1 years,Sample job description,2026-09-01
+J1056,Nagpur,Company_2,Digital Marketing Specialist,1377507,2 years,Sample job description,2026-09-01
+J1057,Pune,Company_64,Full Stack Developer,752845,4 years,Sample job description,2026-09-01
+J1058,Pune,Company_76,Supply Chain Coordinator,1184407,3 years,Sample job description,2026-09-01
+J1059,Mumbai,Company_43,Data Analyst,1136571,2 years,Sample job description,2026-09-01
+J1060,Nagpur,Company_67,Robotics Maintenance Tech,1190121,0 years,Sample job description,2026-09-01
+J1061,Nagpur,Company_54,Cloud Architect,1397891,1 years,Sample job description,2026-09-01
+J1062,Nashik,Company_93,Supply Chain Coordinator,790848,0 years,Sample job description,2026-09-01
+J1063,Chhatrapati Sambhajinagar,Company_8,Data Analyst,494813,4 years,Sample job description,2026-09-01
+J1064,Nashik,Company_49,EV Battery Technician,1226451,2 years,Sample job description,2026-09-01
+J1065,Mumbai,Company_54,EV Battery Technician,661614,4 years,Sample job description,2026-09-01
+J1066,Nashik,Company_68,Solar Grid Engineer,661222,4 years,Sample job description,2026-09-01
+J1067,Chhatrapati Sambhajinagar,Company_60,Full Stack Developer,1453620,1 years,Sample job description,2026-09-01
+J1068,Nashik,Company_49,Robotics Maintenance Tech,967823,0 years,Sample job description,2026-09-01
+J1069,Chhatrapati Sambhajinagar,Company_41,Data Analyst,791499,3 years,Sample job description,2026-09-01
+J1070,Nagpur,Company_52,Cloud Architect,898123,1 years,Sample job description,2026-09-01
+J1071,Mumbai,Company_74,EV Battery Technician,810717,0 years,Sample job description,2026-09-01
+J1072,Mumbai,Company_61,Full Stack Developer,306962,4 years,Sample job description,2026-09-01
+J1073,Chhatrapati Sambhajinagar,Company_96,Supply Chain Coordinator,1350202,4 years,Sample job description,2026-09-01
+J1074,Mumbai,Company_53,Robotics Maintenance Tech,1329548,1 years,Sample job description,2026-09-01
+J1075,Nashik,Company_27,Robotics Maintenance Tech,725781,1 years,Sample job description,2026-09-01
+J1076,Nagpur,Company_72,Data Analyst,905039,2 years,Sample job description,2026-09-01
+J1077,Nagpur,Company_46,Cloud Architect,699229,0 years,Sample job description,2026-09-01
+J1078,Pune,Company_16,Supply Chain Coordinator,775379,3 years,Sample job description,2026-09-01
+J1079,Nashik,Company_29,Robotics Maintenance Tech,1446559,1 years,Sample job description,2026-09-01
+J1080,Chhatrapati Sambhajinagar,Company_32,Robotics Maintenance Tech,502085,5 years,Sample job description,2026-09-01
+J1081,Nashik,Company_53,PLC Programmer,848971,0 years,Sample job description,2026-09-01
+J1082,Nashik,Company_10,PLC Programmer,1159028,4 years,Sample job description,2026-09-01
+J1083,Nagpur,Company_11,Data Analyst,1058660,4 years,Sample job description,2026-09-01
+J1084,Nashik,Company_76,Solar Grid Engineer,609181,4 years,Sample job description,2026-09-01
+J1085,Nashik,Company_36,EV Battery Technician,1273094,1 years,Sample job description,2026-09-01
+J1086,Nashik,Company_26,Robotics Maintenance Tech,325658,0 years,Sample job description,2026-09-01
+J1087,Pune,Company_49,Robotics Maintenance Tech,1185153,4 years,Sample job description,2026-09-01
+J1088,Mumbai,Company_53,Data Analyst,867075,1 years,Sample job description,2026-09-01
+J1089,Mumbai,Company_94,EV Battery Technician,982017,2 years,Sample job description,2026-09-01
+J1090,Pune,Company_5,Full Stack Developer,437888,1 years,Sample job description,2026-09-01
+J1091,Nashik,Company_62,Warehouse Manager,1116899,4 years,Sample job description,2026-09-01
+J1092,Chhatrapati Sambhajinagar,Company_22,EV Battery Technician,812481,1 years,Sample job description,2026-09-01
+J1093,Pune,Company_24,Supply Chain Coordinator,319108,0 years,Sample job description,2026-09-01
+J1094,Chhatrapati Sambhajinagar,Company_11,Digital Marketing Specialist,870485,2 years,Sample job description,2026-09-01
+J1095,Nagpur,Company_14,Data Analyst,1156144,4 years,Sample job description,2026-09-01
+J1096,Chhatrapati Sambhajinagar,Company_98,EV Battery Technician,898735,3 years,Sample job description,2026-09-01
+J1097,Nagpur,Company_71,PLC Programmer,497934,0 years,Sample job description,2026-09-01
+J1098,Nagpur,Company_97,Solar Grid Engineer,843670,1 years,Sample job description,2026-09-01
+J1099,Mumbai,Company_98,Supply Chain Coordinator,664403,4 years,Sample job description,2026-09-01
+J1100,Nagpur,Company_78,EV Battery Technician,588314,0 years,Sample job description,2026-09-01
+J1101,Pune,Company_22,Supply Chain Coordinator,1303856,3 years,Sample job description,2026-09-01
+J1102,Nagpur,Company_81,Data Analyst,852681,0 years,Sample job description,2026-09-01
+J1103,Nagpur,Company_56,Data Analyst,1084560,0 years,Sample job description,2026-09-01
+J1104,Nagpur,Company_85,PLC Programmer,466696,0 years,Sample job description,2026-09-01
+J1105,Chhatrapati Sambhajinagar,Company_25,Solar Grid Engineer,1315928,4 years,Sample job description,2026-09-01
+J1106,Mumbai,Company_42,Supply Chain Coordinator,961252,4 years,Sample job description,2026-09-01
+J1107,Mumbai,Company_76,Full Stack Developer,1411443,3 years,Sample job description,2026-09-01
+J1108,Mumbai,Company_25,Digital Marketing Specialist,508928,5 years,Sample job description,2026-09-01
+J1109,Pune,Company_39,EV Battery Technician,1480960,3 years,Sample job description,2026-09-01
+J1110,Nashik,Company_59,EV Battery Technician,1398598,0 years,Sample job description,2026-09-01
+J1111,Pune,Company_84,Supply Chain Coordinator,1272253,2 years,Sample job description,2026-09-01
+J1112,Mumbai,Company_43,EV Battery Technician,1343173,3 years,Sample job description,2026-09-01
+J1113,Mumbai,Company_21,Supply Chain Coordinator,1433671,2 years,Sample job description,2026-09-01
+J1114,Pune,Company_38,Robotics Maintenance Tech,870451,3 years,Sample job description,2026-09-01
+J1115,Chhatrapati Sambhajinagar,Company_98,PLC Programmer,1352193,1 years,Sample job description,2026-09-01
+J1116,Chhatrapati Sambhajinagar,Company_85,Warehouse Manager,657111,1 years,Sample job description,2026-09-01
+J1117,Chhatrapati Sambhajinagar,Company_69,Data Analyst,1073171,1 years,Sample job description,2026-09-01
+J1118,Chhatrapati Sambhajinagar,Company_6,EV Battery Technician,826533,5 years,Sample job description,2026-09-01
+J1119,Nashik,Company_62,Supply Chain Coordinator,513429,1 years,Sample job description,2026-09-01
+J1120,Pune,Company_97,Cloud Architect,421396,2 years,Sample job description,2026-09-01
+J1121,Nagpur,Company_9,Warehouse Manager,1162114,1 years,Sample job description,2026-09-01
+J1122,Mumbai,Company_41,Warehouse Manager,421475,5 years,Sample job description,2026-09-01
+J1123,Chhatrapati Sambhajinagar,Company_55,EV Battery Technician,1142665,0 years,Sample job description,2026-09-01
+J1124,Pune,Company_19,Cloud Architect,800189,5 years,Sample job description,2026-09-01
+J1125,Mumbai,Company_96,Data Analyst,480215,2 years,Sample job description,2026-09-01
+J1126,Mumbai,Company_66,Digital Marketing Specialist,800947,5 years,Sample job description,2026-09-01
+J1127,Nagpur,Company_97,Data Analyst,837637,1 years,Sample job description,2026-09-01
+J1128,Mumbai,Company_93,Full Stack Developer,1405224,4 years,Sample job description,2026-09-01
+J1129,Nagpur,Company_23,Solar Grid Engineer,1212512,3 years,Sample job description,2026-09-01
+J1130,Nashik,Company_42,Cloud Architect,1285264,1 years,Sample job description,2026-09-01
+J1131,Nashik,Company_76,PLC Programmer,638479,2 years,Sample job description,2026-09-01
+J1132,Chhatrapati Sambhajinagar,Company_7,EV Battery Technician,1372074,1 years,Sample job description,2026-09-01
+J1133,Nagpur,Company_34,Full Stack Developer,1285254,2 years,Sample job description,2026-09-01
+J1134,Nagpur,Company_51,Digital Marketing Specialist,533712,1 years,Sample job description,2026-09-01
+J1135,Mumbai,Company_86,Cloud Architect,1073266,3 years,Sample job description,2026-09-01
+J1136,Nashik,Company_48,Full Stack Developer,524808,3 years,Sample job description,2026-09-01
+J1137,Mumbai,Company_59,PLC Programmer,980304,2 years,Sample job description,2026-09-01
+J1138,Mumbai,Company_89,Supply Chain Coordinator,1361807,2 years,Sample job description,2026-09-01
+J1139,Pune,Company_3,Digital Marketing Specialist,462601,3 years,Sample job description,2026-09-01
+J1140,Nagpur,Company_37,EV Battery Technician,1478927,1 years,Sample job description,2026-09-01
+J1141,Nashik,Company_75,EV Battery Technician,826898,3 years,Sample job description,2026-09-01
+J1142,Pune,Company_10,Robotics Maintenance Tech,383059,4 years,Sample job description,2026-09-01
+J1143,Pune,Company_67,Robotics Maintenance Tech,566022,2 years,Sample job description,2026-09-01
+J1144,Chhatrapati Sambhajinagar,Company_10,PLC Programmer,383554,4 years,Sample job description,2026-09-01
+J1145,Chhatrapati Sambhajinagar,Company_48,EV Battery Technician,1475551,1 years,Sample job description,2026-09-01
+J1146,Nashik,Company_14,Supply Chain Coordinator,464185,1 years,Sample job description,2026-09-01
+J1147,Nashik,Company_48,PLC Programmer,1262227,5 years,Sample job description,2026-09-01
+J1148,Mumbai,Company_30,Digital Marketing Specialist,983631,0 years,Sample job description,2026-09-01
+J1149,Nagpur,Company_59,Full Stack Developer,1046571,2 years,Sample job description,2026-09-01
+J1150,Mumbai,Company_61,Cloud Architect,1200694,4 years,Sample job description,2026-09-01
+J1151,Mumbai,Company_31,EV Battery Technician,1493791,3 years,Sample job description,2026-09-01
+J1152,Mumbai,Company_36,Warehouse Manager,904675,2 years,Sample job description,2026-09-01
+J1153,Nagpur,Company_70,EV Battery Technician,630742,5 years,Sample job description,2026-09-01
+J1154,Mumbai,Company_73,Solar Grid Engineer,1343421,2 years,Sample job description,2026-09-01
+J1155,Mumbai,Company_82,Robotics Maintenance Tech,1173519,5 years,Sample job description,2026-09-01
+J1156,Chhatrapati Sambhajinagar,Company_61,Warehouse Manager,784474,5 years,Sample job description,2026-09-01
+J1157,Pune,Company_89,Supply Chain Coordinator,854245,0 years,Sample job description,2026-09-01
+J1158,Chhatrapati Sambhajinagar,Company_33,Robotics Maintenance Tech,1458889,1 years,Sample job description,2026-09-01
+J1159,Nashik,Company_20,Cloud Architect,1320825,0 years,Sample job description,2026-09-01
+J1160,Pune,Company_30,Solar Grid Engineer,815498,0 years,Sample job description,2026-09-01
+J1161,Mumbai,Company_64,Data Analyst,659685,4 years,Sample job description,2026-09-01
+J1162,Pune,Company_84,Full Stack Developer,547561,3 years,Sample job description,2026-09-01
+J1163,Pune,Company_83,EV Battery Technician,1254458,1 years,Sample job description,2026-09-01
+J1164,Pune,Company_100,Full Stack Developer,314808,2 years,Sample job description,2026-09-01
+J1165,Chhatrapati Sambhajinagar,Company_91,Data Analyst,307965,4 years,Sample job description,2026-09-01
+J1166,Mumbai,Company_94,Digital Marketing Specialist,842147,4 years,Sample job description,2026-09-01
+J1167,Pune,Company_21,Robotics Maintenance Tech,1314331,3 years,Sample job description,2026-09-01
+J1168,Nashik,Company_85,Digital Marketing Specialist,488342,1 years,Sample job description,2026-09-01
+J1169,Pune,Company_10,Full Stack Developer,744229,1 years,Sample job description,2026-09-01
+J1170,Pune,Company_67,Full Stack Developer,734095,4 years,Sample job description,2026-09-01
+J1171,Nashik,Company_85,PLC Programmer,406945,1 years,Sample job description,2026-09-01
+J1172,Nagpur,Company_71,Digital Marketing Specialist,362420,5 years,Sample job description,2026-09-01
+J1173,Mumbai,Company_21,PLC Programmer,896637,4 years,Sample job description,2026-09-01
+J1174,Pune,Company_56,EV Battery Technician,1096275,4 years,Sample job description,2026-09-01
+J1175,Nashik,Company_82,Cloud Architect,347751,4 years,Sample job description,2026-09-01
+J1176,Nashik,Company_9,Digital Marketing Specialist,780127,1 years,Sample job description,2026-09-01
+J1177,Nagpur,Company_96,Full Stack Developer,1364203,4 years,Sample job description,2026-09-01
+J1178,Pune,Company_62,Supply Chain Coordinator,314202,1 years,Sample job description,2026-09-01
+J1179,Nagpur,Company_52,Warehouse Manager,722233,5 years,Sample job description,2026-09-01
+J1180,Mumbai,Company_32,Supply Chain Coordinator,765985,4 years,Sample job description,2026-09-01
+J1181,Nagpur,Company_26,Robotics Maintenance Tech,761046,3 years,Sample job description,2026-09-01
+J1182,Nagpur,Company_13,EV Battery Technician,653135,1 years,Sample job description,2026-09-01
+J1183,Nagpur,Company_96,Data Analyst,1134768,1 years,Sample job description,2026-09-01
+J1184,Nashik,Company_56,EV Battery Technician,1028917,5 years,Sample job description,2026-09-01
+J1185,Pune,Company_87,Supply Chain Coordinator,1460489,3 years,Sample job description,2026-09-01
+J1186,Chhatrapati Sambhajinagar,Company_88,Cloud Architect,688952,2 years,Sample job description,2026-09-01
+J1187,Mumbai,Company_27,Digital Marketing Specialist,700132,0 years,Sample job description,2026-09-01
+J1188,Nagpur,Company_55,Robotics Maintenance Tech,739377,2 years,Sample job description,2026-09-01
+J1189,Nashik,Company_19,Supply Chain Coordinator,588225,3 years,Sample job description,2026-09-01
+J1190,Nashik,Company_69,Robotics Maintenance Tech,682225,3 years,Sample job description,2026-09-01
+J1191,Mumbai,Company_10,Warehouse Manager,899143,0 years,Sample job description,2026-09-01
+J1192,Nagpur,Company_11,Data Analyst,815813,5 years,Sample job description,2026-09-01
+J1193,Chhatrapati Sambhajinagar,Company_9,Solar Grid Engineer,883480,4 years,Sample job description,2026-09-01
+J1194,Mumbai,Company_8,PLC Programmer,428256,4 years,Sample job description,2026-09-01
+J1195,Mumbai,Company_37,PLC Programmer,859450,1 years,Sample job description,2026-09-01
+J1196,Chhatrapati Sambhajinagar,Company_52,Data Analyst,584701,1 years,Sample job description,2026-09-01
+J1197,Chhatrapati Sambhajinagar,Company_59,Full Stack Developer,654334,0 years,Sample job description,2026-09-01
+J1198,Nashik,Company_43,EV Battery Technician,1150992,3 years,Sample job description,2026-09-01
+J1199,Nashik,Company_69,Robotics Maintenance Tech,383918,5 years,Sample job description,2026-09-01
+J1200,Nagpur,Company_40,Cloud Architect,767747,2 years,Sample job description,2026-09-01
+J1201,Chhatrapati Sambhajinagar,Company_91,Data Analyst,567981,4 years,Sample job description,2026-09-01
+J1202,Nashik,Company_57,Supply Chain Coordinator,401534,4 years,Sample job description,2026-09-01
+J1203,Pune,Company_4,Solar Grid Engineer,1152262,2 years,Sample job description,2026-09-01
+J1204,Pune,Company_74,Digital Marketing Specialist,735567,4 years,Sample job description,2026-09-01
+J1205,Nagpur,Company_28,Supply Chain Coordinator,1348207,4 years,Sample job description,2026-09-01
+J1206,Nashik,Company_23,Supply Chain Coordinator,360814,2 years,Sample job description,2026-09-01
+J1207,Chhatrapati Sambhajinagar,Company_85,Data Analyst,538762,5 years,Sample job description,2026-09-01
+J1208,Chhatrapati Sambhajinagar,Company_49,Solar Grid Engineer,412633,1 years,Sample job description,2026-09-01
+J1209,Chhatrapati Sambhajinagar,Company_9,Solar Grid Engineer,661527,1 years,Sample job description,2026-09-01
+J1210,Chhatrapati Sambhajinagar,Company_35,Cloud Architect,823981,3 years,Sample job description,2026-09-01
+J1211,Nashik,Company_38,Solar Grid Engineer,1043071,5 years,Sample job description,2026-09-01
+J1212,Nagpur,Company_26,PLC Programmer,1122672,1 years,Sample job description,2026-09-01
+J1213,Mumbai,Company_9,Cloud Architect,528638,3 years,Sample job description,2026-09-01
+J1214,Chhatrapati Sambhajinagar,Company_68,PLC Programmer,425587,1 years,Sample job description,2026-09-01
+J1215,Mumbai,Company_65,Supply Chain Coordinator,1071810,0 years,Sample job description,2026-09-01
+J1216,Chhatrapati Sambhajinagar,Company_73,Data Analyst,1351398,3 years,Sample job description,2026-09-01
+J1217,Mumbai,Company_95,Cloud Architect,1369009,0 years,Sample job description,2026-09-01
+J1218,Nashik,Company_71,Full Stack Developer,1022724,5 years,Sample job description,2026-09-01
+J1219,Pune,Company_50,PLC Programmer,1090894,1 years,Sample job description,2026-09-01
+J1220,Pune,Company_86,Full Stack Developer,944607,2 years,Sample job description,2026-09-01
+J1221,Nagpur,Company_77,EV Battery Technician,1368552,4 years,Sample job description,2026-09-01
+J1222,Nagpur,Company_42,EV Battery Technician,843464,0 years,Sample job description,2026-09-01
+J1223,Pune,Company_100,Data Analyst,883080,2 years,Sample job description,2026-09-01
+J1224,Mumbai,Company_15,Data Analyst,525838,4 years,Sample job description,2026-09-01
+J1225,Pune,Company_42,PLC Programmer,993162,0 years,Sample job description,2026-09-01
+J1226,Nagpur,Company_10,Solar Grid Engineer,458762,3 years,Sample job description,2026-09-01
+J1227,Pune,Company_3,Cloud Architect,706353,1 years,Sample job description,2026-09-01
+J1228,Chhatrapati Sambhajinagar,Company_58,Digital Marketing Specialist,398143,0 years,Sample job description,2026-09-01
+J1229,Chhatrapati Sambhajinagar,Company_37,Robotics Maintenance Tech,1147806,2 years,Sample job description,2026-09-01
+J1230,Chhatrapati Sambhajinagar,Company_40,Robotics Maintenance Tech,324596,0 years,Sample job description,2026-09-01
+J1231,Nashik,Company_96,Warehouse Manager,1424154,5 years,Sample job description,2026-09-01
+J1232,Mumbai,Company_5,Supply Chain Coordinator,1346463,0 years,Sample job description,2026-09-01
+J1233,Pune,Company_77,Robotics Maintenance Tech,1275968,0 years,Sample job description,2026-09-01
+J1234,Mumbai,Company_73,Cloud Architect,594970,2 years,Sample job description,2026-09-01
+J1235,Nashik,Company_77,Solar Grid Engineer,907438,5 years,Sample job description,2026-09-01
+J1236,Nagpur,Company_34,Warehouse Manager,682393,1 years,Sample job description,2026-09-01
+J1237,Pune,Company_4,Robotics Maintenance Tech,1058503,5 years,Sample job description,2026-09-01
+J1238,Nashik,Company_30,Full Stack Developer,636858,2 years,Sample job description,2026-09-01
+J1239,Nashik,Company_55,Warehouse Manager,1074238,3 years,Sample job description,2026-09-01
+J1240,Chhatrapati Sambhajinagar,Company_18,Supply Chain Coordinator,647870,3 years,Sample job description,2026-09-01
+J1241,Nashik,Company_56,Robotics Maintenance Tech,952608,2 years,Sample job description,2026-09-01
+J1242,Nashik,Company_45,Digital Marketing Specialist,303479,4 years,Sample job description,2026-09-01
+J1243,Mumbai,Company_92,Warehouse Manager,1447788,4 years,Sample job description,2026-09-01
+J1244,Mumbai,Company_12,PLC Programmer,1096168,3 years,Sample job description,2026-09-01
+J1245,Chhatrapati Sambhajinagar,Company_64,Digital Marketing Specialist,1345894,1 years,Sample job description,2026-09-01
+J1246,Nagpur,Company_78,Warehouse Manager,374169,0 years,Sample job description,2026-09-01
+J1247,Pune,Company_63,Digital Marketing Specialist,1339100,0 years,Sample job description,2026-09-01
+J1248,Chhatrapati Sambhajinagar,Company_44,Cloud Architect,836289,4 years,Sample job description,2026-09-01
+J1249,Nagpur,Company_6,Solar Grid Engineer,864713,3 years,Sample job description,2026-09-01
+J1250,Nashik,Company_29,Robotics Maintenance Tech,764734,4 years,Sample job description,2026-09-01
+J1251,Nagpur,Company_91,Digital Marketing Specialist,908723,4 years,Sample job description,2026-09-01
+J1252,Pune,Company_55,EV Battery Technician,1329979,1 years,Sample job description,2026-09-01
+J1253,Mumbai,Company_39,Supply Chain Coordinator,480972,3 years,Sample job description,2026-09-01
+J1254,Nagpur,Company_94,Full Stack Developer,441950,0 years,Sample job description,2026-09-01
+J1255,Nagpur,Company_40,Digital Marketing Specialist,1002904,2 years,Sample job description,2026-09-01
+J1256,Chhatrapati Sambhajinagar,Company_78,Full Stack Developer,788158,4 years,Sample job description,2026-09-01
+J1257,Pune,Company_67,Robotics Maintenance Tech,455742,0 years,Sample job description,2026-09-01
+J1258,Nagpur,Company_50,Data Analyst,878414,1 years,Sample job description,2026-09-01
+J1259,Nagpur,Company_74,Warehouse Manager,1322478,4 years,Sample job description,2026-09-01
+J1260,Pune,Company_57,Digital Marketing Specialist,389184,2 years,Sample job description,2026-09-01
+J1261,Nagpur,Company_13,Data Analyst,1437072,5 years,Sample job description,2026-09-01
+J1262,Nashik,Company_76,Full Stack Developer,764728,1 years,Sample job description,2026-09-01
+J1263,Nagpur,Company_75,Data Analyst,600175,3 years,Sample job description,2026-09-01
+J1264,Chhatrapati Sambhajinagar,Company_33,Cloud Architect,1190078,5 years,Sample job description,2026-09-01
+J1265,Chhatrapati Sambhajinagar,Company_63,Solar Grid Engineer,634789,5 years,Sample job description,2026-09-01
+J1266,Chhatrapati Sambhajinagar,Company_39,Robotics Maintenance Tech,928871,4 years,Sample job description,2026-09-01
+J1267,Nagpur,Company_72,Cloud Architect,1464606,2 years,Sample job description,2026-09-01
+J1268,Nagpur,Company_1,Digital Marketing Specialist,1434441,0 years,Sample job description,2026-09-01
+J1269,Mumbai,Company_47,Warehouse Manager,496749,5 years,Sample job description,2026-09-01
+J1270,Nagpur,Company_7,PLC Programmer,967676,4 years,Sample job description,2026-09-01
+J1271,Mumbai,Company_92,EV Battery Technician,898349,0 years,Sample job description,2026-09-01
+J1272,Nashik,Company_72,Solar Grid Engineer,1313341,2 years,Sample job description,2026-09-01
+J1273,Nashik,Company_1,Cloud Architect,1119058,0 years,Sample job description,2026-09-01
+J1274,Nagpur,Company_65,Data Analyst,899292,0 years,Sample job description,2026-09-01
+J1275,Chhatrapati Sambhajinagar,Company_79,Warehouse Manager,519662,2 years,Sample job description,2026-09-01
+J1276,Chhatrapati Sambhajinagar,Company_86,EV Battery Technician,964615,0 years,Sample job description,2026-09-01
+J1277,Mumbai,Company_62,Warehouse Manager,1158635,3 years,Sample job description,2026-09-01
+J1278,Nashik,Company_35,Supply Chain Coordinator,375656,5 years,Sample job description,2026-09-01
+J1279,Pune,Company_2,Robotics Maintenance Tech,800598,1 years,Sample job description,2026-09-01
+J1280,Mumbai,Company_8,EV Battery Technician,1417253,1 years,Sample job description,2026-09-01
+J1281,Nagpur,Company_47,Full Stack Developer,1392057,2 years,Sample job description,2026-09-01
+J1282,Nashik,Company_27,Full Stack Developer,733494,5 years,Sample job description,2026-09-01
+J1283,Mumbai,Company_7,Solar Grid Engineer,658139,4 years,Sample job description,2026-09-01
+J1284,Pune,Company_40,Supply Chain Coordinator,1134904,2 years,Sample job description,2026-09-01
+J1285,Nagpur,Company_55,Cloud Architect,859205,5 years,Sample job description,2026-09-01
+J1286,Nagpur,Company_45,Data Analyst,863158,1 years,Sample job description,2026-09-01
+J1287,Chhatrapati Sambhajinagar,Company_94,Robotics Maintenance Tech,494860,5 years,Sample job description,2026-09-01
+J1288,Pune,Company_24,Solar Grid Engineer,1399622,3 years,Sample job description,2026-09-01
+J1289,Mumbai,Company_45,PLC Programmer,1188900,2 years,Sample job description,2026-09-01
+J1290,Mumbai,Company_84,PLC Programmer,887261,2 years,Sample job description,2026-09-01
+J1291,Nashik,Company_88,Supply Chain Coordinator,987879,0 years,Sample job description,2026-09-01
+J1292,Nashik,Company_96,Full Stack Developer,560119,5 years,Sample job description,2026-09-01
+J1293,Mumbai,Company_27,Full Stack Developer,1111973,5 years,Sample job description,2026-09-01
+J1294,Pune,Company_78,Digital Marketing Specialist,875142,4 years,Sample job description,2026-09-01
+J1295,Mumbai,Company_96,Data Analyst,1036384,1 years,Sample job description,2026-09-01
+J1296,Nagpur,Company_26,Cloud Architect,589117,3 years,Sample job description,2026-09-01
+J1297,Nashik,Company_68,PLC Programmer,379460,3 years,Sample job description,2026-09-01
+J1298,Mumbai,Company_21,Robotics Maintenance Tech,1152788,2 years,Sample job description,2026-09-01
+J1299,Pune,Company_66,PLC Programmer,1399693,4 years,Sample job description,2026-09-01
+J1300,Nagpur,Company_49,Robotics Maintenance Tech,1231458,5 years,Sample job description,2026-09-01
+J1301,Mumbai,Company_66,Digital Marketing Specialist,618950,5 years,Sample job description,2026-09-01
+J1302,Pune,Company_56,Digital Marketing Specialist,412173,3 years,Sample job description,2026-09-01
+J1303,Nagpur,Company_24,Supply Chain Coordinator,1147792,4 years,Sample job description,2026-09-01
+J1304,Pune,Company_73,Cloud Architect,1426805,2 years,Sample job description,2026-09-01
+J1305,Nagpur,Company_39,Solar Grid Engineer,902753,4 years,Sample job description,2026-09-01
+J1306,Nashik,Company_41,Robotics Maintenance Tech,922572,2 years,Sample job description,2026-09-01
+J1307,Nagpur,Company_86,Supply Chain Coordinator,624674,1 years,Sample job description,2026-09-01
+J1308,Nagpur,Company_80,Cloud Architect,657003,3 years,Sample job description,2026-09-01
+J1309,Chhatrapati Sambhajinagar,Company_88,PLC Programmer,518019,1 years,Sample job description,2026-09-01
+J1310,Pune,Company_66,Digital Marketing Specialist,513735,3 years,Sample job description,2026-09-01
+J1311,Nagpur,Company_90,Supply Chain Coordinator,1085445,2 years,Sample job description,2026-09-01
+J1312,Nagpur,Company_26,Cloud Architect,604188,3 years,Sample job description,2026-09-01
+J1313,Nashik,Company_36,Solar Grid Engineer,1348952,0 years,Sample job description,2026-09-01
+J1314,Nashik,Company_60,Digital Marketing Specialist,978757,2 years,Sample job description,2026-09-01
+J1315,Pune,Company_95,Solar Grid Engineer,1089133,1 years,Sample job description,2026-09-01
+J1316,Mumbai,Company_81,EV Battery Technician,908667,4 years,Sample job description,2026-09-01
+J1317,Nashik,Company_52,Warehouse Manager,1399760,5 years,Sample job description,2026-09-01
+J1318,Pune,Company_43,Warehouse Manager,470566,2 years,Sample job description,2026-09-01
+J1319,Nashik,Company_64,Warehouse Manager,1491738,0 years,Sample job description,2026-09-01
+J1320,Mumbai,Company_48,Solar Grid Engineer,569116,5 years,Sample job description,2026-09-01
+J1321,Mumbai,Company_80,Digital Marketing Specialist,415954,4 years,Sample job description,2026-09-01
+J1322,Mumbai,Company_65,Data Analyst,1231867,1 years,Sample job description,2026-09-01
+J1323,Nagpur,Company_66,Digital Marketing Specialist,1494085,5 years,Sample job description,2026-09-01
+J1324,Nagpur,Company_89,EV Battery Technician,721524,3 years,Sample job description,2026-09-01
+J1325,Chhatrapati Sambhajinagar,Company_83,PLC Programmer,596452,4 years,Sample job description,2026-09-01
+J1326,Nagpur,Company_69,Data Analyst,572645,3 years,Sample job description,2026-09-01
+J1327,Nagpur,Company_91,Data Analyst,852695,1 years,Sample job description,2026-09-01
+J1328,Mumbai,Company_47,Cloud Architect,369778,4 years,Sample job description,2026-09-01
+J1329,Nagpur,Company_9,Robotics Maintenance Tech,711588,3 years,Sample job description,2026-09-01
+J1330,Nashik,Company_54,Robotics Maintenance Tech,782341,4 years,Sample job description,2026-09-01
+J1331,Chhatrapati Sambhajinagar,Company_45,Cloud Architect,346627,5 years,Sample job description,2026-09-01
+J1332,Chhatrapati Sambhajinagar,Company_32,EV Battery Technician,507116,1 years,Sample job description,2026-09-01
+J1333,Pune,Company_61,PLC Programmer,396031,0 years,Sample job description,2026-09-01
+J1334,Pune,Company_92,Cloud Architect,1179909,2 years,Sample job description,2026-09-01
+J1335,Mumbai,Company_26,Robotics Maintenance Tech,701779,2 years,Sample job description,2026-09-01
+J1336,Pune,Company_9,Robotics Maintenance Tech,1171956,1 years,Sample job description,2026-09-01
+J1337,Nashik,Company_17,PLC Programmer,640249,2 years,Sample job description,2026-09-01
+J1338,Mumbai,Company_14,Warehouse Manager,1420278,5 years,Sample job description,2026-09-01
+J1339,Pune,Company_32,Robotics Maintenance Tech,734325,4 years,Sample job description,2026-09-01
+J1340,Pune,Company_31,Solar Grid Engineer,521876,0 years,Sample job description,2026-09-01
+J1341,Pune,Company_56,Digital Marketing Specialist,706183,5 years,Sample job description,2026-09-01
+J1342,Nashik,Company_83,Full Stack Developer,411130,3 years,Sample job description,2026-09-01
+J1343,Nashik,Company_39,Full Stack Developer,418384,2 years,Sample job description,2026-09-01
+J1344,Nashik,Company_24,Data Analyst,750586,1 years,Sample job description,2026-09-01
+J1345,Chhatrapati Sambhajinagar,Company_19,Full Stack Developer,1477446,4 years,Sample job description,2026-09-01
+J1346,Pune,Company_12,Cloud Architect,879129,4 years,Sample job description,2026-09-01
+J1347,Nashik,Company_68,Robotics Maintenance Tech,378704,5 years,Sample job description,2026-09-01
+J1348,Pune,Company_73,Full Stack Developer,324314,1 years,Sample job description,2026-09-01
+J1349,Chhatrapati Sambhajinagar,Company_66,Data Analyst,1307239,1 years,Sample job description,2026-09-01
+J1350,Nagpur,Company_72,Data Analyst,859742,2 years,Sample job description,2026-09-01
+J1351,Chhatrapati Sambhajinagar,Company_47,EV Battery Technician,433825,3 years,Sample job description,2026-09-01
+J1352,Pune,Company_38,Robotics Maintenance Tech,1472644,0 years,Sample job description,2026-09-01
+J1353,Nashik,Company_69,Supply Chain Coordinator,599022,3 years,Sample job description,2026-09-01
+J1354,Pune,Company_70,Solar Grid Engineer,1019531,1 years,Sample job description,2026-09-01
+J1355,Pune,Company_35,Cloud Architect,401521,3 years,Sample job description,2026-09-01
+J1356,Nashik,Company_34,Warehouse Manager,1334530,1 years,Sample job description,2026-09-01
+J1357,Mumbai,Company_74,Supply Chain Coordinator,1082349,2 years,Sample job description,2026-09-01
+J1358,Nagpur,Company_27,Digital Marketing Specialist,1389113,2 years,Sample job description,2026-09-01
+J1359,Chhatrapati Sambhajinagar,Company_23,PLC Programmer,581988,5 years,Sample job description,2026-09-01
+J1360,Chhatrapati Sambhajinagar,Company_49,Robotics Maintenance Tech,449664,0 years,Sample job description,2026-09-01
+J1361,Pune,Company_47,Data Analyst,1344949,5 years,Sample job description,2026-09-01
+J1362,Nashik,Company_46,Full Stack Developer,738269,4 years,Sample job description,2026-09-01
+J1363,Pune,Company_30,Supply Chain Coordinator,942900,4 years,Sample job description,2026-09-01
+J1364,Chhatrapati Sambhajinagar,Company_6,Full Stack Developer,571268,4 years,Sample job description,2026-09-01
+J1365,Chhatrapati Sambhajinagar,Company_85,Cloud Architect,893996,0 years,Sample job description,2026-09-01
+J1366,Pune,Company_77,Data Analyst,1264138,4 years,Sample job description,2026-09-01
+J1367,Nashik,Company_84,Cloud Architect,1420979,1 years,Sample job description,2026-09-01
+J1368,Mumbai,Company_19,Digital Marketing Specialist,934702,3 years,Sample job description,2026-09-01
+J1369,Mumbai,Company_26,Full Stack Developer,1063691,3 years,Sample job description,2026-09-01
+J1370,Mumbai,Company_44,Warehouse Manager,1497705,2 years,Sample job description,2026-09-01
+J1371,Pune,Company_65,Solar Grid Engineer,688249,3 years,Sample job description,2026-09-01
+J1372,Nashik,Company_74,EV Battery Technician,1157487,5 years,Sample job description,2026-09-01
+J1373,Mumbai,Company_86,Full Stack Developer,727882,1 years,Sample job description,2026-09-01
+J1374,Chhatrapati Sambhajinagar,Company_53,Data Analyst,497911,0 years,Sample job description,2026-09-01
+J1375,Nashik,Company_54,Warehouse Manager,1288367,5 years,Sample job description,2026-09-01
+J1376,Mumbai,Company_4,Data Analyst,1356325,3 years,Sample job description,2026-09-01
+J1377,Chhatrapati Sambhajinagar,Company_33,Cloud Architect,1021448,3 years,Sample job description,2026-09-01
+J1378,Chhatrapati Sambhajinagar,Company_34,Full Stack Developer,826036,5 years,Sample job description,2026-09-01
+J1379,Nashik,Company_3,Robotics Maintenance Tech,1248162,2 years,Sample job description,2026-09-01
+J1380,Nashik,Company_35,Digital Marketing Specialist,702448,0 years,Sample job description,2026-09-01
+J1381,Pune,Company_3,PLC Programmer,785827,3 years,Sample job description,2026-09-01
+J1382,Pune,Company_51,EV Battery Technician,801757,2 years,Sample job description,2026-09-01
+J1383,Nashik,Company_71,Warehouse Manager,525513,1 years,Sample job description,2026-09-01
+J1384,Mumbai,Company_79,EV Battery Technician,906844,0 years,Sample job description,2026-09-01
+J1385,Chhatrapati Sambhajinagar,Company_66,Full Stack Developer,1225908,5 years,Sample job description,2026-09-01
+J1386,Pune,Company_64,Robotics Maintenance Tech,1162499,0 years,Sample job description,2026-09-01
+J1387,Mumbai,Company_93,Robotics Maintenance Tech,1303568,4 years,Sample job description,2026-09-01
+J1388,Nashik,Company_10,Cloud Architect,817228,0 years,Sample job description,2026-09-01
+J1389,Pune,Company_46,PLC Programmer,657006,4 years,Sample job description,2026-09-01
+J1390,Chhatrapati Sambhajinagar,Company_99,Warehouse Manager,1136678,1 years,Sample job description,2026-09-01
+J1391,Nashik,Company_97,Robotics Maintenance Tech,1464661,5 years,Sample job description,2026-09-01
+J1392,Nashik,Company_46,Supply Chain Coordinator,1055774,0 years,Sample job description,2026-09-01
+J1393,Mumbai,Company_79,Digital Marketing Specialist,344512,5 years,Sample job description,2026-09-01
+J1394,Nagpur,Company_60,Digital Marketing Specialist,1321010,5 years,Sample job description,2026-09-01
+J1395,Mumbai,Company_19,Full Stack Developer,541117,1 years,Sample job description,2026-09-01
+J1396,Nagpur,Company_100,Warehouse Manager,873517,5 years,Sample job description,2026-09-01
+J1397,Nashik,Company_93,Supply Chain Coordinator,791397,0 years,Sample job description,2026-09-01
+J1398,Nagpur,Company_78,Digital Marketing Specialist,1203961,1 years,Sample job description,2026-09-01
+J1399,Chhatrapati Sambhajinagar,Company_76,Digital Marketing Specialist,458490,3 years,Sample job description,2026-09-01
+J1400,Pune,Company_63,Digital Marketing Specialist,566157,2 years,Sample job description,2026-09-01
+J1401,Mumbai,Company_78,Cloud Architect,323496,4 years,Sample job description,2026-09-01
+J1402,Mumbai,Company_30,Solar Grid Engineer,1028910,2 years,Sample job description,2026-09-01
+J1403,Pune,Company_4,Data Analyst,616660,5 years,Sample job description,2026-09-01
+J1404,Nagpur,Company_89,Supply Chain Coordinator,555600,1 years,Sample job description,2026-09-01
+J1405,Mumbai,Company_35,PLC Programmer,468630,5 years,Sample job description,2026-09-01
+J1406,Mumbai,Company_97,Robotics Maintenance Tech,859491,4 years,Sample job description,2026-09-01
+J1407,Nagpur,Company_85,Full Stack Developer,721179,2 years,Sample job description,2026-09-01
+J1408,Mumbai,Company_44,Supply Chain Coordinator,1289096,2 years,Sample job description,2026-09-01
+J1409,Pune,Company_90,Cloud Architect,480802,4 years,Sample job description,2026-09-01
+J1410,Chhatrapati Sambhajinagar,Company_7,Robotics Maintenance Tech,404914,1 years,Sample job description,2026-09-01
+J1411,Mumbai,Company_1,Cloud Architect,483363,4 years,Sample job description,2026-09-01
+J1412,Mumbai,Company_84,Cloud Architect,1270937,0 years,Sample job description,2026-09-01
+J1413,Mumbai,Company_65,Full Stack Developer,1249229,1 years,Sample job description,2026-09-01
+J1414,Chhatrapati Sambhajinagar,Company_50,EV Battery Technician,593477,1 years,Sample job description,2026-09-01
+J1415,Nagpur,Company_30,Solar Grid Engineer,1402920,1 years,Sample job description,2026-09-01
+J1416,Nashik,Company_60,PLC Programmer,351800,0 years,Sample job description,2026-09-01
+J1417,Pune,Company_62,Cloud Architect,955755,4 years,Sample job description,2026-09-01
+J1418,Nagpur,Company_97,Robotics Maintenance Tech,728072,5 years,Sample job description,2026-09-01
+J1419,Nashik,Company_55,Cloud Architect,578987,0 years,Sample job description,2026-09-01
+J1420,Chhatrapati Sambhajinagar,Company_79,Warehouse Manager,1425303,0 years,Sample job description,2026-09-01
+J1421,Nashik,Company_11,PLC Programmer,1271400,3 years,Sample job description,2026-09-01
+J1422,Mumbai,Company_10,Warehouse Manager,1386300,0 years,Sample job description,2026-09-01
+J1423,Pune,Company_49,Robotics Maintenance Tech,303586,4 years,Sample job description,2026-09-01
+J1424,Chhatrapati Sambhajinagar,Company_13,EV Battery Technician,535163,0 years,Sample job description,2026-09-01
+J1425,Nashik,Company_86,Digital Marketing Specialist,935575,1 years,Sample job description,2026-09-01
+J1426,Pune,Company_86,Warehouse Manager,1430768,0 years,Sample job description,2026-09-01
+J1427,Pune,Company_88,Full Stack Developer,1109009,4 years,Sample job description,2026-09-01
+J1428,Nagpur,Company_95,PLC Programmer,1435461,4 years,Sample job description,2026-09-01
+J1429,Nagpur,Company_86,Robotics Maintenance Tech,508217,2 years,Sample job description,2026-09-01
+J1430,Mumbai,Company_71,Full Stack Developer,1470966,4 years,Sample job description,2026-09-01
+J1431,Nashik,Company_19,Solar Grid Engineer,612848,4 years,Sample job description,2026-09-01
+J1432,Mumbai,Company_49,Digital Marketing Specialist,421098,0 years,Sample job description,2026-09-01
+J1433,Mumbai,Company_12,Robotics Maintenance Tech,1420366,0 years,Sample job description,2026-09-01
+J1434,Nashik,Company_7,Solar Grid Engineer,1381804,0 years,Sample job description,2026-09-01
+J1435,Nashik,Company_46,Digital Marketing Specialist,1250645,1 years,Sample job description,2026-09-01
+J1436,Pune,Company_57,EV Battery Technician,1147670,5 years,Sample job description,2026-09-01
+J1437,Chhatrapati Sambhajinagar,Company_16,Warehouse Manager,1209959,4 years,Sample job description,2026-09-01
+J1438,Chhatrapati Sambhajinagar,Company_15,Data Analyst,1008743,2 years,Sample job description,2026-09-01
+J1439,Nashik,Company_44,Cloud Architect,1300760,4 years,Sample job description,2026-09-01
+J1440,Mumbai,Company_88,PLC Programmer,1237121,1 years,Sample job description,2026-09-01
+J1441,Chhatrapati Sambhajinagar,Company_24,PLC Programmer,649617,1 years,Sample job description,2026-09-01
+J1442,Nagpur,Company_81,PLC Programmer,607194,0 years,Sample job description,2026-09-01
+J1443,Nashik,Company_28,Full Stack Developer,1387812,0 years,Sample job description,2026-09-01
+J1444,Nashik,Company_48,EV Battery Technician,534988,0 years,Sample job description,2026-09-01
+J1445,Nashik,Company_74,Full Stack Developer,735648,5 years,Sample job description,2026-09-01
+J1446,Mumbai,Company_40,Robotics Maintenance Tech,1459675,5 years,Sample job description,2026-09-01
+J1447,Chhatrapati Sambhajinagar,Company_10,Supply Chain Coordinator,604663,5 years,Sample job description,2026-09-01
+J1448,Pune,Company_68,Solar Grid Engineer,1293509,1 years,Sample job description,2026-09-01
+J1449,Nashik,Company_63,Warehouse Manager,1364370,3 years,Sample job description,2026-09-01
+J1450,Mumbai,Company_92,Supply Chain Coordinator,418482,0 years,Sample job description,2026-09-01
+J1451,Chhatrapati Sambhajinagar,Company_28,Solar Grid Engineer,1460473,1 years,Sample job description,2026-09-01
+J1452,Nagpur,Company_44,Solar Grid Engineer,1479421,2 years,Sample job description,2026-09-01
+J1453,Pune,Company_86,Full Stack Developer,872547,5 years,Sample job description,2026-09-01
+J1454,Mumbai,Company_18,Warehouse Manager,719494,0 years,Sample job description,2026-09-01
+J1455,Mumbai,Company_44,Robotics Maintenance Tech,828894,5 years,Sample job description,2026-09-01
+J1456,Chhatrapati Sambhajinagar,Company_29,Full Stack Developer,411347,3 years,Sample job description,2026-09-01
+J1457,Pune,Company_43,PLC Programmer,776354,0 years,Sample job description,2026-09-01
+J1458,Nagpur,Company_83,PLC Programmer,1220735,0 years,Sample job description,2026-09-01
+J1459,Nagpur,Company_54,Full Stack Developer,577146,4 years,Sample job description,2026-09-01
+J1460,Pune,Company_69,EV Battery Technician,987597,5 years,Sample job description,2026-09-01
+J1461,Mumbai,Company_50,Solar Grid Engineer,1267708,2 years,Sample job description,2026-09-01
+J1462,Nashik,Company_4,Warehouse Manager,1136451,3 years,Sample job description,2026-09-01
+J1463,Chhatrapati Sambhajinagar,Company_93,Robotics Maintenance Tech,1298966,3 years,Sample job description,2026-09-01
+J1464,Chhatrapati Sambhajinagar,Company_86,Supply Chain Coordinator,1141388,2 years,Sample job description,2026-09-01
+J1465,Pune,Company_21,Supply Chain Coordinator,947306,1 years,Sample job description,2026-09-01
+J1466,Nashik,Company_35,EV Battery Technician,1251318,0 years,Sample job description,2026-09-01
+J1467,Mumbai,Company_67,Solar Grid Engineer,376943,5 years,Sample job description,2026-09-01
+J1468,Mumbai,Company_26,Supply Chain Coordinator,414434,4 years,Sample job description,2026-09-01
+J1469,Nagpur,Company_62,Supply Chain Coordinator,1310115,0 years,Sample job description,2026-09-01
+J1470,Nashik,Company_23,Cloud Architect,1087039,0 years,Sample job description,2026-09-01
+J1471,Mumbai,Company_7,Solar Grid Engineer,773882,0 years,Sample job description,2026-09-01
+J1472,Nashik,Company_30,Digital Marketing Specialist,1157289,5 years,Sample job description,2026-09-01
+J1473,Nashik,Company_69,Supply Chain Coordinator,1171336,5 years,Sample job description,2026-09-01
+J1474,Chhatrapati Sambhajinagar,Company_51,Cloud Architect,558308,2 years,Sample job description,2026-09-01
+J1475,Pune,Company_92,Robotics Maintenance Tech,1274716,5 years,Sample job description,2026-09-01
+J1476,Pune,Company_88,Digital Marketing Specialist,308764,4 years,Sample job description,2026-09-01
+J1477,Chhatrapati Sambhajinagar,Company_31,Digital Marketing Specialist,720788,5 years,Sample job description,2026-09-01
+J1478,Nashik,Company_20,Supply Chain Coordinator,1398555,0 years,Sample job description,2026-09-01
+J1479,Nagpur,Company_36,Digital Marketing Specialist,489056,2 years,Sample job description,2026-09-01
+J1480,Nagpur,Company_4,EV Battery Technician,1251678,3 years,Sample job description,2026-09-01
+J1481,Chhatrapati Sambhajinagar,Company_76,Full Stack Developer,1021510,2 years,Sample job description,2026-09-01
+J1482,Pune,Company_1,Cloud Architect,893183,1 years,Sample job description,2026-09-01
+J1483,Chhatrapati Sambhajinagar,Company_55,EV Battery Technician,556743,5 years,Sample job description,2026-09-01
+J1484,Pune,Company_19,PLC Programmer,537784,5 years,Sample job description,2026-09-01
+J1485,Nashik,Company_44,Digital Marketing Specialist,566986,0 years,Sample job description,2026-09-01
+J1486,Pune,Company_62,Data Analyst,1381678,0 years,Sample job description,2026-09-01
+J1487,Mumbai,Company_85,Cloud Architect,596834,2 years,Sample job description,2026-09-01
+J1488,Nagpur,Company_87,Solar Grid Engineer,440035,2 years,Sample job description,2026-09-01
+J1489,Nagpur,Company_89,PLC Programmer,494126,1 years,Sample job description,2026-09-01
+J1490,Nashik,Company_36,Data Analyst,1058714,5 years,Sample job description,2026-09-01
+J1491,Nagpur,Company_33,Solar Grid Engineer,836626,3 years,Sample job description,2026-09-01
+J1492,Nashik,Company_8,Warehouse Manager,1104885,4 years,Sample job description,2026-09-01
+J1493,Nashik,Company_24,Robotics Maintenance Tech,938987,5 years,Sample job description,2026-09-01
+J1494,Nagpur,Company_31,Full Stack Developer,793262,4 years,Sample job description,2026-09-01
+J1495,Chhatrapati Sambhajinagar,Company_56,Warehouse Manager,1311655,2 years,Sample job description,2026-09-01
+J1496,Nashik,Company_52,Warehouse Manager,408826,2 years,Sample job description,2026-09-01
+J1497,Nashik,Company_59,Data Analyst,1329282,4 years,Sample job description,2026-09-01
+J1498,Nashik,Company_37,Robotics Maintenance Tech,834777,1 years,Sample job description,2026-09-01
+J1499,Pune,Company_94,Robotics Maintenance Tech,1423447,0 years,Sample job description,2026-09-01
+J1500,Chhatrapati Sambhajinagar,Company_63,Data Analyst,1178177,5 years,Sample job description,2026-09-01
+J1501,Nagpur,Company_46,PLC Programmer,484917,1 years,Sample job description,2026-09-01
+J1502,Nagpur,Company_89,Robotics Maintenance Tech,568970,0 years,Sample job description,2026-09-01
+J1503,Nashik,Company_51,PLC Programmer,524779,2 years,Sample job description,2026-09-01
+J1504,Pune,Company_96,Supply Chain Coordinator,360548,1 years,Sample job description,2026-09-01
+J1505,Nashik,Company_78,Supply Chain Coordinator,1028914,4 years,Sample job description,2026-09-01
+J1506,Nagpur,Company_67,Supply Chain Coordinator,1368176,0 years,Sample job description,2026-09-01
+J1507,Nashik,Company_59,Supply Chain Coordinator,1243377,3 years,Sample job description,2026-09-01
+J1508,Nagpur,Company_73,EV Battery Technician,1109536,0 years,Sample job description,2026-09-01
+J1509,Chhatrapati Sambhajinagar,Company_82,Robotics Maintenance Tech,938768,1 years,Sample job description,2026-09-01
+J1510,Nashik,Company_45,Warehouse Manager,1141412,0 years,Sample job description,2026-09-01
+J1511,Nashik,Company_38,Cloud Architect,1047221,0 years,Sample job description,2026-09-01
+J1512,Nagpur,Company_5,Digital Marketing Specialist,1463466,5 years,Sample job description,2026-09-01
+J1513,Pune,Company_47,Robotics Maintenance Tech,619406,1 years,Sample job description,2026-09-01
+J1514,Mumbai,Company_93,Full Stack Developer,563172,5 years,Sample job description,2026-09-01
+J1515,Mumbai,Company_50,Digital Marketing Specialist,390779,2 years,Sample job description,2026-09-01
+J1516,Nashik,Company_63,PLC Programmer,784731,2 years,Sample job description,2026-09-01
+J1517,Nagpur,Company_40,Robotics Maintenance Tech,1126840,0 years,Sample job description,2026-09-01
+J1518,Nagpur,Company_21,Full Stack Developer,1214360,4 years,Sample job description,2026-09-01
+J1519,Pune,Company_18,Robotics Maintenance Tech,1015848,1 years,Sample job description,2026-09-01
+J1520,Nagpur,Company_73,Data Analyst,321603,0 years,Sample job description,2026-09-01
+J1521,Nagpur,Company_6,Digital Marketing Specialist,1234616,2 years,Sample job description,2026-09-01
+J1522,Chhatrapati Sambhajinagar,Company_51,Warehouse Manager,1031477,2 years,Sample job description,2026-09-01
+J1523,Nagpur,Company_10,Solar Grid Engineer,832221,3 years,Sample job description,2026-09-01
+J1524,Nashik,Company_72,Supply Chain Coordinator,1268320,5 years,Sample job description,2026-09-01
+J1525,Chhatrapati Sambhajinagar,Company_100,Data Analyst,1441550,0 years,Sample job description,2026-09-01
+J1526,Mumbai,Company_4,Solar Grid Engineer,1102684,4 years,Sample job description,2026-09-01
+J1527,Mumbai,Company_23,Robotics Maintenance Tech,567327,1 years,Sample job description,2026-09-01
+J1528,Pune,Company_55,Solar Grid Engineer,655622,2 years,Sample job description,2026-09-01
+J1529,Mumbai,Company_47,Full Stack Developer,1460948,0 years,Sample job description,2026-09-01
+J1530,Pune,Company_43,Digital Marketing Specialist,674920,2 years,Sample job description,2026-09-01
+J1531,Pune,Company_100,Data Analyst,1484436,2 years,Sample job description,2026-09-01
+J1532,Nagpur,Company_4,PLC Programmer,343630,5 years,Sample job description,2026-09-01
+J1533,Mumbai,Company_35,Robotics Maintenance Tech,1080173,5 years,Sample job description,2026-09-01
+J1534,Mumbai,Company_94,Data Analyst,685664,5 years,Sample job description,2026-09-01
+J1535,Mumbai,Company_15,Warehouse Manager,1285114,0 years,Sample job description,2026-09-01
+J1536,Mumbai,Company_69,Robotics Maintenance Tech,411912,1 years,Sample job description,2026-09-01
+J1537,Mumbai,Company_62,Solar Grid Engineer,314952,5 years,Sample job description,2026-09-01
+J1538,Mumbai,Company_36,Robotics Maintenance Tech,1003367,5 years,Sample job description,2026-09-01
+J1539,Nagpur,Company_75,Data Analyst,985645,4 years,Sample job description,2026-09-01
+J1540,Nashik,Company_13,Solar Grid Engineer,1134763,3 years,Sample job description,2026-09-01
+J1541,Mumbai,Company_9,Digital Marketing Specialist,743700,1 years,Sample job description,2026-09-01
+J1542,Pune,Company_89,Full Stack Developer,397864,4 years,Sample job description,2026-09-01
+J1543,Mumbai,Company_62,PLC Programmer,447377,3 years,Sample job description,2026-09-01
+J1544,Mumbai,Company_71,Cloud Architect,1203447,4 years,Sample job description,2026-09-01
+J1545,Nashik,Company_67,Warehouse Manager,548870,2 years,Sample job description,2026-09-01
+J1546,Chhatrapati Sambhajinagar,Company_40,Cloud Architect,1356585,2 years,Sample job description,2026-09-01
+J1547,Chhatrapati Sambhajinagar,Company_99,Supply Chain Coordinator,447677,5 years,Sample job description,2026-09-01
+J1548,Nagpur,Company_10,Cloud Architect,1372709,4 years,Sample job description,2026-09-01
+J1549,Chhatrapati Sambhajinagar,Company_56,PLC Programmer,501503,3 years,Sample job description,2026-09-01
+J1550,Mumbai,Company_49,EV Battery Technician,1057334,1 years,Sample job description,2026-09-01
+J1551,Chhatrapati Sambhajinagar,Company_99,Robotics Maintenance Tech,439004,0 years,Sample job description,2026-09-01
+J1552,Nashik,Company_8,Supply Chain Coordinator,731521,5 years,Sample job description,2026-09-01
+J1553,Nagpur,Company_43,Warehouse Manager,1025142,4 years,Sample job description,2026-09-01
+J1554,Pune,Company_39,Cloud Architect,1197121,4 years,Sample job description,2026-09-01
+J1555,Nagpur,Company_73,PLC Programmer,1456565,4 years,Sample job description,2026-09-01
+J1556,Chhatrapati Sambhajinagar,Company_43,Supply Chain Coordinator,1433978,0 years,Sample job description,2026-09-01
+J1557,Nashik,Company_77,Digital Marketing Specialist,814816,5 years,Sample job description,2026-09-01
+J1558,Mumbai,Company_49,Solar Grid Engineer,1318710,3 years,Sample job description,2026-09-01
+J1559,Pune,Company_53,PLC Programmer,619396,2 years,Sample job description,2026-09-01
+J1560,Chhatrapati Sambhajinagar,Company_10,Robotics Maintenance Tech,948560,4 years,Sample job description,2026-09-01
+J1561,Chhatrapati Sambhajinagar,Company_60,Robotics Maintenance Tech,442880,5 years,Sample job description,2026-09-01
+J1562,Chhatrapati Sambhajinagar,Company_83,Warehouse Manager,917610,2 years,Sample job description,2026-09-01
+J1563,Chhatrapati Sambhajinagar,Company_52,EV Battery Technician,639836,4 years,Sample job description,2026-09-01
+J1564,Nagpur,Company_68,Full Stack Developer,861735,1 years,Sample job description,2026-09-01
+J1565,Chhatrapati Sambhajinagar,Company_43,PLC Programmer,746847,4 years,Sample job description,2026-09-01
+J1566,Chhatrapati Sambhajinagar,Company_23,Full Stack Developer,325771,3 years,Sample job description,2026-09-01
+J1567,Mumbai,Company_36,Data Analyst,714024,2 years,Sample job description,2026-09-01
+J1568,Nashik,Company_78,Full Stack Developer,761462,3 years,Sample job description,2026-09-01
+J1569,Pune,Company_92,Cloud Architect,1278466,0 years,Sample job description,2026-09-01
+J1570,Nagpur,Company_82,Cloud Architect,984151,0 years,Sample job description,2026-09-01
+J1571,Nagpur,Company_48,Supply Chain Coordinator,568380,5 years,Sample job description,2026-09-01
+J1572,Nashik,Company_67,Solar Grid Engineer,455987,3 years,Sample job description,2026-09-01
+J1573,Pune,Company_80,PLC Programmer,857727,5 years,Sample job description,2026-09-01
+J1574,Pune,Company_56,Robotics Maintenance Tech,1257006,4 years,Sample job description,2026-09-01
+J1575,Nashik,Company_16,Robotics Maintenance Tech,664554,0 years,Sample job description,2026-09-01
+J1576,Nagpur,Company_95,Cloud Architect,533737,2 years,Sample job description,2026-09-01
+J1577,Chhatrapati Sambhajinagar,Company_9,Digital Marketing Specialist,808658,0 years,Sample job description,2026-09-01
+J1578,Mumbai,Company_27,Digital Marketing Specialist,1031229,2 years,Sample job description,2026-09-01
+J1579,Nagpur,Company_11,Robotics Maintenance Tech,481779,2 years,Sample job description,2026-09-01
+J1580,Mumbai,Company_94,Digital Marketing Specialist,1335945,4 years,Sample job description,2026-09-01
+J1581,Nagpur,Company_96,EV Battery Technician,1083199,2 years,Sample job description,2026-09-01
+J1582,Chhatrapati Sambhajinagar,Company_52,Warehouse Manager,762293,5 years,Sample job description,2026-09-01
+J1583,Nagpur,Company_10,Digital Marketing Specialist,417743,2 years,Sample job description,2026-09-01
+J1584,Nagpur,Company_5,Solar Grid Engineer,1026271,2 years,Sample job description,2026-09-01
+J1585,Nashik,Company_57,Warehouse Manager,920403,3 years,Sample job description,2026-09-01
+J1586,Nagpur,Company_95,Supply Chain Coordinator,640087,5 years,Sample job description,2026-09-01
+J1587,Mumbai,Company_37,Data Analyst,748213,5 years,Sample job description,2026-09-01
+J1588,Mumbai,Company_94,Robotics Maintenance Tech,713839,1 years,Sample job description,2026-09-01
+J1589,Pune,Company_79,Data Analyst,920277,1 years,Sample job description,2026-09-01
+J1590,Mumbai,Company_5,PLC Programmer,353257,3 years,Sample job description,2026-09-01
+J1591,Nashik,Company_60,PLC Programmer,1450875,2 years,Sample job description,2026-09-01
+J1592,Mumbai,Company_44,EV Battery Technician,1365318,1 years,Sample job description,2026-09-01
+J1593,Pune,Company_83,Warehouse Manager,364734,2 years,Sample job description,2026-09-01
+J1594,Nagpur,Company_56,PLC Programmer,1109915,4 years,Sample job description,2026-09-01
+J1595,Nagpur,Company_4,Robotics Maintenance Tech,672152,4 years,Sample job description,2026-09-01
+J1596,Nashik,Company_85,Cloud Architect,1087248,0 years,Sample job description,2026-09-01
+J1597,Nagpur,Company_76,Digital Marketing Specialist,1380189,5 years,Sample job description,2026-09-01
+J1598,Mumbai,Company_25,Warehouse Manager,1061767,2 years,Sample job description,2026-09-01
+J1599,Nashik,Company_13,Full Stack Developer,484826,1 years,Sample job description,2026-09-01
+J1600,Chhatrapati Sambhajinagar,Company_35,Solar Grid Engineer,766304,0 years,Sample job description,2026-09-01
+J1601,Chhatrapati Sambhajinagar,Company_31,Supply Chain Coordinator,608932,3 years,Sample job description,2026-09-01
+J1602,Pune,Company_33,Cloud Architect,956649,1 years,Sample job description,2026-09-01
+J1603,Pune,Company_82,EV Battery Technician,831400,3 years,Sample job description,2026-09-01
+J1604,Nagpur,Company_44,EV Battery Technician,800963,2 years,Sample job description,2026-09-01
+J1605,Pune,Company_54,Solar Grid Engineer,824244,2 years,Sample job description,2026-09-01
+J1606,Nashik,Company_89,EV Battery Technician,709241,0 years,Sample job description,2026-09-01
+J1607,Nagpur,Company_83,PLC Programmer,646358,4 years,Sample job description,2026-09-01
+J1608,Nagpur,Company_26,Supply Chain Coordinator,619992,0 years,Sample job description,2026-09-01
+J1609,Nagpur,Company_91,Digital Marketing Specialist,947401,3 years,Sample job description,2026-09-01
+J1610,Nashik,Company_1,Supply Chain Coordinator,1305285,3 years,Sample job description,2026-09-01
+J1611,Pune,Company_46,Supply Chain Coordinator,1091980,0 years,Sample job description,2026-09-01
+J1612,Nashik,Company_75,Full Stack Developer,1194857,2 years,Sample job description,2026-09-01
+J1613,Nashik,Company_22,Data Analyst,1312506,5 years,Sample job description,2026-09-01
+J1614,Nashik,Company_55,Robotics Maintenance Tech,1106997,2 years,Sample job description,2026-09-01
+J1615,Nagpur,Company_9,Data Analyst,483681,3 years,Sample job description,2026-09-01
+J1616,Pune,Company_36,Warehouse Manager,471172,4 years,Sample job description,2026-09-01
+J1617,Nashik,Company_66,Supply Chain Coordinator,972464,1 years,Sample job description,2026-09-01
+J1618,Mumbai,Company_99,Supply Chain Coordinator,664948,0 years,Sample job description,2026-09-01
+J1619,Pune,Company_62,Full Stack Developer,602004,3 years,Sample job description,2026-09-01
+J1620,Chhatrapati Sambhajinagar,Company_67,Data Analyst,346186,3 years,Sample job description,2026-09-01
+J1621,Chhatrapati Sambhajinagar,Company_23,Robotics Maintenance Tech,866286,4 years,Sample job description,2026-09-01
+J1622,Pune,Company_63,Cloud Architect,1139590,3 years,Sample job description,2026-09-01
+J1623,Nashik,Company_35,Solar Grid Engineer,1406209,3 years,Sample job description,2026-09-01
+J1624,Pune,Company_75,Robotics Maintenance Tech,397882,3 years,Sample job description,2026-09-01
+J1625,Pune,Company_6,EV Battery Technician,1441110,0 years,Sample job description,2026-09-01
+J1626,Mumbai,Company_13,Full Stack Developer,650814,0 years,Sample job description,2026-09-01
+J1627,Nagpur,Company_99,Data Analyst,576663,3 years,Sample job description,2026-09-01
+J1628,Pune,Company_100,Digital Marketing Specialist,1400633,2 years,Sample job description,2026-09-01
+J1629,Pune,Company_65,Full Stack Developer,441743,2 years,Sample job description,2026-09-01
+J1630,Nashik,Company_46,Robotics Maintenance Tech,639984,3 years,Sample job description,2026-09-01
+J1631,Mumbai,Company_81,Warehouse Manager,1385276,3 years,Sample job description,2026-09-01
+J1632,Chhatrapati Sambhajinagar,Company_22,Robotics Maintenance Tech,949395,0 years,Sample job description,2026-09-01
+J1633,Pune,Company_37,EV Battery Technician,409516,5 years,Sample job description,2026-09-01
+J1634,Chhatrapati Sambhajinagar,Company_55,Digital Marketing Specialist,726608,0 years,Sample job description,2026-09-01
+J1635,Nagpur,Company_72,Cloud Architect,456089,3 years,Sample job description,2026-09-01
+J1636,Mumbai,Company_23,PLC Programmer,1309155,5 years,Sample job description,2026-09-01
+J1637,Nagpur,Company_91,Robotics Maintenance Tech,729494,5 years,Sample job description,2026-09-01
+J1638,Nashik,Company_18,Full Stack Developer,454809,4 years,Sample job description,2026-09-01
+J1639,Mumbai,Company_86,Supply Chain Coordinator,750873,2 years,Sample job description,2026-09-01
+J1640,Nashik,Company_89,Robotics Maintenance Tech,1039265,0 years,Sample job description,2026-09-01
+J1641,Nagpur,Company_3,Full Stack Developer,790812,1 years,Sample job description,2026-09-01
+J1642,Nashik,Company_20,Cloud Architect,488648,1 years,Sample job description,2026-09-01
+J1643,Chhatrapati Sambhajinagar,Company_67,Solar Grid Engineer,1301208,2 years,Sample job description,2026-09-01
+J1644,Nagpur,Company_52,EV Battery Technician,545873,1 years,Sample job description,2026-09-01
+J1645,Nagpur,Company_95,Data Analyst,1184561,3 years,Sample job description,2026-09-01
+J1646,Mumbai,Company_37,Robotics Maintenance Tech,770965,5 years,Sample job description,2026-09-01
+J1647,Chhatrapati Sambhajinagar,Company_64,Full Stack Developer,305175,1 years,Sample job description,2026-09-01
+J1648,Pune,Company_80,Full Stack Developer,410258,0 years,Sample job description,2026-09-01
+J1649,Chhatrapati Sambhajinagar,Company_12,Data Analyst,830342,3 years,Sample job description,2026-09-01
+J1650,Pune,Company_58,Warehouse Manager,735700,3 years,Sample job description,2026-09-01
+J1651,Pune,Company_77,Solar Grid Engineer,401003,0 years,Sample job description,2026-09-01
+J1652,Pune,Company_8,PLC Programmer,1124113,2 years,Sample job description,2026-09-01
+J1653,Pune,Company_67,Full Stack Developer,1240101,4 years,Sample job description,2026-09-01
+J1654,Mumbai,Company_70,Full Stack Developer,1085236,5 years,Sample job description,2026-09-01
+J1655,Chhatrapati Sambhajinagar,Company_21,Robotics Maintenance Tech,1496125,0 years,Sample job description,2026-09-01
+J1656,Nashik,Company_61,Robotics Maintenance Tech,318580,4 years,Sample job description,2026-09-01
+J1657,Chhatrapati Sambhajinagar,Company_97,Data Analyst,750811,4 years,Sample job description,2026-09-01
+J1658,Nashik,Company_44,Data Analyst,527429,1 years,Sample job description,2026-09-01
+J1659,Nashik,Company_24,Digital Marketing Specialist,628884,4 years,Sample job description,2026-09-01
+J1660,Mumbai,Company_85,Supply Chain Coordinator,736466,4 years,Sample job description,2026-09-01
+J1661,Chhatrapati Sambhajinagar,Company_96,Warehouse Manager,1418754,0 years,Sample job description,2026-09-01
+J1662,Nashik,Company_61,Full Stack Developer,1366482,3 years,Sample job description,2026-09-01
+J1663,Nagpur,Company_5,PLC Programmer,780179,4 years,Sample job description,2026-09-01
+J1664,Nagpur,Company_58,Data Analyst,939420,1 years,Sample job description,2026-09-01
+J1665,Nagpur,Company_17,Full Stack Developer,669564,5 years,Sample job description,2026-09-01
+J1666,Pune,Company_83,Digital Marketing Specialist,739989,1 years,Sample job description,2026-09-01
+J1667,Nagpur,Company_67,Full Stack Developer,1484699,3 years,Sample job description,2026-09-01
+J1668,Mumbai,Company_59,Full Stack Developer,813961,4 years,Sample job description,2026-09-01
+J1669,Pune,Company_57,Full Stack Developer,828972,3 years,Sample job description,2026-09-01
+J1670,Pune,Company_2,Data Analyst,705489,2 years,Sample job description,2026-09-01
+J1671,Pune,Company_42,Data Analyst,1082799,1 years,Sample job description,2026-09-01
+J1672,Pune,Company_25,EV Battery Technician,648711,0 years,Sample job description,2026-09-01
+J1673,Chhatrapati Sambhajinagar,Company_9,EV Battery Technician,962079,1 years,Sample job description,2026-09-01
+J1674,Pune,Company_26,Data Analyst,534059,1 years,Sample job description,2026-09-01
+J1675,Nagpur,Company_74,Robotics Maintenance Tech,335711,3 years,Sample job description,2026-09-01
+J1676,Nagpur,Company_100,Full Stack Developer,1251504,0 years,Sample job description,2026-09-01
+J1677,Chhatrapati Sambhajinagar,Company_28,Supply Chain Coordinator,882333,3 years,Sample job description,2026-09-01
+J1678,Nagpur,Company_1,Warehouse Manager,590272,1 years,Sample job description,2026-09-01
+J1679,Mumbai,Company_22,EV Battery Technician,1412092,4 years,Sample job description,2026-09-01
+J1680,Nagpur,Company_25,Robotics Maintenance Tech,1136906,3 years,Sample job description,2026-09-01
+J1681,Mumbai,Company_8,Full Stack Developer,760867,2 years,Sample job description,2026-09-01
+J1682,Chhatrapati Sambhajinagar,Company_65,Robotics Maintenance Tech,722600,1 years,Sample job description,2026-09-01
+J1683,Chhatrapati Sambhajinagar,Company_29,Warehouse Manager,743315,1 years,Sample job description,2026-09-01
+J1684,Pune,Company_5,Data Analyst,1117802,4 years,Sample job description,2026-09-01
+J1685,Mumbai,Company_69,Data Analyst,357439,1 years,Sample job description,2026-09-01
+J1686,Mumbai,Company_48,EV Battery Technician,608972,3 years,Sample job description,2026-09-01
+J1687,Mumbai,Company_72,Warehouse Manager,907135,1 years,Sample job description,2026-09-01
+J1688,Pune,Company_21,Digital Marketing Specialist,474737,0 years,Sample job description,2026-09-01
+J1689,Nagpur,Company_85,Supply Chain Coordinator,1371742,2 years,Sample job description,2026-09-01
+J1690,Pune,Company_72,Warehouse Manager,560789,4 years,Sample job description,2026-09-01
+J1691,Nagpur,Company_35,Data Analyst,478068,3 years,Sample job description,2026-09-01
+J1692,Mumbai,Company_97,Full Stack Developer,702069,3 years,Sample job description,2026-09-01
+J1693,Chhatrapati Sambhajinagar,Company_25,Solar Grid Engineer,1472911,4 years,Sample job description,2026-09-01
+J1694,Chhatrapati Sambhajinagar,Company_97,Robotics Maintenance Tech,1197731,5 years,Sample job description,2026-09-01
+J1695,Nashik,Company_52,EV Battery Technician,1480277,5 years,Sample job description,2026-09-01
+J1696,Nagpur,Company_94,Digital Marketing Specialist,483028,3 years,Sample job description,2026-09-01
+J1697,Nashik,Company_76,Cloud Architect,977351,2 years,Sample job description,2026-09-01
+J1698,Pune,Company_7,Full Stack Developer,498835,5 years,Sample job description,2026-09-01
+J1699,Chhatrapati Sambhajinagar,Company_73,Supply Chain Coordinator,1403456,4 years,Sample job description,2026-09-01
+J1700,Pune,Company_5,Digital Marketing Specialist,1187025,4 years,Sample job description,2026-09-01
+J1701,Nashik,Company_40,EV Battery Technician,1165515,3 years,Sample job description,2026-09-01
+J1702,Pune,Company_16,Warehouse Manager,915603,4 years,Sample job description,2026-09-01
+J1703,Mumbai,Company_64,Robotics Maintenance Tech,340191,5 years,Sample job description,2026-09-01
+J1704,Nagpur,Company_71,Solar Grid Engineer,791091,0 years,Sample job description,2026-09-01
+J1705,Pune,Company_95,EV Battery Technician,906927,5 years,Sample job description,2026-09-01
+J1706,Mumbai,Company_58,Supply Chain Coordinator,739654,4 years,Sample job description,2026-09-01
+J1707,Nagpur,Company_90,Data Analyst,654063,1 years,Sample job description,2026-09-01
+J1708,Chhatrapati Sambhajinagar,Company_11,Cloud Architect,1162270,3 years,Sample job description,2026-09-01
+J1709,Nashik,Company_60,Warehouse Manager,889572,3 years,Sample job description,2026-09-01
+J1710,Mumbai,Company_100,EV Battery Technician,313496,3 years,Sample job description,2026-09-01
+J1711,Mumbai,Company_66,Supply Chain Coordinator,864439,4 years,Sample job description,2026-09-01
+J1712,Pune,Company_81,Full Stack Developer,815436,0 years,Sample job description,2026-09-01
+J1713,Mumbai,Company_83,Full Stack Developer,650345,3 years,Sample job description,2026-09-01
+J1714,Pune,Company_12,Digital Marketing Specialist,1066507,0 years,Sample job description,2026-09-01
+J1715,Chhatrapati Sambhajinagar,Company_39,Robotics Maintenance Tech,763185,5 years,Sample job description,2026-09-01
+J1716,Nashik,Company_60,PLC Programmer,1462990,1 years,Sample job description,2026-09-01
+J1717,Pune,Company_20,Full Stack Developer,405824,0 years,Sample job description,2026-09-01
+J1718,Pune,Company_3,PLC Programmer,1235956,0 years,Sample job description,2026-09-01
+J1719,Mumbai,Company_24,Supply Chain Coordinator,1306674,0 years,Sample job description,2026-09-01
+J1720,Chhatrapati Sambhajinagar,Company_97,Robotics Maintenance Tech,338445,0 years,Sample job description,2026-09-01
+J1721,Pune,Company_65,Solar Grid Engineer,1244370,2 years,Sample job description,2026-09-01
+J1722,Nashik,Company_63,Digital Marketing Specialist,1239205,4 years,Sample job description,2026-09-01
+J1723,Mumbai,Company_42,Supply Chain Coordinator,797247,1 years,Sample job description,2026-09-01
+J1724,Chhatrapati Sambhajinagar,Company_87,Warehouse Manager,462232,2 years,Sample job description,2026-09-01
+J1725,Chhatrapati Sambhajinagar,Company_24,Data Analyst,841492,3 years,Sample job description,2026-09-01
+J1726,Nagpur,Company_8,Digital Marketing Specialist,1169357,2 years,Sample job description,2026-09-01
+J1727,Pune,Company_78,Data Analyst,497729,0 years,Sample job description,2026-09-01
+J1728,Mumbai,Company_37,Cloud Architect,1268728,5 years,Sample job description,2026-09-01
+J1729,Pune,Company_57,Solar Grid Engineer,399056,5 years,Sample job description,2026-09-01
+J1730,Mumbai,Company_55,PLC Programmer,985937,1 years,Sample job description,2026-09-01
+J1731,Pune,Company_70,EV Battery Technician,860522,4 years,Sample job description,2026-09-01
+J1732,Chhatrapati Sambhajinagar,Company_97,Cloud Architect,1123130,4 years,Sample job description,2026-09-01
+J1733,Pune,Company_46,PLC Programmer,1447895,0 years,Sample job description,2026-09-01
+J1734,Pune,Company_22,Data Analyst,575597,4 years,Sample job description,2026-09-01
+J1735,Pune,Company_8,Solar Grid Engineer,1164098,0 years,Sample job description,2026-09-01
+J1736,Mumbai,Company_7,Cloud Architect,1263285,3 years,Sample job description,2026-09-01
+J1737,Mumbai,Company_8,Full Stack Developer,316890,1 years,Sample job description,2026-09-01
+J1738,Nagpur,Company_86,Supply Chain Coordinator,664945,1 years,Sample job description,2026-09-01
+J1739,Chhatrapati Sambhajinagar,Company_27,Supply Chain Coordinator,319633,2 years,Sample job description,2026-09-01
+J1740,Mumbai,Company_97,Data Analyst,1204036,0 years,Sample job description,2026-09-01
+J1741,Mumbai,Company_49,EV Battery Technician,944419,4 years,Sample job description,2026-09-01
+J1742,Nashik,Company_53,Supply Chain Coordinator,1273962,1 years,Sample job description,2026-09-01
+J1743,Nashik,Company_8,Data Analyst,1048319,3 years,Sample job description,2026-09-01
+J1744,Nagpur,Company_98,PLC Programmer,927875,3 years,Sample job description,2026-09-01
+J1745,Chhatrapati Sambhajinagar,Company_43,Warehouse Manager,1381649,1 years,Sample job description,2026-09-01
+J1746,Nashik,Company_87,Full Stack Developer,527463,3 years,Sample job description,2026-09-01
+J1747,Nagpur,Company_90,Full Stack Developer,1339293,5 years,Sample job description,2026-09-01
+J1748,Nashik,Company_16,Full Stack Developer,1134647,3 years,Sample job description,2026-09-01
+J1749,Nashik,Company_70,Robotics Maintenance Tech,1187172,0 years,Sample job description,2026-09-01
+J1750,Nashik,Company_99,Solar Grid Engineer,1101895,5 years,Sample job description,2026-09-01
+J1751,Pune,Company_88,Cloud Architect,417786,4 years,Sample job description,2026-09-01
+J1752,Mumbai,Company_97,Full Stack Developer,868064,1 years,Sample job description,2026-09-01
+J1753,Pune,Company_17,Robotics Maintenance Tech,1324422,0 years,Sample job description,2026-09-01
+J1754,Mumbai,Company_16,Data Analyst,355049,2 years,Sample job description,2026-09-01
+J1755,Mumbai,Company_41,Data Analyst,416643,4 years,Sample job description,2026-09-01
+J1756,Pune,Company_96,EV Battery Technician,468198,0 years,Sample job description,2026-09-01
+J1757,Nagpur,Company_72,Cloud Architect,493687,5 years,Sample job description,2026-09-01
+J1758,Pune,Company_4,PLC Programmer,681691,5 years,Sample job description,2026-09-01
+J1759,Nagpur,Company_78,Supply Chain Coordinator,1342844,1 years,Sample job description,2026-09-01
+J1760,Nashik,Company_53,EV Battery Technician,799659,2 years,Sample job description,2026-09-01
+J1761,Mumbai,Company_53,PLC Programmer,824050,5 years,Sample job description,2026-09-01
+J1762,Nashik,Company_58,Robotics Maintenance Tech,1352350,1 years,Sample job description,2026-09-01
+J1763,Nashik,Company_77,Solar Grid Engineer,807550,4 years,Sample job description,2026-09-01
+J1764,Nashik,Company_74,Full Stack Developer,402476,0 years,Sample job description,2026-09-01
+J1765,Chhatrapati Sambhajinagar,Company_6,EV Battery Technician,515846,0 years,Sample job description,2026-09-01
+J1766,Nagpur,Company_14,Cloud Architect,373521,3 years,Sample job description,2026-09-01
+J1767,Nashik,Company_73,Cloud Architect,504417,2 years,Sample job description,2026-09-01
+J1768,Nagpur,Company_39,Data Analyst,635443,0 years,Sample job description,2026-09-01
+J1769,Nagpur,Company_1,Digital Marketing Specialist,666992,0 years,Sample job description,2026-09-01
+J1770,Nashik,Company_81,Solar Grid Engineer,804238,0 years,Sample job description,2026-09-01
+J1771,Pune,Company_45,PLC Programmer,988316,2 years,Sample job description,2026-09-01
+J1772,Nagpur,Company_9,Solar Grid Engineer,589093,1 years,Sample job description,2026-09-01
+J1773,Mumbai,Company_43,Data Analyst,1040408,5 years,Sample job description,2026-09-01
+J1774,Pune,Company_68,Warehouse Manager,564567,3 years,Sample job description,2026-09-01
+J1775,Chhatrapati Sambhajinagar,Company_3,Cloud Architect,827010,2 years,Sample job description,2026-09-01
+J1776,Nagpur,Company_53,Cloud Architect,802344,4 years,Sample job description,2026-09-01
+J1777,Nagpur,Company_44,EV Battery Technician,1396012,2 years,Sample job description,2026-09-01
+J1778,Nagpur,Company_98,Robotics Maintenance Tech,934481,1 years,Sample job description,2026-09-01
+J1779,Nashik,Company_16,Full Stack Developer,474382,0 years,Sample job description,2026-09-01
+J1780,Mumbai,Company_71,Cloud Architect,416139,2 years,Sample job description,2026-09-01
+J1781,Chhatrapati Sambhajinagar,Company_73,Digital Marketing Specialist,327976,5 years,Sample job description,2026-09-01
+J1782,Nashik,Company_87,Cloud Architect,1172446,4 years,Sample job description,2026-09-01
+J1783,Nashik,Company_52,Warehouse Manager,556951,3 years,Sample job description,2026-09-01
+J1784,Nagpur,Company_87,Solar Grid Engineer,1176853,1 years,Sample job description,2026-09-01
+J1785,Pune,Company_32,PLC Programmer,927532,0 years,Sample job description,2026-09-01
+J1786,Nashik,Company_51,Robotics Maintenance Tech,731128,2 years,Sample job description,2026-09-01
+J1787,Nagpur,Company_77,Full Stack Developer,431747,5 years,Sample job description,2026-09-01
+J1788,Nagpur,Company_36,Solar Grid Engineer,1108666,5 years,Sample job description,2026-09-01
+J1789,Chhatrapati Sambhajinagar,Company_53,EV Battery Technician,1221620,4 years,Sample job description,2026-09-01
+J1790,Nagpur,Company_52,Full Stack Developer,1055744,4 years,Sample job description,2026-09-01
+J1791,Mumbai,Company_52,Supply Chain Coordinator,1480937,2 years,Sample job description,2026-09-01
+J1792,Mumbai,Company_76,Solar Grid Engineer,1240571,3 years,Sample job description,2026-09-01
+J1793,Mumbai,Company_84,Data Analyst,1237151,2 years,Sample job description,2026-09-01
+J1794,Pune,Company_3,Supply Chain Coordinator,1099304,5 years,Sample job description,2026-09-01
+J1795,Pune,Company_3,Warehouse Manager,1040430,2 years,Sample job description,2026-09-01
+J1796,Nagpur,Company_63,Robotics Maintenance Tech,1035980,5 years,Sample job description,2026-09-01
+J1797,Chhatrapati Sambhajinagar,Company_24,Full Stack Developer,1099914,3 years,Sample job description,2026-09-01
+J1798,Nashik,Company_96,Warehouse Manager,520260,0 years,Sample job description,2026-09-01
+J1799,Mumbai,Company_56,EV Battery Technician,1110734,0 years,Sample job description,2026-09-01
+J1800,Chhatrapati Sambhajinagar,Company_77,PLC Programmer,1456504,1 years,Sample job description,2026-09-01
+J1801,Pune,Company_20,Supply Chain Coordinator,400881,4 years,Sample job description,2026-09-01
+J1802,Mumbai,Company_14,Full Stack Developer,657784,2 years,Sample job description,2026-09-01
+J1803,Mumbai,Company_32,Warehouse Manager,1375026,3 years,Sample job description,2026-09-01
+J1804,Chhatrapati Sambhajinagar,Company_19,Solar Grid Engineer,905419,4 years,Sample job description,2026-09-01
+J1805,Nagpur,Company_48,EV Battery Technician,1425643,2 years,Sample job description,2026-09-01
+J1806,Pune,Company_42,Solar Grid Engineer,1373534,3 years,Sample job description,2026-09-01
+J1807,Pune,Company_55,Warehouse Manager,859085,2 years,Sample job description,2026-09-01
+J1808,Pune,Company_68,Solar Grid Engineer,712055,0 years,Sample job description,2026-09-01
+J1809,Mumbai,Company_8,Digital Marketing Specialist,470960,5 years,Sample job description,2026-09-01
+J1810,Nagpur,Company_62,PLC Programmer,364658,5 years,Sample job description,2026-09-01
+J1811,Chhatrapati Sambhajinagar,Company_42,Cloud Architect,1220067,4 years,Sample job description,2026-09-01
+J1812,Pune,Company_62,Robotics Maintenance Tech,568049,1 years,Sample job description,2026-09-01
+J1813,Nagpur,Company_55,Cloud Architect,738997,5 years,Sample job description,2026-09-01
+J1814,Nagpur,Company_36,Supply Chain Coordinator,649685,4 years,Sample job description,2026-09-01
+J1815,Chhatrapati Sambhajinagar,Company_45,EV Battery Technician,1008880,4 years,Sample job description,2026-09-01
+J1816,Nashik,Company_22,PLC Programmer,1042126,0 years,Sample job description,2026-09-01
+J1817,Chhatrapati Sambhajinagar,Company_84,Full Stack Developer,610813,2 years,Sample job description,2026-09-01
+J1818,Nashik,Company_59,Supply Chain Coordinator,1129576,1 years,Sample job description,2026-09-01
+J1819,Chhatrapati Sambhajinagar,Company_46,EV Battery Technician,709293,2 years,Sample job description,2026-09-01
+J1820,Nagpur,Company_57,Full Stack Developer,664766,4 years,Sample job description,2026-09-01
+J1821,Nagpur,Company_5,Robotics Maintenance Tech,312050,1 years,Sample job description,2026-09-01
+J1822,Nashik,Company_86,Supply Chain Coordinator,921566,0 years,Sample job description,2026-09-01
+J1823,Nashik,Company_33,Warehouse Manager,1395267,2 years,Sample job description,2026-09-01
+J1824,Mumbai,Company_99,Data Analyst,1090248,1 years,Sample job description,2026-09-01
+J1825,Nashik,Company_33,Warehouse Manager,888499,1 years,Sample job description,2026-09-01
+J1826,Mumbai,Company_96,EV Battery Technician,974337,2 years,Sample job description,2026-09-01
+J1827,Mumbai,Company_61,Robotics Maintenance Tech,601378,2 years,Sample job description,2026-09-01
+J1828,Pune,Company_4,PLC Programmer,617013,3 years,Sample job description,2026-09-01
+J1829,Nagpur,Company_7,Warehouse Manager,432114,0 years,Sample job description,2026-09-01
+J1830,Pune,Company_49,Supply Chain Coordinator,571170,3 years,Sample job description,2026-09-01
+J1831,Mumbai,Company_94,Solar Grid Engineer,593317,4 years,Sample job description,2026-09-01
+J1832,Chhatrapati Sambhajinagar,Company_84,Full Stack Developer,1259484,5 years,Sample job description,2026-09-01
+J1833,Nashik,Company_7,PLC Programmer,576378,5 years,Sample job description,2026-09-01
+J1834,Pune,Company_58,Supply Chain Coordinator,1270018,0 years,Sample job description,2026-09-01
+J1835,Mumbai,Company_44,Data Analyst,545148,0 years,Sample job description,2026-09-01
+J1836,Nagpur,Company_37,Supply Chain Coordinator,506492,1 years,Sample job description,2026-09-01
+J1837,Nashik,Company_77,Warehouse Manager,1434881,5 years,Sample job description,2026-09-01
+J1838,Nagpur,Company_41,Data Analyst,703354,5 years,Sample job description,2026-09-01
+J1839,Chhatrapati Sambhajinagar,Company_56,Digital Marketing Specialist,1161254,1 years,Sample job description,2026-09-01
+J1840,Pune,Company_12,Cloud Architect,754282,2 years,Sample job description,2026-09-01
+J1841,Nagpur,Company_62,Robotics Maintenance Tech,1249344,2 years,Sample job description,2026-09-01
+J1842,Nashik,Company_18,EV Battery Technician,490914,3 years,Sample job description,2026-09-01
+J1843,Nashik,Company_35,Cloud Architect,707597,1 years,Sample job description,2026-09-01
+J1844,Pune,Company_5,Cloud Architect,556428,0 years,Sample job description,2026-09-01
+J1845,Nashik,Company_51,EV Battery Technician,525178,4 years,Sample job description,2026-09-01
+J1846,Pune,Company_14,Digital Marketing Specialist,1438783,4 years,Sample job description,2026-09-01
+J1847,Nagpur,Company_4,EV Battery Technician,1231301,1 years,Sample job description,2026-09-01
+J1848,Pune,Company_83,Supply Chain Coordinator,1335699,3 years,Sample job description,2026-09-01
+J1849,Pune,Company_67,Solar Grid Engineer,1009372,1 years,Sample job description,2026-09-01
+J1850,Nagpur,Company_76,Full Stack Developer,1239728,4 years,Sample job description,2026-09-01
+J1851,Nashik,Company_31,EV Battery Technician,848957,1 years,Sample job description,2026-09-01
+J1852,Pune,Company_64,EV Battery Technician,411889,0 years,Sample job description,2026-09-01
+J1853,Pune,Company_71,Robotics Maintenance Tech,387052,0 years,Sample job description,2026-09-01
+J1854,Chhatrapati Sambhajinagar,Company_67,Robotics Maintenance Tech,412903,3 years,Sample job description,2026-09-01
+J1855,Nashik,Company_53,Warehouse Manager,364917,3 years,Sample job description,2026-09-01
+J1856,Pune,Company_70,Solar Grid Engineer,1350533,2 years,Sample job description,2026-09-01
+J1857,Chhatrapati Sambhajinagar,Company_79,Full Stack Developer,424636,3 years,Sample job description,2026-09-01
+J1858,Nashik,Company_13,Full Stack Developer,1365416,2 years,Sample job description,2026-09-01
+J1859,Nagpur,Company_57,PLC Programmer,1085052,0 years,Sample job description,2026-09-01
+J1860,Mumbai,Company_46,Supply Chain Coordinator,476137,3 years,Sample job description,2026-09-01
+J1861,Mumbai,Company_82,Full Stack Developer,717249,1 years,Sample job description,2026-09-01
+J1862,Nashik,Company_98,Solar Grid Engineer,1351157,5 years,Sample job description,2026-09-01
+J1863,Mumbai,Company_15,Warehouse Manager,1432571,0 years,Sample job description,2026-09-01
+J1864,Nashik,Company_17,Robotics Maintenance Tech,335672,1 years,Sample job description,2026-09-01
+J1865,Chhatrapati Sambhajinagar,Company_32,Warehouse Manager,413530,2 years,Sample job description,2026-09-01
+J1866,Mumbai,Company_50,Warehouse Manager,1335111,3 years,Sample job description,2026-09-01
+J1867,Mumbai,Company_22,Cloud Architect,922730,1 years,Sample job description,2026-09-01
+J1868,Chhatrapati Sambhajinagar,Company_32,PLC Programmer,1124843,1 years,Sample job description,2026-09-01
+J1869,Chhatrapati Sambhajinagar,Company_60,Warehouse Manager,854248,0 years,Sample job description,2026-09-01
+J1870,Chhatrapati Sambhajinagar,Company_49,Solar Grid Engineer,1014715,0 years,Sample job description,2026-09-01
+J1871,Nagpur,Company_32,Digital Marketing Specialist,841762,4 years,Sample job description,2026-09-01
+J1872,Mumbai,Company_97,PLC Programmer,555447,0 years,Sample job description,2026-09-01
+J1873,Mumbai,Company_85,EV Battery Technician,1129420,2 years,Sample job description,2026-09-01
+J1874,Chhatrapati Sambhajinagar,Company_63,Full Stack Developer,1474188,2 years,Sample job description,2026-09-01
+J1875,Nashik,Company_29,Full Stack Developer,1426544,4 years,Sample job description,2026-09-01
+J1876,Nashik,Company_25,Supply Chain Coordinator,1455007,2 years,Sample job description,2026-09-01
+J1877,Chhatrapati Sambhajinagar,Company_76,Full Stack Developer,754359,0 years,Sample job description,2026-09-01
+J1878,Pune,Company_16,Full Stack Developer,848942,4 years,Sample job description,2026-09-01
+J1879,Nagpur,Company_80,Digital Marketing Specialist,777212,0 years,Sample job description,2026-09-01
+J1880,Mumbai,Company_96,Solar Grid Engineer,894845,2 years,Sample job description,2026-09-01
+J1881,Chhatrapati Sambhajinagar,Company_55,Data Analyst,608077,0 years,Sample job description,2026-09-01
+J1882,Nashik,Company_71,Digital Marketing Specialist,1078694,0 years,Sample job description,2026-09-01
+J1883,Nagpur,Company_57,PLC Programmer,1288401,4 years,Sample job description,2026-09-01
+J1884,Chhatrapati Sambhajinagar,Company_41,EV Battery Technician,1140217,4 years,Sample job description,2026-09-01
+J1885,Nagpur,Company_59,Solar Grid Engineer,632342,2 years,Sample job description,2026-09-01
+J1886,Nashik,Company_26,PLC Programmer,766987,2 years,Sample job description,2026-09-01
+J1887,Pune,Company_37,Solar Grid Engineer,1096977,1 years,Sample job description,2026-09-01
+J1888,Chhatrapati Sambhajinagar,Company_96,Cloud Architect,1465531,5 years,Sample job description,2026-09-01
+J1889,Pune,Company_79,Robotics Maintenance Tech,826812,2 years,Sample job description,2026-09-01
+J1890,Pune,Company_18,Supply Chain Coordinator,1213677,0 years,Sample job description,2026-09-01
+J1891,Chhatrapati Sambhajinagar,Company_89,EV Battery Technician,1287830,2 years,Sample job description,2026-09-01
+J1892,Chhatrapati Sambhajinagar,Company_71,Solar Grid Engineer,786671,2 years,Sample job description,2026-09-01
+J1893,Mumbai,Company_51,PLC Programmer,646660,0 years,Sample job description,2026-09-01
+J1894,Chhatrapati Sambhajinagar,Company_57,Digital Marketing Specialist,1246105,5 years,Sample job description,2026-09-01
+J1895,Chhatrapati Sambhajinagar,Company_86,Cloud Architect,399024,2 years,Sample job description,2026-09-01
+J1896,Chhatrapati Sambhajinagar,Company_64,Digital Marketing Specialist,360817,5 years,Sample job description,2026-09-01
+J1897,Chhatrapati Sambhajinagar,Company_51,Solar Grid Engineer,675514,4 years,Sample job description,2026-09-01
+J1898,Nashik,Company_1,Solar Grid Engineer,572950,2 years,Sample job description,2026-09-01
+J1899,Pune,Company_88,Data Analyst,1469711,2 years,Sample job description,2026-09-01
+J1900,Nagpur,Company_10,EV Battery Technician,1446541,4 years,Sample job description,2026-09-01
+J1901,Chhatrapati Sambhajinagar,Company_100,Warehouse Manager,1490031,5 years,Sample job description,2026-09-01
+J1902,Pune,Company_31,Robotics Maintenance Tech,873940,5 years,Sample job description,2026-09-01
+J1903,Nagpur,Company_29,Cloud Architect,419193,4 years,Sample job description,2026-09-01
+J1904,Nashik,Company_5,PLC Programmer,556270,2 years,Sample job description,2026-09-01
+J1905,Mumbai,Company_52,Solar Grid Engineer,750770,5 years,Sample job description,2026-09-01
+J1906,Mumbai,Company_45,Data Analyst,417829,3 years,Sample job description,2026-09-01
+J1907,Pune,Company_32,Supply Chain Coordinator,1149081,5 years,Sample job description,2026-09-01
+J1908,Nagpur,Company_98,Full Stack Developer,1085014,1 years,Sample job description,2026-09-01
+J1909,Chhatrapati Sambhajinagar,Company_3,Solar Grid Engineer,738401,5 years,Sample job description,2026-09-01
+J1910,Nashik,Company_59,PLC Programmer,1197552,1 years,Sample job description,2026-09-01
+J1911,Mumbai,Company_54,Cloud Architect,400891,1 years,Sample job description,2026-09-01
+J1912,Chhatrapati Sambhajinagar,Company_84,Robotics Maintenance Tech,383966,4 years,Sample job description,2026-09-01
+J1913,Nagpur,Company_90,Cloud Architect,1468366,3 years,Sample job description,2026-09-01
+J1914,Nagpur,Company_26,Solar Grid Engineer,464542,0 years,Sample job description,2026-09-01
+J1915,Pune,Company_85,Digital Marketing Specialist,342678,3 years,Sample job description,2026-09-01
+J1916,Pune,Company_31,Digital Marketing Specialist,878680,3 years,Sample job description,2026-09-01
+J1917,Pune,Company_43,Warehouse Manager,764326,0 years,Sample job description,2026-09-01
+J1918,Chhatrapati Sambhajinagar,Company_21,Warehouse Manager,1090945,5 years,Sample job description,2026-09-01
+J1919,Chhatrapati Sambhajinagar,Company_82,EV Battery Technician,1048275,1 years,Sample job description,2026-09-01
+J1920,Mumbai,Company_12,Digital Marketing Specialist,1346347,3 years,Sample job description,2026-09-01
+J1921,Pune,Company_55,Supply Chain Coordinator,1171090,2 years,Sample job description,2026-09-01
+J1922,Mumbai,Company_72,Cloud Architect,805552,3 years,Sample job description,2026-09-01
+J1923,Nagpur,Company_18,EV Battery Technician,1440442,5 years,Sample job description,2026-09-01
+J1924,Chhatrapati Sambhajinagar,Company_21,Supply Chain Coordinator,1072333,2 years,Sample job description,2026-09-01
+J1925,Mumbai,Company_56,Digital Marketing Specialist,1364319,2 years,Sample job description,2026-09-01
+J1926,Pune,Company_9,Cloud Architect,989044,5 years,Sample job description,2026-09-01
+J1927,Pune,Company_68,Solar Grid Engineer,1063346,3 years,Sample job description,2026-09-01
+J1928,Chhatrapati Sambhajinagar,Company_92,Robotics Maintenance Tech,684186,5 years,Sample job description,2026-09-01
+J1929,Pune,Company_44,Full Stack Developer,496141,2 years,Sample job description,2026-09-01
+J1930,Nagpur,Company_70,Warehouse Manager,569941,2 years,Sample job description,2026-09-01
+J1931,Mumbai,Company_44,Digital Marketing Specialist,301051,4 years,Sample job description,2026-09-01
+J1932,Mumbai,Company_30,Warehouse Manager,742292,5 years,Sample job description,2026-09-01
+J1933,Pune,Company_41,Warehouse Manager,1208345,3 years,Sample job description,2026-09-01
+J1934,Mumbai,Company_49,Data Analyst,617529,5 years,Sample job description,2026-09-01
+J1935,Chhatrapati Sambhajinagar,Company_54,EV Battery Technician,1233562,5 years,Sample job description,2026-09-01
+J1936,Mumbai,Company_18,PLC Programmer,1295320,5 years,Sample job description,2026-09-01
+J1937,Pune,Company_49,Full Stack Developer,534430,1 years,Sample job description,2026-09-01
+J1938,Pune,Company_91,Full Stack Developer,982186,1 years,Sample job description,2026-09-01
+J1939,Nagpur,Company_81,PLC Programmer,429387,0 years,Sample job description,2026-09-01
+J1940,Pune,Company_82,Full Stack Developer,743448,3 years,Sample job description,2026-09-01
+J1941,Chhatrapati Sambhajinagar,Company_86,EV Battery Technician,350860,3 years,Sample job description,2026-09-01
+J1942,Chhatrapati Sambhajinagar,Company_56,Cloud Architect,363958,3 years,Sample job description,2026-09-01
+J1943,Nashik,Company_55,Supply Chain Coordinator,716392,2 years,Sample job description,2026-09-01
+J1944,Chhatrapati Sambhajinagar,Company_21,Supply Chain Coordinator,711169,4 years,Sample job description,2026-09-01
+J1945,Chhatrapati Sambhajinagar,Company_44,Full Stack Developer,1421606,5 years,Sample job description,2026-09-01
+J1946,Chhatrapati Sambhajinagar,Company_72,Supply Chain Coordinator,1061317,4 years,Sample job description,2026-09-01
+J1947,Mumbai,Company_7,Warehouse Manager,1358235,0 years,Sample job description,2026-09-01
+J1948,Pune,Company_63,Data Analyst,1241508,5 years,Sample job description,2026-09-01
+J1949,Mumbai,Company_87,EV Battery Technician,1326865,3 years,Sample job description,2026-09-01
+J1950,Pune,Company_67,Cloud Architect,1111904,5 years,Sample job description,2026-09-01
+J1951,Nashik,Company_46,PLC Programmer,553734,2 years,Sample job description,2026-09-01
+J1952,Chhatrapati Sambhajinagar,Company_63,Data Analyst,996632,2 years,Sample job description,2026-09-01
+J1953,Mumbai,Company_100,Supply Chain Coordinator,753489,0 years,Sample job description,2026-09-01
+J1954,Mumbai,Company_40,Digital Marketing Specialist,807020,1 years,Sample job description,2026-09-01
+J1955,Mumbai,Company_7,Full Stack Developer,788420,4 years,Sample job description,2026-09-01
+J1956,Nagpur,Company_7,Full Stack Developer,1395093,5 years,Sample job description,2026-09-01
+J1957,Nagpur,Company_6,Data Analyst,734017,5 years,Sample job description,2026-09-01
+J1958,Nagpur,Company_86,Robotics Maintenance Tech,348997,1 years,Sample job description,2026-09-01
+J1959,Pune,Company_63,Robotics Maintenance Tech,1072540,3 years,Sample job description,2026-09-01
+J1960,Mumbai,Company_28,Robotics Maintenance Tech,1292263,3 years,Sample job description,2026-09-01
+J1961,Mumbai,Company_71,Robotics Maintenance Tech,1330612,4 years,Sample job description,2026-09-01
+J1962,Nashik,Company_48,Cloud Architect,1250239,5 years,Sample job description,2026-09-01
+J1963,Mumbai,Company_89,Data Analyst,834763,3 years,Sample job description,2026-09-01
+J1964,Chhatrapati Sambhajinagar,Company_35,Supply Chain Coordinator,873270,1 years,Sample job description,2026-09-01
+J1965,Pune,Company_27,Warehouse Manager,926702,2 years,Sample job description,2026-09-01
+J1966,Nagpur,Company_88,EV Battery Technician,386012,4 years,Sample job description,2026-09-01
+J1967,Nashik,Company_98,Warehouse Manager,451413,0 years,Sample job description,2026-09-01
+J1968,Nagpur,Company_32,Full Stack Developer,306002,2 years,Sample job description,2026-09-01
+J1969,Chhatrapati Sambhajinagar,Company_97,PLC Programmer,1291888,0 years,Sample job description,2026-09-01
+J1970,Nashik,Company_32,Data Analyst,974388,1 years,Sample job description,2026-09-01
+J1971,Nagpur,Company_14,Supply Chain Coordinator,983408,5 years,Sample job description,2026-09-01
+J1972,Chhatrapati Sambhajinagar,Company_94,Cloud Architect,1304987,1 years,Sample job description,2026-09-01
+J1973,Chhatrapati Sambhajinagar,Company_90,Data Analyst,726975,2 years,Sample job description,2026-09-01
+J1974,Pune,Company_45,EV Battery Technician,1047924,2 years,Sample job description,2026-09-01
+J1975,Chhatrapati Sambhajinagar,Company_87,Solar Grid Engineer,1350408,1 years,Sample job description,2026-09-01
+J1976,Pune,Company_17,Full Stack Developer,613759,0 years,Sample job description,2026-09-01
+J1977,Chhatrapati Sambhajinagar,Company_19,Full Stack Developer,1338609,3 years,Sample job description,2026-09-01
+J1978,Pune,Company_41,Warehouse Manager,1415265,1 years,Sample job description,2026-09-01
+J1979,Mumbai,Company_50,Solar Grid Engineer,494758,0 years,Sample job description,2026-09-01
+J1980,Nagpur,Company_55,Digital Marketing Specialist,1471838,2 years,Sample job description,2026-09-01
+J1981,Pune,Company_80,Full Stack Developer,898122,5 years,Sample job description,2026-09-01
+J1982,Mumbai,Company_50,Supply Chain Coordinator,902651,4 years,Sample job description,2026-09-01
+J1983,Chhatrapati Sambhajinagar,Company_78,Solar Grid Engineer,550374,5 years,Sample job description,2026-09-01
+J1984,Nashik,Company_71,Cloud Architect,826435,2 years,Sample job description,2026-09-01
+J1985,Pune,Company_4,Full Stack Developer,574220,3 years,Sample job description,2026-09-01
+J1986,Chhatrapati Sambhajinagar,Company_29,Full Stack Developer,1306628,3 years,Sample job description,2026-09-01
+J1987,Nashik,Company_3,Robotics Maintenance Tech,1347977,2 years,Sample job description,2026-09-01
+J1988,Nagpur,Company_42,Full Stack Developer,857782,4 years,Sample job description,2026-09-01
+J1989,Pune,Company_59,Digital Marketing Specialist,1021961,3 years,Sample job description,2026-09-01
+J1990,Nashik,Company_65,EV Battery Technician,1030025,2 years,Sample job description,2026-09-01
+J1991,Mumbai,Company_22,Cloud Architect,817099,5 years,Sample job description,2026-09-01
+J1992,Pune,Company_11,Cloud Architect,449954,3 years,Sample job description,2026-09-01
+J1993,Nashik,Company_28,Supply Chain Coordinator,1220919,2 years,Sample job description,2026-09-01
+J1994,Pune,Company_48,Cloud Architect,876378,4 years,Sample job description,2026-09-01
+J1995,Nagpur,Company_30,Digital Marketing Specialist,760482,4 years,Sample job description,2026-09-01
+J1996,Chhatrapati Sambhajinagar,Company_17,Robotics Maintenance Tech,1085590,1 years,Sample job description,2026-09-01
+J1997,Pune,Company_55,Full Stack Developer,707352,3 years,Sample job description,2026-09-01
+J1998,Nashik,Company_25,Cloud Architect,418463,4 years,Sample job description,2026-09-01
+J1999,Nashik,Company_23,Data Analyst,1029471,5 years,Sample job description,2026-09-01
+J2000,Pune,Company_23,EV Battery Technician,1297560,4 years,Sample job description,2026-09-01
