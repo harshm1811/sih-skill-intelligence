@@ -96,15 +96,21 @@ def process_job_description(text: str) -> Dict[str, Any]:
 # -------------------------------------------------------------
 def get_dashboard_metrics() -> Dict[str, Any]:
     analytics_data = load_analytics_json("dashboard.json")
+
     if analytics_data:
-        return analytics_data
+        return {
+            "total_jobs": DASHBOARD_DATA["total_jobs"],
+            "total_skills": DASHBOARD_DATA["total_skills"],
+            "critical_gaps": DASHBOARD_DATA["critical_gaps"],
+            "courses_needing_review": DASHBOARD_DATA["courses_needing_review"],
+        }
+
     return {
         "total_jobs": DASHBOARD_DATA["total_jobs"],
         "total_skills": DASHBOARD_DATA["total_skills"],
         "critical_gaps": DASHBOARD_DATA["critical_gaps"],
         "courses_needing_review": DASHBOARD_DATA["courses_needing_review"],
     }
-
 
 # -------------------------------------------------------------
 # 3. Districts Intelligence Service
@@ -122,11 +128,33 @@ def _normalize_district_id(district_id: str) -> str:
     }
     return aliases.get(norm, norm)
 
-
 def get_all_districts() -> Any:
+
     analytics_districts = load_analytics_json("district_analysis.json")
+
     if analytics_districts:
-        return analytics_districts
+        if isinstance(analytics_districts, dict) and "districts" in analytics_districts:
+            district_data = analytics_districts["districts"]
+
+            if isinstance(district_data, dict):
+                return [
+                    {
+                        "id": d["district_id"],
+                        "name": d["district_name"],
+                        "total_jobs": d["total_job_demand"],
+                        "critical_gaps_count": len(
+                            d.get("skills_analysis", {}).get("critical_gaps", [])
+                        ),
+                        "top_sector": d["industrial_focus"],
+                    }
+                    for d in district_data.values()
+                ]
+
+            return district_data
+
+        if isinstance(analytics_districts, list):
+            return analytics_districts
+
     return [
         {
             "id": d["id"],
@@ -267,20 +295,53 @@ def get_all_skill_gaps(
     district: Optional[str] = None, priority: Optional[str] = None
 ) -> List[Dict[str, Any]]:
     """
-    Reads analytics/output/skill_gaps.json if present (fallback to representative dataset).
-    Supports filtering by ?district=Pune and ?priority=CRITICAL.
-    """
-    items = load_analytics_json("skill_gaps.json")
-    if not items:
-        items = list(SKILLS_GAP_DATA.values())
+    Reads district-wise skill gap data from analytics/output/skill_gaps.json.
 
-    if district:
-        d_lower = district.strip().lower()
-        items = [i for i in items if i.get("district", "").strip().lower() == d_lower]
+    Supports filtering by:
+    ?district=Pune
+    ?priority=CRITICAL
+    """
+
+    analytics_data = load_analytics_json("skill_gaps.json")
+
+    if analytics_data and isinstance(analytics_data, dict):
+        by_district = analytics_data.get("by_district", {})
+
+        if district:
+            d_lower = district.strip().lower()
+
+            district_items = []
+            for name, records in by_district.items():
+                if name.strip().lower() == d_lower:
+                    district_items = records
+                    break
+
+            items = district_items
+        else:
+            items = [
+                record
+                for records in by_district.values()
+                for record in records
+            ]
+
+        # Map analytics field names to existing API contract
+        items = [
+            {
+                **item,
+                "gap": item.get("skill_gap", item.get("gap", 0)),
+            }
+            for item in items
+        ]
+
+    else:
+        items = list(SKILLS_GAP_DATA.values())
 
     if priority:
         p_upper = priority.strip().upper()
-        items = [i for i in items if i.get("priority", "").strip().upper() == p_upper]
+        items = [
+            i for i in items
+            if i.get("priority", "").strip().upper() == p_upper
+        ]
 
     return items
 
