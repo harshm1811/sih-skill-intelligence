@@ -55,8 +55,16 @@ sih-skill-intelligence/
 ├── test_backend.py             # [Testing] Automated test suite verifying all 11 API endpoints and contracts
 ├── test_analytics.py           # [Testing] Unit tests for NLP extraction, normalization, and recommendations
 ├── requirements.txt            # Python dependencies (FastAPI, Uvicorn, Pandas, Pydantic)
+├── vercel.json                 # [Deployment] Root Vercel deployment config for Vite frontend
 ├── .gitignore                  # Git ignore rules for virtual environments, caches, and local DBs
-└── README.md                   # Complete system documentation
+├── README.md                   # Complete system documentation
+│
+└── frontend/                   # [Frontend] React 18 + Vite Web Application
+    ├── package.json            # Node.js dependencies and build scripts
+    ├── vite.config.js          # Vite build configuration
+    ├── vercel.json             # SPA routing rewrite rules for Vercel
+    ├── index.html              # HTML entry point
+    └── src/                    # React source code (components, pages, services, styles)
 ```
 
 ---
@@ -64,8 +72,8 @@ sih-skill-intelligence/
 ## 2. Installation & Quickstart
 
 ### Prerequisites
-- Python 3.10+ (tested on Python 3.14)
-- `pip`
+- Python 3.10+ (tested on Python 3.14) & `pip`
+- Node.js 18+ & `npm` (for the React frontend)
 
 ### Step 1: Clone and Navigate
 ```bash
@@ -73,20 +81,21 @@ git clone https://github.com/your-repo/sih-skill-intelligence.git
 cd sih-skill-intelligence
 ```
 
-### Step 2: (Optional) Set up a Virtual Environment
+### Step 2: Set up Backend Dependencies
 ```bash
-# On Windows:
+# (Optional) Create virtual environment
 python -m venv venv
-venv\Scripts\activate
+# Windows: venv\Scripts\activate | macOS/Linux: source venv/bin/activate
 
-# On macOS/Linux:
-python3 -m venv venv
-source venv/bin/activate
+# Install Python requirements
+pip install -r requirements.txt
 ```
 
-### Step 3: Install Dependencies
+### Step 3: Set up Frontend Dependencies
 ```bash
-pip install -r requirements.txt
+cd frontend
+npm install
+cd ..
 ```
 
 ---
@@ -106,7 +115,7 @@ python preview.py
 ```
 
 ### C. Start FastAPI Backend Server
-Run the REST API server for the React frontend:
+Run the REST API server on `http://localhost:8000`:
 ```bash
 # Option 1 (Direct script execution):
 python main.py
@@ -119,7 +128,15 @@ uvicorn main:app --reload --port 8000
 * **Alternative ReDoc UI**: `http://localhost:8000/redoc`
 * **CORS**: Enabled for all origins (`"*"`) for seamless frontend connection (Vite/React).
 
-### D. Run Automated Test Suites
+### D. Start React Frontend (Vite Dev Server)
+In a separate terminal, launch the client-side UI:
+```bash
+cd frontend
+npm run dev
+```
+* **Frontend Local URL**: `http://localhost:5173`
+
+### E. Run Automated Test Suites
 ```bash
 # Run backend API contract tests (11/11 tests pass):
 python test_backend.py
@@ -127,6 +144,13 @@ python test_backend.py
 # Run NLP extraction, normalization, and recommendation tests:
 python test_analytics.py
 ```
+
+### F. Cloud Deployment (Vercel)
+The repository includes `vercel.json` configured for zero-config Vercel deployment:
+- **Build Command**: `cd frontend && npm install && npm run build`
+- **Output Directory**: `frontend/dist`
+- **Framework**: `vite`
+- SPA client-side routes automatically route to `/index.html`.
 
 ---
 
@@ -344,7 +368,7 @@ Content-Type: application/json
 
 | Role | Member | Primary Modules & Files |
 |---|---|---|
-| **Person 1** | Frontend Developer | React / Vite UI dashboard, charts, tables, interactive forms |
+| **Person 1** | Frontend Developer | `frontend/` (React 18 + Vite SPA, pages, components, `vercel.json`) |
 | **Person 2** | Backend Developer | `main.py`, `services.py`, `data.py`, `test_backend.py`, CORS setup |
 | **Person 3** | Data & Analytics | `data/*.csv`, `analytics/`, `run_analytics.py`, `preview.py` |
 | **Person 4** | AI / NLP Engineer | `skill_extraction.py`, `skill_normalization.py`, `recommendation_engine.py` |
