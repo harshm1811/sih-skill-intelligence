@@ -136,6 +136,15 @@ def list_districts():
     return services.get_all_districts()
 
 
+@app.get("/api/districts/training-plans", tags=["Training Plan", "Data Analytics"])
+def get_all_training_plans():
+    """
+    Person 3 Data Analytics endpoint:
+    Reads pre-calculated training plans across all districts from analytics/output/training_plans.json.
+    """
+    return services.get_all_training_plans()
+
+
 @app.get("/api/districts/{district_id}", response_model=DistrictDetail, tags=["Districts"])
 def get_district(district_id: str = Path(..., description="District name or slug (e.g. 'pune')")):
     """District intelligence: active jobs, top in-demand roles, skills, and critical gaps."""
@@ -192,14 +201,6 @@ def get_recommendations(
     """Actionable recommendations: curriculum revisions, new modules, and lab upgrades."""
     return services.get_recommendations(district=district, skill=skill)
 
-
-@app.get("/api/districts/training-plans", tags=["Training Plan", "Data Analytics"])
-def get_all_training_plans():
-    """
-    Person 3 Data Analytics endpoint:
-    Reads pre-calculated training plans across all districts from analytics/output/training_plans.json.
-    """
-    return services.get_all_training_plans()
 
 
 @app.get("/api/training-plan/{district}", response_model=DistrictTrainingPlanResponse, tags=["Training Plan"])
